@@ -1,0 +1,12 @@
+{
+    "udp:\/\/tracker.opentrackr.org:1337\/announce": {
+        "status": "Good",
+        "response_time": 49,
+        "last_checked": "12-11-2018 06:08:11"
+    },
+    "udp:\/\/exodus.desync.com:6969\/announce": {
+        "status": "Good",
+        "response_time": 2,
+        "last_checked": "12-11-2018 06:08:12"
+    }
+}
