@@ -503,5 +503,10 @@
         "url": "http:\/\/tracker4.itzmx.com:2710\/announce",
         "reason": "Possible duplicate of http:\/\/tracker4.itzmx.com:6961\/announce",
         "last_checked": "30-10-2018 02:23:47"
+    },
+    {
+        "url": "udp:\/\/tracker4.itzmx.com:2710\/announce",
+        "reason": "Possible duplicate of http:\/\/tracker4.itzmx.com:2710\/announce",
+        "last_checked": "12-11-2018 05:56:25"
     }
 ]

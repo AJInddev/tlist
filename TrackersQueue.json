@@ -1,7 +1,7 @@
 {
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:29:17",
+        "last_checked": "12-11-2018 06:19:01",
         "response_time": null
     },
     "http:\/\/tracker.port443.xyz:6969\/announce": {
@@ -16,46 +16,67 @@
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:30:10",
+        "last_checked": "12-11-2018 06:19:11",
         "response_time": null
     },
     "http:\/\/tracker.city9x.com:2710\/announce": {
         "status": "Down",
-        "last_checked": "30-10-2018 02:23:51"
+        "last_checked": "12-11-2018 06:19:27",
+        "response_time": "-"
     },
     "http:\/\/retracker.mgts.by:80\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:30:10",
+        "last_checked": "12-11-2018 06:19:36",
         "response_time": null
     },
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:30:05",
+        "last_checked": "12-11-2018 06:19:39",
         "response_time": null
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:30:10",
+        "last_checked": "12-11-2018 06:19:36",
         "response_time": null
     },
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:30:12",
+        "last_checked": "12-11-2018 06:19:36",
         "response_time": null
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:30:13",
+        "last_checked": "12-11-2018 06:19:37",
         "response_time": null
     },
     "http:\/\/share.camoe.cn:8080\/announce": {
         "status": "Down",
-        "last_checked": "01-11-2018 03:30:16",
+        "last_checked": "12-11-2018 06:19:43",
         "response_time": null
     },
     "udp:\/\/open.stealth.si:80\/announce": {
         "status": "Down",
         "response_time": null,
         "last_checked": "01-11-2018 03:29:43"
+    },
+    "http:\/\/tracker3.itzmx.com:6961\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "12-11-2018 06:19:20"
+    },
+    "http:\/\/t.nyaatracker.com:80\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "12-11-2018 06:19:35"
+    },
+    "http:\/\/open.acgnxtracker.com:80\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "12-11-2018 06:19:25"
+    },
+    "http:\/\/tracker1.itzmx.com:8080\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "12-11-2018 06:19:08"
     }
 }
