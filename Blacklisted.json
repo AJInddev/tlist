@@ -508,5 +508,25 @@
         "url": "udp:\/\/tracker4.itzmx.com:2710\/announce",
         "reason": "Possible duplicate of http:\/\/tracker4.itzmx.com:2710\/announce",
         "last_checked": "12-11-2018 05:56:25"
+    },
+    {
+        "url": "http:\/\/torrent.resonatingmedia.com:6969\/announce",
+        "reason": "registered torrents",
+        "last_checked": "18-11-2018 05:32:01"
+    },
+    {
+        "url": "http:\/\/tracker.btsync.gq:2710\/announce",
+        "reason": "duplicate of http:\/\/tracker.btsync.gq:233\/announce",
+        "last_checked": "18-11-2018 05:32:01"
+    },
+    {
+        "url": "udp:\/\/tracker.btsync.gq:233\/announce",
+        "reason": "Possible duplicate of http:\/\/tracker.btsync.gq:2710\/announce",
+        "last_checked": "19-11-2018 11:13:22"
+    },
+    {
+        "url": "http:\/\/tracker.btsync.gq:233\/announce",
+        "reason": "Possible duplicate of udp:\/\/tracker.btsync.gq:233\/announce",
+        "last_checked": "19-11-2018 11:13:23"
     }
 ]
