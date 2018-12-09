@@ -2,12 +2,12 @@
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:02"
+        "last_checked": "09-12-2018 06:04:02"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "09-12-2018 06:03:10"
+        "last_checked": "09-12-2018 06:04:11"
     },
     "http:\/\/tracker.city9x.com:2710\/announce": {
         "status": "Down",
@@ -17,47 +17,47 @@
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:14"
+        "last_checked": "09-12-2018 06:04:15"
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:15"
+        "last_checked": "09-12-2018 06:04:16"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:15"
+        "last_checked": "09-12-2018 06:04:18"
     },
     "http:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "09-12-2018 06:01:17"
+        "last_checked": "09-12-2018 06:04:20"
     },
     "http:\/\/retracker.mgts.by:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:20"
+        "last_checked": "09-12-2018 06:04:21"
     },
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:21"
+        "last_checked": "09-12-2018 06:04:22"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:21"
+        "last_checked": "09-12-2018 06:04:22"
     },
     "http:\/\/share.camoe.cn:8080\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "09-12-2018 06:03:24"
+        "last_checked": "09-12-2018 06:04:25"
     },
     "http:\/\/agusiq-torrents.pl:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "09-12-2018 06:03:27"
+        "last_checked": "09-12-2018 06:04:28"
     },
     "http:\/\/open.acgnxtracker.com:80\/announce": {
         "status": "Down",
@@ -68,5 +68,10 @@
         "status": "Down",
         "response_time": "-",
         "last_checked": "09-12-2018 06:03:20"
+    },
+    "http:\/\/tracker.tvunderground.org.ru:3218\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "09-12-2018 06:04:18"
     }
 }
