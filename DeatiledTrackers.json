@@ -1,1 +1,783 @@
-null
+{
+    "udp:\/\/tracker.internetwarriors.net:1337\/announce": {
+        "status": "Good",
+        "response_time": 2,
+        "last_checked": "09-12-2018 06:14:01",
+        "ipinfo": {
+            "185.225.17.100": {
+                "ccode": "RO",
+                "cname": "Romania",
+                "isp": "MivoCloud Solutions SRL"
+            }
+        }
+    },
+    "udp:\/\/tracker.opentrackr.org:1337\/announce": {
+        "status": "Good",
+        "response_time": 16,
+        "last_checked": "09-12-2018 06:14:01",
+        "ipinfo": {
+            "51.15.4.13": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "Online SAS NL"
+            }
+        }
+    },
+    "udp:\/\/exodus.desync.com:6969\/announce": {
+        "status": "Good",
+        "response_time": 48,
+        "last_checked": "09-12-2018 06:14:02",
+        "ipinfo": {
+            "208.83.20.20": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": ""
+            },
+            "2607:f178::32:0:0:0:3": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Desync Networks"
+            }
+        }
+    },
+    "udp:\/\/explodie.org:6969\/announce": {
+        "status": "Good",
+        "response_time": 2,
+        "last_checked": "09-12-2018 06:14:02",
+        "ipinfo": {
+            "184.105.151.164": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Kirenion LLC"
+            },
+            "2001:470:1:189::1:2:3": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Hurricane Electric LLC"
+            }
+        }
+    },
+    "http:\/\/explodie.org:6969\/announce": {
+        "status": "Good",
+        "response_time": 83,
+        "last_checked": "09-12-2018 06:14:02",
+        "ipinfo": {
+            "184.105.151.164": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Kirenion LLC"
+            },
+            "2001:470:1:189::1:2:3": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Hurricane Electric LLC"
+            }
+        }
+    },
+    "udp:\/\/ipv4.tracker.harry.lu:80\/announce": {
+        "status": "Good",
+        "response_time": 16,
+        "last_checked": "09-12-2018 06:14:02",
+        "ipinfo": {
+            "51.15.40.114": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "Online SAS NL"
+            }
+        }
+    },
+    "udp:\/\/tracker1.itzmx.com:8080\/announce": {
+        "status": "Good",
+        "response_time": 50,
+        "last_checked": "09-12-2018 06:14:03",
+        "ipinfo": {
+            "128.1.203.23": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Zenlayer Inc"
+            }
+        }
+    },
+    "http:\/\/tracker1.itzmx.com:8080\/announce": {
+        "status": "Good",
+        "response_time": 110,
+        "last_checked": "09-12-2018 06:14:03",
+        "ipinfo": {
+            "128.1.203.23": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Zenlayer Inc"
+            }
+        }
+    },
+    "udp:\/\/tracker.torrent.eu.org:451\/announce": {
+        "status": "Good",
+        "response_time": 113,
+        "last_checked": "09-12-2018 06:14:03",
+        "ipinfo": {
+            "89.234.156.205": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "Association TETANEUTRAL.NET"
+            },
+            "2a03:7220:8083:cd00::1": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "Tetaneutral.net"
+            }
+        }
+    },
+    "udp:\/\/tracker.port443.xyz:6969\/announce": {
+        "status": "Good",
+        "response_time": 76,
+        "last_checked": "09-12-2018 06:14:04",
+        "ipinfo": {
+            "51.38.184.185": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH"
+            },
+            "2001:41d0:305:2100::16a3": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH SAS"
+            }
+        }
+    },
+    "udp:\/\/open.demonii.si:1337\/announce": {
+        "status": "Good",
+        "response_time": 26,
+        "last_checked": "09-12-2018 06:14:04",
+        "ipinfo": {
+            "5.2.79.219": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "Liteserver DRN VPS"
+            }
+        }
+    },
+    "http:\/\/tracker.port443.xyz:6969\/announce": {
+        "status": "Good",
+        "response_time": 11,
+        "last_checked": "09-12-2018 06:14:04",
+        "ipinfo": {
+            "51.38.184.185": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH"
+            },
+            "2001:41d0:305:2100::16a3": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH SAS"
+            }
+        }
+    },
+    "udp:\/\/thetracker.org:80\/announce": {
+        "status": "Good",
+        "response_time": 24,
+        "last_checked": "09-12-2018 06:14:04",
+        "ipinfo": {
+            "176.31.106.35": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH SAS"
+            }
+        }
+    },
+    "udp:\/\/retracker.lanta-net.ru:2710\/announce": {
+        "status": "Good",
+        "response_time": 16,
+        "last_checked": "09-12-2018 06:14:05",
+        "ipinfo": {
+            "37.235.174.46": {
+                "ccode": "RU",
+                "cname": "Russia",
+                "isp": "LANTA Ltd"
+            }
+        }
+    },
+    "udp:\/\/open.stealth.si:80\/announce": {
+        "status": "Good",
+        "response_time": 75,
+        "last_checked": "09-12-2018 06:14:05",
+        "ipinfo": {
+            "188.246.227.212": {
+                "ccode": "RU",
+                "cname": "Russia",
+                "isp": ""
+            }
+        }
+    },
+    "udp:\/\/bt.xxx-tracker.com:2710\/announce": {
+        "status": "Good",
+        "response_time": 19,
+        "last_checked": "09-12-2018 06:14:05",
+        "ipinfo": {
+            "95.211.168.204": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "LeaseWeb Netherlands B.V."
+            }
+        }
+    },
+    "udp:\/\/tracker.vanitycore.co:6969\/announce": {
+        "status": "Good",
+        "response_time": 26,
+        "last_checked": "09-12-2018 06:14:05",
+        "ipinfo": {
+            "51.15.76.199": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "Online SAS"
+            }
+        }
+    },
+    "udp:\/\/tracker.uw0.xyz:6969\/announce": {
+        "status": "Good",
+        "response_time": 29,
+        "last_checked": "09-12-2018 06:14:06",
+        "ipinfo": {
+            "185.83.215.123": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "Uw0 Tracker"
+            }
+        }
+    },
+    "udp:\/\/tracker.iamhansen.xyz:2000\/announce": {
+        "status": "Good",
+        "response_time": 86,
+        "last_checked": "09-12-2018 06:14:06",
+        "ipinfo": {
+            "8.9.31.140": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "CHOOPA.COM"
+            }
+        }
+    },
+    "udp:\/\/zephir.monocul.us:6969\/announce": {
+        "status": "Good",
+        "response_time": 17,
+        "last_checked": "09-12-2018 06:14:06",
+        "ipinfo": {
+            "212.47.227.58": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "ONLINE"
+            }
+        }
+    },
+    "udp:\/\/tracker.cyberia.is:6969\/announce": {
+        "status": "Good",
+        "response_time": 16,
+        "last_checked": "09-12-2018 06:14:06",
+        "ipinfo": {
+            "159.100.245.181": {
+                "ccode": "GB",
+                "cname": "United Kingdom",
+                "isp": "Trrlnet"
+            },
+            "2a04:c44:e00:32e0:4cf:6aff:fe00:aa1": {
+                "ccode": "CH",
+                "cname": "Switzerland",
+                "isp": "Akenes"
+            }
+        }
+    },
+    "https:\/\/tracker.fastdownload.xyz:443\/announce": {
+        "status": "Good",
+        "response_time": 29,
+        "last_checked": "09-12-2018 06:14:07",
+        "ipinfo": {
+            "104.31.71.251": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.31.70.251": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "https:\/\/opentracker.xyz:443\/announce": {
+        "status": "Good",
+        "response_time": 18,
+        "last_checked": "09-12-2018 06:14:07",
+        "ipinfo": {
+            "104.28.2.5": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.28.3.5": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "http:\/\/torrent.nwps.ws:80\/announce": {
+        "status": "Good",
+        "response_time": 85,
+        "last_checked": "09-12-2018 06:14:10",
+        "ipinfo": {
+            "104.31.141.11": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.31.140.11": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "2606:4700:30::681f:8d0b": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "2606:4700:30::681f:8c0b": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "http:\/\/opentracker.xyz:80\/announce": {
+        "status": "Good",
+        "response_time": 86,
+        "last_checked": "09-12-2018 06:14:11",
+        "ipinfo": {
+            "104.28.2.5": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.28.3.5": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "http:\/\/open.trackerlist.xyz:80\/announce": {
+        "status": "Good",
+        "response_time": 18,
+        "last_checked": "09-12-2018 06:14:11",
+        "ipinfo": {
+            "104.18.48.52": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.18.49.52": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "http:\/\/open.acgnxtracker.com:80\/announce": {
+        "status": "Good",
+        "response_time": 98,
+        "last_checked": "09-12-2018 06:14:11",
+        "ipinfo": {
+            "51.68.122.172": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH"
+            }
+        }
+    },
+    "udp:\/\/tracker.filepit.to:6969\/announce": {
+        "status": "Good",
+        "response_time": 166,
+        "last_checked": "09-12-2018 06:14:12",
+        "ipinfo": {
+            "85.202.163.5": {
+                "ccode": "GB",
+                "cname": "United Kingdom",
+                "isp": "PitCom Limited"
+            }
+        }
+    },
+    "udp:\/\/bittracker.ru:6969\/announce": {
+        "status": "Good",
+        "response_time": 16,
+        "last_checked": "09-12-2018 06:14:12",
+        "ipinfo": {
+            "68.183.220.172": {
+                "ccode": "DE",
+                "cname": "Germany",
+                "isp": "DSL Extreme"
+            },
+            "2a03:b0c0:3:e0::10d:9001": {
+                "ccode": "DE",
+                "cname": "Germany",
+                "isp": "Digital Ocean"
+            }
+        }
+    },
+    "http:\/\/retracker.telecom.by:80\/announce": {
+        "status": "Good",
+        "response_time": 142,
+        "last_checked": "09-12-2018 06:14:15",
+        "ipinfo": {
+            "213.184.225.53": {
+                "ccode": "BY",
+                "cname": "Belarus",
+                "isp": "Telecom ISP Company"
+            }
+        }
+    },
+    "http:\/\/bittracker.ru:80\/announce": {
+        "status": "Good",
+        "response_time": 100,
+        "last_checked": "09-12-2018 06:14:15",
+        "ipinfo": {
+            "68.183.220.172": {
+                "ccode": "DE",
+                "cname": "Germany",
+                "isp": "DSL Extreme"
+            },
+            "2a03:b0c0:3:e0::10d:9001": {
+                "ccode": "DE",
+                "cname": "Germany",
+                "isp": "Digital Ocean"
+            }
+        }
+    },
+    "udp:\/\/tracker.tvunderground.org.ru:3218\/announce": {
+        "status": "Good",
+        "response_time": 17,
+        "last_checked": "09-12-2018 06:14:15",
+        "ipinfo": {
+            "91.217.91.21": {
+                "ccode": "UA",
+                "cname": "Ukraine",
+                "isp": "PE Ivanov Vitaliy Sergeevich"
+            }
+        }
+    },
+    "udp:\/\/torrentclub.tech:6969\/announce": {
+        "status": "Good",
+        "response_time": 17,
+        "last_checked": "09-12-2018 06:14:15",
+        "ipinfo": {
+            "45.56.74.11": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Linode"
+            }
+        }
+    },
+    "udp:\/\/pubt.in:2710\/announce": {
+        "status": "Good",
+        "response_time": 16,
+        "last_checked": "09-12-2018 06:14:16",
+        "ipinfo": {
+            "95.211.195.88": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "LeaseWeb Netherlands B.V."
+            }
+        }
+    },
+    "http:\/\/tracker.tvunderground.org.ru:3218\/announce": {
+        "status": "Good",
+        "response_time": 139,
+        "last_checked": "09-12-2018 06:12:18",
+        "ipinfo": {
+            "91.217.91.21": {
+                "ccode": "UA",
+                "cname": "Ukraine",
+                "isp": "PE Ivanov Vitaliy Sergeevich"
+            }
+        }
+    },
+    "http:\/\/t.nyaatracker.com:80\/announce": {
+        "status": "Good",
+        "response_time": 35,
+        "last_checked": "09-12-2018 06:14:23",
+        "ipinfo": {
+            "139.99.45.37": {
+                "ccode": "SG",
+                "cname": "Singapore",
+                "isp": "OVH Singapore PTE. LTD"
+            },
+            "51.38.230.101": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH"
+            },
+            "54.39.98.124": {
+                "ccode": "CA",
+                "cname": "Canada",
+                "isp": "OVH Hosting, Inc"
+            },
+            "2607:5300:201:3100::6776": {
+                "ccode": "CA",
+                "cname": "Canada",
+                "isp": "OVH Hosting, Inc."
+            },
+            "2402:1f00:8000:800::1033": {
+                "ccode": "SG",
+                "cname": "Singapore",
+                "isp": "OVH"
+            },
+            "2001:41d0:305:2100::2619": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH SAS"
+            }
+        }
+    },
+    "http:\/\/private.minimafia.nl:443\/announce": {
+        "status": "Good",
+        "response_time": 103,
+        "last_checked": "09-12-2018 06:14:23",
+        "ipinfo": {
+            "5.2.70.184": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "Liteserver DRN VPS"
+            }
+        }
+    },
+    "http:\/\/prestige.minimafia.nl:443\/announce": {
+        "status": "Good",
+        "response_time": 162,
+        "last_checked": "09-12-2018 06:14:24",
+        "ipinfo": {
+            "5.2.70.184": {
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "Liteserver DRN VPS"
+            }
+        }
+    },
+    "http:\/\/0d.kebhana.mx:443\/announce": {
+        "status": "Good",
+        "response_time": 11,
+        "last_checked": "09-12-2018 06:14:24",
+        "ipinfo": {
+            "158.69.62.21": {
+                "ccode": "CA",
+                "cname": "Canada",
+                "isp": "OVH Hosting, Inc."
+            }
+        }
+    },
+    "wss:\/\/tracker.openwebtorrent.com:443\/announce": {
+        "status": "Good",
+        "response_time": 111,
+        "last_checked": "09-12-2018 06:14:24",
+        "ipinfo": {
+            "51.15.179.14": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "Online SAS"
+            },
+            "fe80::208:a2ff:fe0c:1e8c": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            }
+        }
+    },
+    "wss:\/\/tracker.btorrent.xyz:443\/announce": {
+        "status": "Good",
+        "response_time": 49,
+        "last_checked": "09-12-2018 06:14:24",
+        "ipinfo": {
+            "45.32.219.126": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Vultr Holdings, LLC"
+            },
+            "2001:19f0:5401:f5a:5400:1ff:fe36:42f9": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Vultr Holdings, LLC"
+            }
+        }
+    },
+    "wss:\/\/ltrackr.iamhansen.xyz:443\/announce": {
+        "status": "Good",
+        "response_time": 40,
+        "last_checked": "09-12-2018 06:14:25",
+        "ipinfo": {
+            "104.28.13.18": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.28.12.18": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "2606:4700:30::681c:d12": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "2606:4700:30::681c:c12": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "udp:\/\/tracker.justseed.it:1337\/announce": {
+        "status": "Good",
+        "response_time": 27,
+        "last_checked": "09-12-2018 06:14:25",
+        "ipinfo": {
+            "94.23.217.90": {
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH SAS"
+            }
+        }
+    },
+    "udp:\/\/packages.crunchbangplusplus.org:6969\/announce": {
+        "status": "Good",
+        "response_time": 23,
+        "last_checked": "09-12-2018 06:14:25",
+        "ipinfo": {
+            "138.68.225.164": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Digital Ocean"
+            }
+        }
+    },
+    "https:\/\/1337.abcvg.info:443\/announce": {
+        "status": "Good",
+        "response_time": 26,
+        "last_checked": "09-12-2018 06:14:26",
+        "ipinfo": {
+            "104.31.90.56": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.31.91.56": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "2606:4700:30::681f:5a38": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "2606:4700:30::681f:5b38": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "http:\/\/tracker.tfile.me:80\/announce.php": {
+        "status": "Good",
+        "response_time": 190,
+        "last_checked": "09-12-2018 06:14:26",
+        "ipinfo": {
+            "185.217.0.76": {
+                "ccode": "SE",
+                "cname": "Sweden",
+                "isp": "Icme Limited"
+            }
+        }
+    },
+    "http:\/\/tracker.tfile.me:80\/announce": {
+        "status": "Good",
+        "response_time": 113,
+        "last_checked": "09-12-2018 06:14:27",
+        "ipinfo": {
+            "185.217.0.76": {
+                "ccode": "SE",
+                "cname": "Sweden",
+                "isp": "Icme Limited"
+            }
+        }
+    },
+    "http:\/\/tracker.tfile.co:80\/announce": {
+        "status": "Good",
+        "response_time": 128,
+        "last_checked": "09-12-2018 06:14:27",
+        "ipinfo": {
+            "185.217.0.78": {
+                "ccode": "SE",
+                "cname": "Sweden",
+                "isp": "Icme Limited"
+            }
+        }
+    },
+    "http:\/\/peersteers.org:80\/announce": {
+        "status": "Good",
+        "response_time": 141,
+        "last_checked": "09-12-2018 06:14:27",
+        "ipinfo": {
+            "185.217.0.77": {
+                "ccode": "SE",
+                "cname": "Sweden",
+                "isp": "Icme Limited"
+            }
+        }
+    },
+    "http:\/\/fxtt.ru:80\/announce": {
+        "status": "Good",
+        "response_time": 320,
+        "last_checked": "09-12-2018 06:14:28",
+        "ipinfo": {
+            "195.88.220.21": {
+                "ccode": "RU",
+                "cname": "Russia",
+                "isp": "LLC Sakh.TV"
+            }
+        }
+    },
+    "http:\/\/tracker.city9x.com:2710\/announce": {
+        "status": "Good",
+        "response_time": 1159,
+        "last_checked": "09-12-2018 06:09:15",
+        "ipinfo": {
+            "64.78.163.242": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Emagine Concept, Inc."
+            }
+        }
+    },
+    "http:\/\/torrentclub.tech:6969\/announce": {
+        "status": "Good",
+        "response_time": 1083,
+        "last_checked": "09-12-2018 06:09:19",
+        "ipinfo": {
+            "45.56.74.11": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Linode"
+            }
+        }
+    },
+    "http:\/\/tracker3.itzmx.com:6961\/announce": {
+        "status": "Good",
+        "response_time": 1031,
+        "last_checked": "09-12-2018 06:10:09",
+        "ipinfo": {
+            "45.119.209.194": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "DataWagon LLC"
+            }
+        }
+    }
+}
