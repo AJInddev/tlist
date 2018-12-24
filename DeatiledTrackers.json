@@ -9,7 +9,7 @@
         ]
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "24-12-2018 04:00:03",
+        "last_checked": "24-12-2018 04:30:03",
         "status": "Good",
         "response_time": 77,
         "date_added": "24-12-2018 07:46:14",
@@ -18,7 +18,7 @@
         ]
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "24-12-2018 04:00:04",
+        "last_checked": "24-12-2018 04:30:04",
         "status": "Good",
         "response_time": 2,
         "date_added": "24-12-2018 07:46:16",
@@ -212,7 +212,7 @@
         "response_time": 4,
         "date_added": "24-12-2018 07:47:15",
         "ipinfo": [
-            "2606:4700:30::681b:b98a"
+            "104.27.184.138"
         ]
     },
     "http:\/\/opentracker.xyz:80\/announce": {
@@ -230,7 +230,7 @@
         "response_time": 3,
         "date_added": "24-12-2018 07:46:51",
         "ipinfo": [
-            "104.18.48.52"
+            "104.18.49.52"
         ]
     },
     "http:\/\/open.acgnxtracker.com:80\/announce": {
@@ -399,7 +399,7 @@
         "response_time": 5,
         "date_added": "24-12-2018 07:47:21",
         "ipinfo": [
-            "104.31.90.56"
+            "104.31.91.56"
         ]
     },
     "http:\/\/tracker.tfile.me:80\/announce.php": {
@@ -471,7 +471,7 @@
         "response_time": 30,
         "date_added": "24-12-2018 06:51:15",
         "ipinfo": [
-            "2607:5300:201:3100::6776"
+            "139.99.45.37"
         ]
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
