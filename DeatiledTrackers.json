@@ -9,18 +9,18 @@
         ]
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "24-12-2018 12:43:12",
+        "last_checked": "24-12-2018 02:30:06",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 77,
         "date_added": "24-12-2018 07:46:14",
         "ipinfo": [
             "51.15.4.13"
         ]
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "24-12-2018 12:43:13",
+        "last_checked": "24-12-2018 02:30:07",
         "status": "Good",
-        "response_time": 35,
+        "response_time": 2,
         "date_added": "24-12-2018 07:46:16",
         "ipinfo": [
             "208.83.20.20"
@@ -77,7 +77,7 @@
         "response_time": 2,
         "date_added": "24-12-2018 07:46:26",
         "ipinfo": [
-            "89.234.156.205"
+            "91.216.110.52"
         ]
     },
     "udp:\/\/tracker.port443.xyz:6969\/announce": {
@@ -194,7 +194,7 @@
         "response_time": 4,
         "date_added": "24-12-2018 07:46:45",
         "ipinfo": [
-            "104.31.71.251"
+            "104.31.70.251"
         ]
     },
     "https:\/\/opentracker.xyz:443\/announce": {
@@ -212,7 +212,7 @@
         "response_time": 4,
         "date_added": "24-12-2018 07:47:15",
         "ipinfo": [
-            "104.27.184.138"
+            "104.31.209.10"
         ]
     },
     "http:\/\/opentracker.xyz:80\/announce": {
@@ -256,13 +256,9 @@
         "status": "Good",
         "response_time": 2,
         "date_added": "24-12-2018 07:47:03",
-        "ipinfo": {
-            "68.183.220.172": {
-                "ccode": "DE",
-                "cname": "Germany",
-                "isp": "DSL Extreme"
-            }
-        }
+        "ipinfo": [
+            "68.183.220.172"
+        ]
     },
     "http:\/\/retracker.telecom.by:80\/announce": {
         "last_checked": "17-12-2018 06:29:09",
@@ -403,7 +399,7 @@
         "response_time": 5,
         "date_added": "24-12-2018 07:47:21",
         "ipinfo": [
-            "104.31.90.56"
+            "104.31.91.56"
         ]
     },
     "http:\/\/tracker.tfile.me:80\/announce.php": {
@@ -475,7 +471,7 @@
         "response_time": 30,
         "date_added": "24-12-2018 06:51:15",
         "ipinfo": [
-            "2607:5300:201:3100::6776"
+            "54.39.98.124"
         ]
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
