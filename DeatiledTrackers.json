@@ -9,18 +9,18 @@
         ]
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "24-12-2018 03:00:04",
+        "last_checked": "24-12-2018 03:30:03",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "24-12-2018 07:46:14",
         "ipinfo": [
             "51.15.4.13"
         ]
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "24-12-2018 03:00:05",
+        "last_checked": "24-12-2018 03:30:06",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 2,
         "date_added": "24-12-2018 07:46:16",
         "ipinfo": [
             "208.83.20.20"
@@ -203,7 +203,7 @@
         "response_time": 3,
         "date_added": "24-12-2018 07:46:46",
         "ipinfo": [
-            "104.28.2.5"
+            "104.28.3.5"
         ]
     },
     "http:\/\/torrent.nwps.ws:80\/announce": {
@@ -221,7 +221,7 @@
         "response_time": 3,
         "date_added": "24-12-2018 07:46:50",
         "ipinfo": [
-            "104.28.2.5"
+            "104.28.3.5"
         ]
     },
     "http:\/\/open.trackerlist.xyz:80\/announce": {
@@ -399,7 +399,7 @@
         "response_time": 5,
         "date_added": "24-12-2018 07:47:21",
         "ipinfo": [
-            "104.31.90.56"
+            "2606:4700:30::681f:5a38"
         ]
     },
     "http:\/\/tracker.tfile.me:80\/announce.php": {
@@ -471,7 +471,7 @@
         "response_time": 30,
         "date_added": "24-12-2018 06:51:15",
         "ipinfo": [
-            "2402:1f00:8000:800::1033"
+            "51.38.230.101"
         ]
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
@@ -497,13 +497,9 @@
         "status": "Good",
         "response_time": 2,
         "date_added": "24-12-2018 07:46:55",
-        "ipinfo": {
-            "210.244.71.25": {
-                "ccode": "TW",
-                "cname": "Taiwan",
-                "isp": "Digital United Inc."
-            }
-        }
+        "ipinfo": [
+            "210.244.71.25"
+        ]
     },
     "udp:\/\/tracker.dler.org:6969\/announce": {
         "last_checked": "24-12-2018 07:47:00",
