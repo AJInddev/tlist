@@ -9,16 +9,16 @@
         ]
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "24-12-2018 03:30:03",
+        "last_checked": "24-12-2018 04:00:03",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 77,
         "date_added": "24-12-2018 07:46:14",
         "ipinfo": [
             "51.15.4.13"
         ]
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "24-12-2018 03:30:06",
+        "last_checked": "24-12-2018 04:00:04",
         "status": "Good",
         "response_time": 2,
         "date_added": "24-12-2018 07:46:16",
@@ -203,7 +203,7 @@
         "response_time": 3,
         "date_added": "24-12-2018 07:46:46",
         "ipinfo": [
-            "104.28.3.5"
+            "104.28.2.5"
         ]
     },
     "http:\/\/torrent.nwps.ws:80\/announce": {
@@ -212,7 +212,7 @@
         "response_time": 4,
         "date_added": "24-12-2018 07:47:15",
         "ipinfo": [
-            "104.27.185.138"
+            "2606:4700:30::681b:b98a"
         ]
     },
     "http:\/\/opentracker.xyz:80\/announce": {
@@ -221,7 +221,7 @@
         "response_time": 3,
         "date_added": "24-12-2018 07:46:50",
         "ipinfo": [
-            "104.28.3.5"
+            "104.28.2.5"
         ]
     },
     "http:\/\/open.trackerlist.xyz:80\/announce": {
@@ -230,7 +230,7 @@
         "response_time": 3,
         "date_added": "24-12-2018 07:46:51",
         "ipinfo": [
-            "104.18.49.52"
+            "104.18.48.52"
         ]
     },
     "http:\/\/open.acgnxtracker.com:80\/announce": {
@@ -347,7 +347,7 @@
         "response_time": 112,
         "date_added": "16-12-2018 06:24:25",
         "ipinfo": [
-            "2a07:5741:0:565::1"
+            "158.69.62.21"
         ]
     },
     "wss:\/\/tracker.openwebtorrent.com:443\/announce": {
@@ -399,7 +399,7 @@
         "response_time": 5,
         "date_added": "24-12-2018 07:47:21",
         "ipinfo": [
-            "2606:4700:30::681f:5a38"
+            "104.31.90.56"
         ]
     },
     "http:\/\/tracker.tfile.me:80\/announce.php": {
@@ -471,7 +471,7 @@
         "response_time": 30,
         "date_added": "24-12-2018 06:51:15",
         "ipinfo": [
-            "51.38.230.101"
+            "2607:5300:201:3100::6776"
         ]
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
