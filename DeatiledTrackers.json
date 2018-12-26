@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "26-12-2018 03:32:02",
+        "last_checked": "26-12-2018 04:02:02",
         "status": "Good",
-        "response_time": 78,
+        "response_time": 77,
         "date_added": "26-12-2018 01:01:01",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "26-12-2018 03:34:02",
+        "last_checked": "26-12-2018 04:04:02",
         "status": "Good",
         "response_time": 3,
         "date_added": "26-12-2018 01:05:01",
@@ -296,12 +296,12 @@
         "response_time": 8,
         "date_added": "26-12-2018 01:53:05",
         "ipinfo": {
-            "104.28.2.5": {
+            "104.28.3.5": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.28.3.5": {
+            "104.28.2.5": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 4,
         "date_added": "26-12-2018 02:02:11",
         "ipinfo": {
-            "104.28.2.5": {
+            "104.28.3.5": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.28.3.5": {
+            "104.28.2.5": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -705,17 +705,17 @@
         "response_time": 15,
         "date_added": "25-12-2018 08:34:15",
         "ipinfo": {
-            "54.39.98.124": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
             "139.99.45.37": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
             "51.38.230.101": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
+            "54.39.98.124": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
