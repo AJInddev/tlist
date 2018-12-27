@@ -1,111 +1,111 @@
 {
     "udp:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Good",
-        "response_time": 2,
-        "last_checked": "27-12-2018 01:03:01",
-        "date_added": "27-12-2018 01:03:01"
+        "response_time": 3,
+        "last_checked": "27-12-2018 06:33:01",
+        "date_added": "27-12-2018 06:33:01"
     },
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-12-2018 01:03:01",
-        "date_added": "27-12-2018 01:03:01"
+        "last_checked": "27-12-2018 06:33:01",
+        "date_added": "27-12-2018 06:33:01"
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
         "status": "Good",
-        "response_time": 80,
-        "last_checked": "27-12-2018 07:32:01",
-        "date_added": "27-12-2018 01:01:01"
+        "response_time": 2,
+        "last_checked": "27-12-2018 06:31:01",
+        "date_added": "27-12-2018 06:31:01"
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
         "status": "Good",
-        "response_time": 2,
-        "last_checked": "27-12-2018 07:34:01",
-        "date_added": "27-12-2018 01:05:01"
+        "response_time": 133,
+        "last_checked": "27-12-2018 06:35:01",
+        "date_added": "27-12-2018 06:35:01"
     },
     "udp:\/\/explodie.org:6969\/announce": {
         "status": "Good",
         "response_time": 2,
-        "last_checked": "27-12-2018 01:07:01",
-        "date_added": "27-12-2018 01:07:01"
+        "last_checked": "27-12-2018 06:37:01",
+        "date_added": "27-12-2018 06:37:01"
     },
     "http:\/\/explodie.org:6969\/announce": {
         "status": "Good",
         "response_time": 67,
-        "last_checked": "27-12-2018 01:09:01",
-        "date_added": "27-12-2018 01:09:01"
+        "last_checked": "27-12-2018 06:39:01",
+        "date_added": "27-12-2018 06:39:01"
     },
     "udp:\/\/ipv4.tracker.harry.lu:80\/announce": {
         "status": "Good",
-        "response_time": 3,
-        "last_checked": "27-12-2018 01:13:01",
-        "date_added": "27-12-2018 01:13:01"
+        "response_time": 2,
+        "last_checked": "27-12-2018 06:43:01",
+        "date_added": "27-12-2018 06:43:01"
     },
     "udp:\/\/tracker1.itzmx.com:8080\/announce": {
         "status": "Good",
-        "response_time": 71,
-        "last_checked": "27-12-2018 01:11:01",
-        "date_added": "27-12-2018 01:11:01"
+        "response_time": 41,
+        "last_checked": "27-12-2018 06:41:01",
+        "date_added": "27-12-2018 06:41:01"
     },
     "http:\/\/tracker1.itzmx.com:8080\/announce": {
         "status": "Good",
-        "response_time": 140,
-        "last_checked": "27-12-2018 01:15:02",
-        "date_added": "27-12-2018 01:15:02"
+        "response_time": 115,
+        "last_checked": "27-12-2018 06:45:01",
+        "date_added": "27-12-2018 06:45:01"
     },
     "udp:\/\/tracker.torrent.eu.org:451\/announce": {
         "status": "Good",
-        "response_time": 82,
-        "last_checked": "27-12-2018 01:19:03",
-        "date_added": "27-12-2018 01:19:03"
+        "response_time": 2,
+        "last_checked": "27-12-2018 06:49:02",
+        "date_added": "27-12-2018 06:49:02"
     },
     "udp:\/\/tracker.port443.xyz:6969\/announce": {
         "status": "Good",
-        "response_time": 3,
-        "last_checked": "27-12-2018 01:27:03",
-        "date_added": "27-12-2018 01:27:03"
+        "response_time": 100,
+        "last_checked": "27-12-2018 06:57:02",
+        "date_added": "27-12-2018 06:57:02"
     },
     "udp:\/\/open.demonii.si:1337\/announce": {
         "status": "Good",
-        "response_time": 5,
-        "last_checked": "27-12-2018 01:25:03",
-        "date_added": "27-12-2018 01:25:03"
+        "response_time": 101,
+        "last_checked": "27-12-2018 06:55:02",
+        "date_added": "27-12-2018 06:55:02"
     },
     "http:\/\/tracker.port443.xyz:6969\/announce": {
         "status": "Good",
-        "response_time": 81,
-        "last_checked": "27-12-2018 01:35:03",
-        "date_added": "27-12-2018 01:35:03"
+        "response_time": 83,
+        "last_checked": "27-12-2018 07:05:09",
+        "date_added": "27-12-2018 07:05:09"
     },
     "udp:\/\/thetracker.org:80\/announce": {
         "status": "Good",
-        "response_time": 4,
-        "last_checked": "27-12-2018 01:23:03",
-        "date_added": "27-12-2018 01:23:03"
+        "response_time": 2,
+        "last_checked": "27-12-2018 06:53:02",
+        "date_added": "27-12-2018 06:53:02"
     },
     "udp:\/\/retracker.lanta-net.ru:2710\/announce": {
         "status": "Good",
         "response_time": 128,
-        "last_checked": "27-12-2018 01:31:03",
-        "date_added": "27-12-2018 01:31:03"
+        "last_checked": "27-12-2018 07:01:08",
+        "date_added": "27-12-2018 07:01:08"
     },
     "udp:\/\/open.stealth.si:80\/announce": {
         "status": "Good",
-        "response_time": 11,
-        "last_checked": "27-12-2018 01:33:03",
-        "date_added": "27-12-2018 01:33:03"
+        "response_time": 5,
+        "last_checked": "27-12-2018 07:03:08",
+        "date_added": "27-12-2018 07:03:08"
     },
     "udp:\/\/bt.xxx-tracker.com:2710\/announce": {
         "status": "Good",
-        "response_time": 2,
-        "last_checked": "27-12-2018 01:17:02",
-        "date_added": "27-12-2018 01:17:02"
+        "response_time": 4,
+        "last_checked": "27-12-2018 06:47:01",
+        "date_added": "27-12-2018 06:47:01"
     },
     "udp:\/\/tracker.vanitycore.co:6969\/announce": {
         "status": "Good",
         "response_time": 2,
-        "last_checked": "27-12-2018 01:43:05",
-        "date_added": "27-12-2018 01:43:05"
+        "last_checked": "27-12-2018 07:13:10",
+        "date_added": "27-12-2018 07:13:10"
     },
     "udp:\/\/tracker.uw0.xyz:6969\/announce": {
         "status": "Down",
@@ -115,69 +115,69 @@
     },
     "udp:\/\/tracker.iamhansen.xyz:2000\/announce": {
         "status": "Good",
-        "response_time": 2,
-        "last_checked": "27-12-2018 01:29:03",
-        "date_added": "27-12-2018 01:29:03"
+        "response_time": 101,
+        "last_checked": "27-12-2018 06:59:08",
+        "date_added": "27-12-2018 06:59:08"
     },
     "udp:\/\/zephir.monocul.us:6969\/announce": {
         "status": "Good",
         "response_time": 2,
-        "last_checked": "27-12-2018 01:45:05",
-        "date_added": "27-12-2018 01:45:05"
+        "last_checked": "27-12-2018 07:15:10",
+        "date_added": "27-12-2018 07:15:10"
     },
     "udp:\/\/tracker.cyberia.is:6969\/announce": {
         "status": "Good",
         "response_time": 2,
-        "last_checked": "27-12-2018 01:47:05",
-        "date_added": "27-12-2018 01:47:05"
+        "last_checked": "27-12-2018 07:17:10",
+        "date_added": "27-12-2018 07:17:10"
     },
     "https:\/\/tracker.fastdownload.xyz:443\/announce": {
         "status": "Good",
         "response_time": 4,
-        "last_checked": "27-12-2018 01:50:05",
-        "date_added": "27-12-2018 01:50:05"
+        "last_checked": "27-12-2018 07:20:10",
+        "date_added": "27-12-2018 07:20:10"
     },
     "https:\/\/opentracker.xyz:443\/announce": {
         "status": "Good",
-        "response_time": 4,
-        "last_checked": "27-12-2018 01:53:05",
-        "date_added": "27-12-2018 01:53:05"
+        "response_time": 5,
+        "last_checked": "27-12-2018 07:23:10",
+        "date_added": "27-12-2018 07:23:10"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "27-12-2018 02:01:08",
-        "date_added": "27-12-2018 02:01:08"
+        "last_checked": "27-12-2018 07:31:13",
+        "date_added": "27-12-2018 07:31:13"
     },
     "http:\/\/torrent.nwps.ws:80\/announce": {
         "status": "Good",
         "response_time": 4,
-        "last_checked": "27-12-2018 02:04:08",
-        "date_added": "27-12-2018 02:04:08"
+        "last_checked": "27-12-2018 07:34:13",
+        "date_added": "27-12-2018 07:34:13"
     },
     "http:\/\/opentracker.xyz:80\/announce": {
         "status": "Good",
-        "response_time": 11,
-        "last_checked": "27-12-2018 01:56:05",
-        "date_added": "27-12-2018 01:56:05"
+        "response_time": 4,
+        "last_checked": "27-12-2018 07:26:10",
+        "date_added": "27-12-2018 07:26:10"
     },
     "http:\/\/open.trackerlist.xyz:80\/announce": {
         "status": "Good",
-        "response_time": 6,
-        "last_checked": "27-12-2018 01:59:05",
-        "date_added": "27-12-2018 01:59:05"
+        "response_time": 196,
+        "last_checked": "27-12-2018 07:29:10",
+        "date_added": "27-12-2018 07:29:10"
     },
     "http:\/\/open.acgnxtracker.com:80\/announce": {
         "status": "Good",
-        "response_time": 88,
-        "last_checked": "27-12-2018 01:41:05",
-        "date_added": "27-12-2018 01:41:05"
+        "response_time": 87,
+        "last_checked": "27-12-2018 07:11:10",
+        "date_added": "27-12-2018 07:11:10"
     },
     "udp:\/\/tracker.filepit.to:6969\/announce": {
         "status": "Good",
-        "response_time": 86,
-        "last_checked": "27-12-2018 02:10:08",
-        "date_added": "27-12-2018 02:10:08"
+        "response_time": 95,
+        "last_checked": "27-12-2018 07:40:13",
+        "date_added": "27-12-2018 07:40:13"
     },
     "udp:\/\/bittracker.ru:6969\/announce": {
         "status": "Good",
@@ -188,8 +188,8 @@
     "http:\/\/tracker.city9x.com:2710\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "27-12-2018 02:26:13",
-        "date_added": "27-12-2018 02:26:13"
+        "last_checked": "27-12-2018 07:56:20",
+        "date_added": "27-12-2018 07:56:20"
     },
     "http:\/\/retracker.telecom.by:80\/announce": {
         "status": "Down",
@@ -212,20 +212,20 @@
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-12-2018 02:06:08",
-        "date_added": "27-12-2018 02:06:08"
+        "last_checked": "27-12-2018 07:36:13",
+        "date_added": "27-12-2018 07:36:13"
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
         "status": "Good",
         "response_time": 10,
-        "last_checked": "27-12-2018 02:16:08",
-        "date_added": "27-12-2018 02:16:08"
+        "last_checked": "27-12-2018 07:46:14",
+        "date_added": "27-12-2018 07:46:14"
     },
     "udp:\/\/pubt.in:2710\/announce": {
         "status": "Good",
-        "response_time": 119,
-        "last_checked": "27-12-2018 02:18:08",
-        "date_added": "27-12-2018 02:18:08"
+        "response_time": 99,
+        "last_checked": "27-12-2018 07:48:14",
+        "date_added": "27-12-2018 07:48:14"
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
@@ -242,38 +242,38 @@
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-12-2018 02:22:11",
-        "date_added": "27-12-2018 02:22:11"
+        "last_checked": "27-12-2018 07:52:17",
+        "date_added": "27-12-2018 07:52:17"
     },
     "http:\/\/torrentclub.tech:6969\/announce": {
         "status": "Good",
-        "response_time": 49,
-        "last_checked": "27-12-2018 02:28:13",
-        "date_added": "27-12-2018 02:28:13"
+        "response_time": 43,
+        "last_checked": "27-12-2018 07:58:20",
+        "date_added": "27-12-2018 07:58:20"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Good",
-        "response_time": 82,
-        "last_checked": "27-12-2018 02:32:17",
-        "date_added": "27-12-2018 02:32:17"
+        "response_time": 12,
+        "last_checked": "27-12-2018 08:02:22",
+        "date_added": "27-12-2018 08:02:22"
     },
     "http:\/\/retracker.mgts.by:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-12-2018 02:32:17",
-        "date_added": "27-12-2018 02:32:17"
+        "last_checked": "27-12-2018 08:02:22",
+        "date_added": "27-12-2018 08:02:22"
     },
     "http:\/\/private.minimafia.nl:443\/announce": {
-        "status": "Down",
-        "response_time": "-",
-        "last_checked": "27-12-2018 01:37:05",
-        "date_added": "27-12-2018 01:37:05"
+        "status": "Good",
+        "response_time": 1081,
+        "last_checked": "27-12-2018 07:07:10",
+        "date_added": "27-12-2018 07:07:10"
     },
     "http:\/\/prestige.minimafia.nl:443\/announce": {
         "status": "Good",
-        "response_time": 79,
-        "last_checked": "27-12-2018 01:39:05",
-        "date_added": "27-12-2018 01:39:05"
+        "response_time": 80,
+        "last_checked": "27-12-2018 07:09:10",
+        "date_added": "27-12-2018 07:09:10"
     },
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
@@ -283,27 +283,27 @@
     },
     "http:\/\/0d.kebhana.mx:443\/announce": {
         "status": "Good",
-        "response_time": 11,
-        "last_checked": "27-12-2018 02:34:17",
-        "date_added": "27-12-2018 02:34:17"
+        "response_time": 12,
+        "last_checked": "27-12-2018 08:04:22",
+        "date_added": "27-12-2018 08:04:22"
     },
     "wss:\/\/tracker.openwebtorrent.com:443\/announce": {
         "status": "Good",
-        "response_time": 90,
-        "last_checked": "27-12-2018 02:36:17",
-        "date_added": "27-12-2018 02:36:17"
+        "response_time": 88,
+        "last_checked": "27-12-2018 08:06:22",
+        "date_added": "27-12-2018 08:06:22"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-12-2018 02:36:17",
-        "date_added": "27-12-2018 02:36:17"
+        "last_checked": "27-12-2018 08:06:22",
+        "date_added": "27-12-2018 08:06:22"
     },
     "wss:\/\/tracker.btorrent.xyz:443\/announce": {
         "status": "Good",
-        "response_time": 31,
-        "last_checked": "27-12-2018 02:38:17",
-        "date_added": "27-12-2018 02:38:17"
+        "response_time": 24,
+        "last_checked": "27-12-2018 08:08:22",
+        "date_added": "27-12-2018 08:08:22"
     },
     "wss:\/\/ltrackr.iamhansen.xyz:443\/announce": {
         "status": "Down",
@@ -314,50 +314,50 @@
     "udp:\/\/tracker.justseed.it:1337\/announce": {
         "status": "Good",
         "response_time": 2,
-        "last_checked": "27-12-2018 02:40:18",
-        "date_added": "27-12-2018 02:40:18"
+        "last_checked": "27-12-2018 08:10:22",
+        "date_added": "27-12-2018 08:10:22"
     },
     "udp:\/\/packages.crunchbangplusplus.org:6969\/announce": {
         "status": "Good",
-        "response_time": 17,
-        "last_checked": "27-12-2018 02:42:18",
-        "date_added": "27-12-2018 02:42:18"
+        "response_time": 110,
+        "last_checked": "27-12-2018 08:12:22",
+        "date_added": "27-12-2018 08:12:22"
     },
     "https:\/\/1337.abcvg.info:443\/announce": {
         "status": "Good",
-        "response_time": 4,
-        "last_checked": "27-12-2018 02:45:18",
-        "date_added": "27-12-2018 02:45:18"
+        "response_time": 3,
+        "last_checked": "27-12-2018 08:15:23",
+        "date_added": "27-12-2018 08:15:23"
     },
     "http:\/\/tracker.tfile.me:80\/announce.php": {
         "status": "Good",
-        "response_time": 113,
-        "last_checked": "27-12-2018 02:47:18",
-        "date_added": "27-12-2018 02:47:18"
+        "response_time": 115,
+        "last_checked": "27-12-2018 08:17:23",
+        "date_added": "27-12-2018 08:17:23"
     },
     "http:\/\/tracker.tfile.me:80\/announce": {
         "status": "Good",
-        "response_time": 108,
-        "last_checked": "27-12-2018 02:49:18",
-        "date_added": "27-12-2018 02:49:18"
+        "response_time": 116,
+        "last_checked": "27-12-2018 08:19:23",
+        "date_added": "27-12-2018 08:19:23"
     },
     "http:\/\/tracker.tfile.co:80\/announce": {
         "status": "Good",
-        "response_time": 106,
-        "last_checked": "27-12-2018 02:51:18",
-        "date_added": "27-12-2018 02:51:18"
+        "response_time": 112,
+        "last_checked": "27-12-2018 08:21:23",
+        "date_added": "27-12-2018 08:21:23"
     },
     "http:\/\/share.camoe.cn:8080\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-12-2018 02:51:18",
-        "date_added": "27-12-2018 02:51:18"
+        "last_checked": "27-12-2018 08:21:23",
+        "date_added": "27-12-2018 08:21:23"
     },
     "http:\/\/peersteers.org:80\/announce": {
         "status": "Good",
-        "response_time": 105,
-        "last_checked": "27-12-2018 02:53:18",
-        "date_added": "27-12-2018 02:53:18"
+        "response_time": 117,
+        "last_checked": "27-12-2018 08:23:24",
+        "date_added": "27-12-2018 08:23:24"
     },
     "http:\/\/fxtt.ru:80\/announce": {
         "status": "Good",
@@ -368,8 +368,8 @@
     "http:\/\/agusiq-torrents.pl:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "27-12-2018 02:55:20",
-        "date_added": "27-12-2018 02:55:20"
+        "last_checked": "27-12-2018 08:25:26",
+        "date_added": "27-12-2018 08:25:26"
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
         "status": "Down",
@@ -379,27 +379,27 @@
     },
     "udp:\/\/tracker.tiny-vps.com:6969\/announce": {
         "status": "Good",
-        "response_time": 4,
-        "last_checked": "27-12-2018 01:21:03",
-        "date_added": "27-12-2018 01:21:03"
+        "response_time": 2,
+        "last_checked": "27-12-2018 06:51:02",
+        "date_added": "27-12-2018 06:51:02"
     },
     "udp:\/\/tracker1.wasabii.com.tw:6969\/announce": {
         "status": "Good",
         "response_time": 2,
-        "last_checked": "27-12-2018 02:06:08",
-        "date_added": "27-12-2018 02:06:08"
+        "last_checked": "27-12-2018 07:36:13",
+        "date_added": "27-12-2018 07:36:13"
     },
     "udp:\/\/tracker.dler.org:6969\/announce": {
         "status": "Good",
-        "response_time": 5,
-        "last_checked": "27-12-2018 02:14:08",
-        "date_added": "27-12-2018 02:14:08"
+        "response_time": 2,
+        "last_checked": "27-12-2018 07:44:14",
+        "date_added": "27-12-2018 07:44:14"
     },
     "http:\/\/tracker1.wasabii.com.tw:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "27-12-2018 02:22:11",
-        "date_added": "27-12-2018 02:22:11"
+        "last_checked": "27-12-2018 07:52:17",
+        "date_added": "27-12-2018 07:52:17"
     },
     "udp:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Good",
@@ -427,27 +427,27 @@
     },
     "https:\/\/tracker.gbitt.info:443\/announce": {
         "status": "Good",
-        "response_time": 115,
-        "last_checked": "27-12-2018 02:20:09",
-        "date_added": "27-12-2018 02:20:09"
+        "response_time": 109,
+        "last_checked": "27-12-2018 07:50:15",
+        "date_added": "27-12-2018 07:50:15"
     },
     "http:\/\/tracker.gbitt.info:80\/announce": {
         "status": "Good",
-        "response_time": 107,
-        "last_checked": "27-12-2018 02:24:11",
-        "date_added": "27-12-2018 02:24:11"
+        "response_time": 106,
+        "last_checked": "27-12-2018 07:54:17",
+        "date_added": "27-12-2018 07:54:17"
     },
     "udp:\/\/tracker.gbitt.info:80\/announce": {
         "status": "Good",
         "response_time": 3,
-        "last_checked": "27-12-2018 02:08:08",
-        "date_added": "27-12-2018 02:08:08"
+        "last_checked": "27-12-2018 07:38:13",
+        "date_added": "27-12-2018 07:38:13"
     },
     "udp:\/\/tracker.dyn.im:6969\/announce": {
         "status": "Good",
         "response_time": 2,
-        "last_checked": "27-12-2018 02:12:08",
-        "date_added": "27-12-2018 02:12:08"
+        "last_checked": "27-12-2018 07:42:14",
+        "date_added": "27-12-2018 07:42:14"
     },
     "https:\/\/cernet-tracker.appspot.com:443\/announce": {
         "status": "Down",
