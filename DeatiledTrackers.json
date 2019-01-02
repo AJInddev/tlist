@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:25:14",
+        "last_checked": "02-01-2019 08:26:12",
         "status": "Good",
-        "response_time": 77,
+        "response_time": 3,
         "date_added": "02-01-2019 06:09:12",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:25:27",
+        "last_checked": "02-01-2019 08:26:26",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 06:09:21",
@@ -278,7 +278,7 @@
         "response_time": 13,
         "date_added": "02-01-2019 06:53:43",
         "ipinfo": {
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -291,7 +291,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 06:56:58",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -304,10 +304,10 @@
         "response_time": 6,
         "date_added": "02-01-2019 07:02:19",
         "ipinfo": {
-            "2606:4700:30::681f:70cf": {
+            "104.31.112.207": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -571,10 +571,10 @@
         "response_time": 3,
         "date_added": "02-01-2019 08:02:54",
         "ipinfo": {
-            "104.31.90.56": {
+            "2606:4700:30::681f:5b38": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "isp": "Cloudflare"
             }
         }
     },
