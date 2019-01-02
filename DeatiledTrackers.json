@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:46:14",
+        "last_checked": "02-01-2019 08:47:19",
         "status": "Good",
-        "response_time": 81,
+        "response_time": 3,
         "date_added": "02-01-2019 06:34:18",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:46:28",
+        "last_checked": "02-01-2019 08:47:32",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 06:36:26",
@@ -109,10 +109,10 @@
         "response_time": 3,
         "date_added": "02-01-2019 06:59:45",
         "ipinfo": {
-            "91.216.110.52": {
+            "89.234.156.205": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Grenode"
+                "isp": "Tetaneutral.net hosting"
             }
         }
     },
@@ -278,7 +278,7 @@
         "response_time": 3,
         "date_added": "02-01-2019 07:24:17",
         "ipinfo": {
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -304,10 +304,10 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:32:42",
         "ipinfo": {
-            "2606:4700:30::681f:70cf": {
+            "104.31.112.207": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -499,10 +499,10 @@
         "response_time": 109,
         "date_added": "02-01-2019 08:21:44",
         "ipinfo": {
-            "201.134.88.179": {
-                "ccode": "MX",
-                "cname": "Mexico",
-                "isp": "Uninet S.A. de C.V."
+            "185.203.116.54": {
+                "ccode": "BG",
+                "cname": "Bulgaria",
+                "isp": "BelCloud Hosting Corporation"
             }
         }
     },
@@ -571,10 +571,10 @@
         "response_time": 3,
         "date_added": "02-01-2019 08:33:15",
         "ipinfo": {
-            "104.31.91.56": {
+            "2606:4700:30::681f:5b38": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "isp": "Cloudflare"
             }
         }
     },
@@ -675,10 +675,10 @@
         "response_time": 12,
         "date_added": "02-01-2019 07:36:56",
         "ipinfo": {
-            "2001:41d0:305:2100::2619": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH"
+            "139.99.45.37": {
+                "ccode": "SG",
+                "cname": "Singapore",
+                "isp": "OVH SAS"
             }
         }
     },
