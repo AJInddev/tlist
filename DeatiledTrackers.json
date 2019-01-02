@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:12:16",
+        "last_checked": "02-01-2019 08:13:13",
         "status": "Good",
-        "response_time": 192,
+        "response_time": 4,
         "date_added": "02-01-2019 06:07:22",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:12:31",
+        "last_checked": "02-01-2019 08:13:32",
         "status": "Good",
         "response_time": 3,
         "date_added": "02-01-2019 06:07:34",
@@ -571,7 +571,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:32:06",
         "ipinfo": {
-            "104.31.91.56": {
+            "104.31.90.56": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -675,9 +675,9 @@
         "response_time": 12,
         "date_added": "02-01-2019 06:36:23",
         "ipinfo": {
-            "51.38.230.101": {
-                "ccode": "FR",
-                "cname": "France",
+            "2607:5300:201:3100::6776": {
+                "ccode": "CA",
+                "cname": "Canada",
                 "isp": "OVH SAS"
             }
         }
