@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:05:15",
+        "last_checked": "02-01-2019 08:06:16",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 78,
         "date_added": "02-01-2019 06:07:22",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:05:34",
+        "last_checked": "02-01-2019 08:06:27",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 06:07:34",
@@ -278,7 +278,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 06:23:31",
         "ipinfo": {
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -317,7 +317,7 @@
         "response_time": 3,
         "date_added": "02-01-2019 06:39:31",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -330,7 +330,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 06:42:42",
         "ipinfo": {
-            "104.18.49.52": {
+            "104.18.48.52": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -571,7 +571,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:32:06",
         "ipinfo": {
-            "2606:4700:30::681f:5b38": {
+            "2606:4700:30::681f:5a38": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare"
@@ -675,9 +675,9 @@
         "response_time": 12,
         "date_added": "02-01-2019 06:36:23",
         "ipinfo": {
-            "139.99.45.37": {
-                "ccode": "SG",
-                "cname": "Singapore",
+            "51.38.230.101": {
+                "ccode": "FR",
+                "cname": "France",
                 "isp": "OVH SAS"
             }
         }
