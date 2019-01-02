@@ -13,7 +13,7 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:22:17",
+        "last_checked": "02-01-2019 08:23:12",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 06:09:12",
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:22:33",
+        "last_checked": "02-01-2019 08:23:29",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "02-01-2019 06:09:21",
         "ipinfo": {
             "208.83.20.20": {
@@ -291,7 +291,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 06:56:58",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -304,7 +304,7 @@
         "response_time": 6,
         "date_added": "02-01-2019 07:02:19",
         "ipinfo": {
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -317,7 +317,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:09:50",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -571,10 +571,10 @@
         "response_time": 3,
         "date_added": "02-01-2019 08:02:54",
         "ipinfo": {
-            "2606:4700:30::681f:5a38": {
+            "104.31.90.56": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -675,9 +675,9 @@
         "response_time": 12,
         "date_added": "02-01-2019 07:06:41",
         "ipinfo": {
-            "139.99.45.37": {
-                "ccode": "SG",
-                "cname": "Singapore",
+            "2607:5300:201:3100::6776": {
+                "ccode": "CA",
+                "cname": "Canada",
                 "isp": "OVH SAS"
             }
         }
