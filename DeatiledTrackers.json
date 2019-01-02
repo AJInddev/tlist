@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:02:14",
+        "last_checked": "02-01-2019 08:03:14",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 78,
         "date_added": "02-01-2019 06:07:22",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:02:29",
+        "last_checked": "02-01-2019 08:03:31",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 4,
         "date_added": "02-01-2019 06:07:34",
         "ipinfo": {
             "208.83.20.20": {
@@ -304,7 +304,7 @@
         "response_time": 6,
         "date_added": "02-01-2019 06:32:04",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
