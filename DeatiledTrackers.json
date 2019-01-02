@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:34:13",
+        "last_checked": "02-01-2019 08:35:17",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 5,
         "date_added": "02-01-2019 06:22:14",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:34:30",
+        "last_checked": "02-01-2019 08:35:29",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "02-01-2019 06:24:24",
         "ipinfo": {
             "208.83.20.20": {
@@ -109,10 +109,10 @@
         "response_time": 2,
         "date_added": "02-01-2019 06:47:42",
         "ipinfo": {
-            "89.234.156.205": {
+            "91.216.110.52": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Tetaneutral.net hosting"
+                "isp": "Grenode"
             }
         }
     },
@@ -291,7 +291,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:15:29",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -317,7 +317,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:28:05",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -675,9 +675,9 @@
         "response_time": 83,
         "date_added": "02-01-2019 04:49:59",
         "ipinfo": {
-            "51.38.230.101": {
-                "ccode": "FR",
-                "cname": "France",
+            "2607:5300:201:3100::6776": {
+                "ccode": "CA",
+                "cname": "Canada",
                 "isp": "OVH SAS"
             }
         }
