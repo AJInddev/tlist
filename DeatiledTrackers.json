@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:19:17",
+        "last_checked": "02-01-2019 08:20:18",
         "status": "Good",
-        "response_time": 78,
+        "response_time": 2,
         "date_added": "02-01-2019 06:09:12",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:19:32",
+        "last_checked": "02-01-2019 08:20:38",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 06:09:21",
@@ -109,10 +109,10 @@
         "response_time": 83,
         "date_added": "02-01-2019 06:29:40",
         "ipinfo": {
-            "89.234.156.205": {
+            "91.216.110.52": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Tetaneutral.net hosting"
+                "isp": "Grenode"
             }
         }
     },
@@ -291,7 +291,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 06:56:58",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -304,10 +304,10 @@
         "response_time": 6,
         "date_added": "02-01-2019 07:02:19",
         "ipinfo": {
-            "2606:4700:30::681f:71cf": {
+            "104.31.112.207": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -571,10 +571,10 @@
         "response_time": 3,
         "date_added": "02-01-2019 08:02:54",
         "ipinfo": {
-            "2606:4700:30::681f:5a38": {
+            "104.31.91.56": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -675,10 +675,10 @@
         "response_time": 12,
         "date_added": "02-01-2019 07:06:41",
         "ipinfo": {
-            "2001:41d0:305:2100::2619": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH"
+            "2402:1f00:8000:800::1033": {
+                "ccode": "SG",
+                "cname": "Singapore",
+                "isp": "OVH SAS"
             }
         }
     },
