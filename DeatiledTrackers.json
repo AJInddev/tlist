@@ -13,7 +13,7 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-01-2019 08:07:14",
+        "last_checked": "02-01-2019 08:08:19",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 06:07:22",
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-01-2019 08:07:33",
+        "last_checked": "02-01-2019 08:08:31",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 06:07:34",
@@ -109,10 +109,10 @@
         "response_time": 2,
         "date_added": "02-01-2019 06:08:53",
         "ipinfo": {
-            "91.216.110.52": {
+            "89.234.156.205": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Grenode"
+                "isp": "Tetaneutral.net hosting"
             }
         }
     },
@@ -317,7 +317,7 @@
         "response_time": 3,
         "date_added": "02-01-2019 06:39:31",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -571,10 +571,10 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:32:06",
         "ipinfo": {
-            "2606:4700:30::681f:5a38": {
+            "104.31.90.56": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -675,9 +675,9 @@
         "response_time": 12,
         "date_added": "02-01-2019 06:36:23",
         "ipinfo": {
-            "51.38.230.101": {
-                "ccode": "FR",
-                "cname": "France",
+            "54.39.98.124": {
+                "ccode": "CA",
+                "cname": "Canada",
                 "isp": "OVH SAS"
             }
         }
