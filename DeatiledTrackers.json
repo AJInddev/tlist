@@ -13,7 +13,7 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:00:11",
+        "last_checked": "03-01-2019 12:01:11",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 07:03:44",
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:00:22",
+        "last_checked": "03-01-2019 12:01:21",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 07:06:03",
@@ -304,10 +304,10 @@
         "response_time": 3,
         "date_added": "03-01-2019 08:10:15",
         "ipinfo": {
-            "104.31.112.207": {
+            "2606:4700:30::681f:71cf": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "isp": "Cloudflare"
             }
         }
     },
@@ -317,7 +317,7 @@
         "response_time": 4,
         "date_added": "03-01-2019 08:13:36",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -571,10 +571,10 @@
         "response_time": 4,
         "date_added": "03-01-2019 09:14:34",
         "ipinfo": {
-            "2606:4700:30::681f:5a38": {
+            "104.31.90.56": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -741,9 +741,9 @@
         "date_added": "02-01-2019 06:09:00",
         "ipinfo": {
             "210.244.71.25": {
-                "ccode": "TW",
-                "cname": "Taiwan",
-                "isp": "SEEDNET"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -858,9 +858,9 @@
         "date_added": "02-01-2019 09:05:34",
         "ipinfo": {
             "51.15.43.202": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Online S.A.S."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -873,7 +873,7 @@
             "207.246.120.109": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Choopa"
+                "isp": "Vultr Holdings, LLC"
             }
         }
     },
@@ -884,9 +884,9 @@
         "date_added": "03-01-2019 08:32:51",
         "ipinfo": {
             "94.168.35.69": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "Liberty Global Operations B.V."
             }
         }
     },
