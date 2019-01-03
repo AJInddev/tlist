@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 06:26:32",
+        "last_checked": "03-01-2019 06:24:32",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 77,
         "date_added": "03-01-2019 12:17:38",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 06:29:07",
+        "last_checked": "03-01-2019 06:27:02",
         "status": "Good",
-        "response_time": 1507,
+        "response_time": 9,
         "date_added": "03-01-2019 12:18:24",
         "ipinfo": {
             "208.83.20.20": {
@@ -314,12 +314,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 01:28:49",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -350,15 +350,15 @@
         "response_time": 4,
         "date_added": "03-01-2019 01:36:19",
         "ipinfo": {
-            "104.18.49.52": {
+            "104.18.48.52": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.18.48.52": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
+            "104.18.49.52": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -371,7 +371,7 @@
             "51.68.122.172": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "OVH SAS"
+                "isp": "OVH"
             }
         }
     },
@@ -596,12 +596,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 02:40:21",
         "ipinfo": {
-            "104.31.90.56": {
+            "104.31.91.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.91.56": {
+            "104.31.90.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
