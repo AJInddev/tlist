@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:03:11",
+        "last_checked": "03-01-2019 12:04:11",
         "status": "Good",
-        "response_time": 76,
+        "response_time": 2,
         "date_added": "03-01-2019 07:03:44",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:03:21",
+        "last_checked": "03-01-2019 12:04:22",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 07:06:03",
@@ -278,6 +278,11 @@
         "response_time": 4,
         "date_added": "03-01-2019 08:03:31",
         "ipinfo": {
+            "104.31.71.251": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "104.31.70.251": {
                 "ccode": "US",
                 "cname": "United States",
@@ -291,7 +296,7 @@
         "response_time": 9,
         "date_added": "03-01-2019 08:06:57",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -304,10 +309,10 @@
         "response_time": 3,
         "date_added": "03-01-2019 08:10:15",
         "ipinfo": {
-            "104.31.113.207": {
+            "2606:4700:30::681f:71cf": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "isp": "Cloudflare"
             }
         }
     },
@@ -396,9 +401,9 @@
         "date_added": "16-12-2018 06:24:25",
         "ipinfo": {
             "68.183.220.172": {
-                "ccode": "DE",
-                "cname": "Germany",
-                "isp": "DigitalOcean, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -411,7 +416,7 @@
             "91.217.91.21": {
                 "ccode": "UA",
                 "cname": "Ukraine",
-                "isp": "XSERVER"
+                "isp": "PE Ivanov Vitaliy Sergeevich"
             }
         }
     },
@@ -435,9 +440,9 @@
         "date_added": "03-01-2019 08:41:44",
         "ipinfo": {
             "95.211.195.88": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "LeaseWeb Netherlands B.V."
             }
         }
     },
@@ -515,7 +520,7 @@
             "51.15.179.14": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Online S.A.S."
+                "isp": "Online SAS"
             }
         }
     },
@@ -559,9 +564,9 @@
         "date_added": "03-01-2019 09:11:14",
         "ipinfo": {
             "138.68.225.164": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "DigitalOcean, LLC"
             }
         }
     },
@@ -572,11 +577,6 @@
         "date_added": "03-01-2019 09:14:34",
         "ipinfo": {
             "104.31.91.56": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
-            },
-            "104.31.90.56": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -670,7 +670,7 @@
             "64.78.163.242": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Emagine Concept, Inc."
+                "isp": "Emagine Concept"
             }
         }
     },
@@ -680,10 +680,10 @@
         "response_time": 12,
         "date_added": "03-01-2019 08:23:53",
         "ipinfo": {
-            "51.38.230.101": {
+            "2001:41d0:305:2100::2619": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "OVH SAS"
+                "isp": "OVH"
             }
         }
     },
@@ -696,7 +696,7 @@
             "75.127.14.224": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "ColoCrossing"
+                "isp": "New Wave NetConnect, LLC"
             }
         }
     },
@@ -785,9 +785,9 @@
         "date_added": "17-12-2018 06:28:23",
         "ipinfo": {
             "45.79.184.106": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Linode, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -798,9 +798,9 @@
         "date_added": "16-12-2018 06:24:25",
         "ipinfo": {
             "45.79.184.106": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Linode, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -811,9 +811,9 @@
         "date_added": "03-01-2019 08:30:40",
         "ipinfo": {
             "77.73.68.210": {
-                "ccode": "RU",
-                "cname": "Russia",
-                "isp": "RNET ISP & veesp.com DC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -824,9 +824,9 @@
         "date_added": "03-01-2019 08:37:17",
         "ipinfo": {
             "64.32.13.242": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Sharktech"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -837,9 +837,9 @@
         "date_added": "03-01-2019 08:44:00",
         "ipinfo": {
             "77.73.68.210": {
-                "ccode": "RU",
-                "cname": "Russia",
-                "isp": "RNET ISP & veesp.com DC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -850,8 +850,8 @@
         "date_added": "03-01-2019 08:48:32",
         "ipinfo": {
             "77.73.68.210": {
-                "ccode": "RU",
-                "cname": "Russia",
+                "ccode": "",
+                "cname": "",
                 "isp": ""
             }
         }
@@ -863,9 +863,9 @@
         "date_added": "02-01-2019 09:05:34",
         "ipinfo": {
             "51.15.43.202": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Online S.A.S."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -876,9 +876,9 @@
         "date_added": "03-01-2019 08:28:22",
         "ipinfo": {
             "207.246.120.109": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Choopa"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -889,9 +889,9 @@
         "date_added": "03-01-2019 08:32:51",
         "ipinfo": {
             "94.168.35.69": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Liberty Global Operations B.V."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -902,9 +902,9 @@
         "date_added": "03-01-2019 08:46:21",
         "ipinfo": {
             "207.246.120.109": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Choopa"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -915,9 +915,9 @@
         "date_added": "02-01-2019 02:40:16",
         "ipinfo": {
             "109.200.231.142": {
-                "ccode": "UA",
-                "cname": "Ukraine",
-                "isp": "TOV TRK \"Briz\""
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     }
