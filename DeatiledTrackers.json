@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 06:29:33",
+        "last_checked": "03-01-2019 06:22:32",
         "status": "Good",
-        "response_time": 78,
+        "response_time": 77,
         "date_added": "03-01-2019 12:17:38",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 06:32:09",
+        "last_checked": "03-01-2019 06:25:02",
         "status": "Good",
-        "response_time": 4665,
+        "response_time": 4,
         "date_added": "03-01-2019 12:18:24",
         "ipinfo": {
             "208.83.20.20": {
@@ -278,12 +278,12 @@
         "response_time": 3,
         "date_added": "03-01-2019 01:21:19",
         "ipinfo": {
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -296,12 +296,12 @@
         "response_time": 10,
         "date_added": "03-01-2019 01:25:04",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 01:32:34",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -351,9 +351,14 @@
         "date_added": "03-01-2019 01:36:19",
         "ipinfo": {
             "104.18.49.52": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
+            "104.18.48.52": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -364,9 +369,9 @@
         "date_added": "03-01-2019 01:17:34",
         "ipinfo": {
             "51.68.122.172": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH SAS"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -377,9 +382,9 @@
         "date_added": "03-01-2019 01:56:22",
         "ipinfo": {
             "85.202.163.5": {
-                "ccode": "GB",
-                "cname": "United Kingdom",
-                "isp": "Ruben Vandepitte"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -591,12 +596,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 02:40:21",
         "ipinfo": {
-            "104.31.91.56": {
+            "104.31.90.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.90.56": {
+            "104.31.91.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
