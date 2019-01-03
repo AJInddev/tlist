@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 06:21:32",
+        "last_checked": "03-01-2019 06:12:32",
         "status": "Good",
-        "response_time": 4,
+        "response_time": 2,
         "date_added": "03-01-2019 12:17:38",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 06:24:02",
+        "last_checked": "03-01-2019 06:15:02",
         "status": "Good",
         "response_time": 3,
         "date_added": "03-01-2019 12:18:24",
@@ -109,7 +109,7 @@
         "response_time": 2,
         "date_added": "03-01-2019 12:44:55",
         "ipinfo": {
-            "91.216.110.52": {
+            "89.234.156.205": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -278,12 +278,12 @@
         "response_time": 3,
         "date_added": "03-01-2019 01:21:19",
         "ipinfo": {
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -382,9 +382,9 @@
         "date_added": "03-01-2019 01:56:22",
         "ipinfo": {
             "85.202.163.5": {
-                "ccode": "GB",
-                "cname": "United Kingdom",
-                "isp": "PitCom Limited"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -395,9 +395,9 @@
         "date_added": "25-12-2018 08:20:09",
         "ipinfo": {
             "68.183.220.172": {
-                "ccode": "DE",
-                "cname": "Germany",
-                "isp": "DigitalOcean, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -408,9 +408,9 @@
         "date_added": "17-12-2018 06:29:09",
         "ipinfo": {
             "213.184.225.53": {
-                "ccode": "BY",
-                "cname": "Belarus",
-                "isp": "ATLANTELECOM"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -421,9 +421,9 @@
         "date_added": "16-12-2018 06:24:25",
         "ipinfo": {
             "68.183.220.172": {
-                "ccode": "DE",
-                "cname": "Germany",
-                "isp": "DigitalOcean, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -436,7 +436,7 @@
             "91.217.91.21": {
                 "ccode": "UA",
                 "cname": "Ukraine",
-                "isp": "XSERVER"
+                "isp": "PE Ivanov Vitaliy Sergeevich"
             }
         }
     },
@@ -705,17 +705,17 @@
         "response_time": 11,
         "date_added": "03-01-2019 01:43:52",
         "ipinfo": {
-            "54.39.98.124": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
             "139.99.45.37": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
             "51.38.230.101": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
+            "54.39.98.124": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
