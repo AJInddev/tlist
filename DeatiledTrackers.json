@@ -13,7 +13,7 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:05:12",
+        "last_checked": "03-01-2019 12:06:12",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:15",
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:05:22",
+        "last_checked": "03-01-2019 12:08:22",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:25",
@@ -109,10 +109,10 @@
         "response_time": 2,
         "date_added": "03-01-2019 11:56:19",
         "ipinfo": {
-            "91.216.110.52": {
+            "89.234.156.205": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Grenode"
+                "isp": "Tetaneutral.net hosting"
             }
         }
     },
@@ -138,7 +138,7 @@
             "5.2.79.219": {
                 "ccode": "NL",
                 "cname": "Netherlands",
-                "isp": "Liteserver Holding B.V."
+                "isp": "Liteserver DRN VPS"
             }
         }
     },
@@ -240,9 +240,9 @@
         "date_added": "03-01-2019 11:56:49",
         "ipinfo": {
             "8.9.31.140": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "CHOOPA.COM"
             }
         }
     },
@@ -255,7 +255,7 @@
             "212.47.227.58": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "ONLINE"
+                "isp": "Online"
             }
         }
     },
@@ -278,7 +278,7 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:58:47",
         "ipinfo": {
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -291,7 +291,7 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:58:57",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -304,10 +304,10 @@
         "response_time": 3,
         "date_added": "03-01-2019 11:59:07",
         "ipinfo": {
-            "104.31.112.207": {
+            "2606:4700:30::681f:71cf": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "isp": "Cloudflare"
             }
         }
     },
@@ -331,6 +331,11 @@
         "date_added": "03-01-2019 11:59:27",
         "ipinfo": {
             "104.18.49.52": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            },
+            "104.18.48.52": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -359,7 +364,7 @@
             "85.202.163.5": {
                 "ccode": "GB",
                 "cname": "United Kingdom",
-                "isp": "PitCom Limited"
+                "isp": "Ruben Vandepitte"
             }
         }
     },
@@ -411,7 +416,7 @@
             "91.217.91.21": {
                 "ccode": "UA",
                 "cname": "Ukraine",
-                "isp": "XSERVER"
+                "isp": "PE Ivanov Vitaliy Sergeevich"
             }
         }
     },
@@ -500,9 +505,9 @@
         "date_added": "03-01-2019 12:02:52",
         "ipinfo": {
             "185.203.116.54": {
-                "ccode": "BG",
-                "cname": "Bulgaria",
-                "isp": "BelCloud Hosting Corporation"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -513,9 +518,9 @@
         "date_added": "03-01-2019 12:03:02",
         "ipinfo": {
             "51.15.179.14": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "Online S.A.S."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -526,9 +531,9 @@
         "date_added": "03-01-2019 12:03:12",
         "ipinfo": {
             "45.32.219.126": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Choopa"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -546,9 +551,9 @@
         "date_added": "03-01-2019 12:03:22",
         "ipinfo": {
             "94.23.217.90": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH ISP"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -559,9 +564,9 @@
         "date_added": "03-01-2019 12:03:32",
         "ipinfo": {
             "138.68.225.164": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "DigitalOcean, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -571,10 +576,15 @@
         "response_time": 4,
         "date_added": "03-01-2019 12:03:42",
         "ipinfo": {
+            "104.31.91.56": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "104.31.90.56": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -585,9 +595,9 @@
         "date_added": "03-01-2019 12:03:53",
         "ipinfo": {
             "185.217.0.76": {
-                "ccode": "SE",
-                "cname": "Sweden",
-                "isp": "Icme Limited"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -598,9 +608,9 @@
         "date_added": "03-01-2019 12:04:03",
         "ipinfo": {
             "185.217.0.76": {
-                "ccode": "SE",
-                "cname": "Sweden",
-                "isp": "Icme Limited"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -611,9 +621,9 @@
         "date_added": "03-01-2019 12:04:13",
         "ipinfo": {
             "185.217.0.78": {
-                "ccode": "SE",
-                "cname": "Sweden",
-                "isp": "Icme Limited"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -624,9 +634,9 @@
         "date_added": "03-01-2019 12:04:23",
         "ipinfo": {
             "185.217.0.77": {
-                "ccode": "SE",
-                "cname": "Sweden",
-                "isp": "Icme Limited"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
