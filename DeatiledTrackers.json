@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 06:04:32",
+        "last_checked": "03-01-2019 06:11:32",
         "status": "Good",
-        "response_time": 79,
+        "response_time": 3,
         "date_added": "03-01-2019 12:17:38",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 06:07:02",
+        "last_checked": "03-01-2019 06:14:02",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "03-01-2019 12:18:24",
         "ipinfo": {
             "208.83.20.20": {
@@ -278,12 +278,12 @@
         "response_time": 3,
         "date_added": "03-01-2019 01:21:19",
         "ipinfo": {
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -296,12 +296,12 @@
         "response_time": 10,
         "date_added": "03-01-2019 01:25:04",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -314,12 +314,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 01:28:49",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 01:32:34",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -434,9 +434,9 @@
         "date_added": "14-12-2018 06:23:14",
         "ipinfo": {
             "91.217.91.21": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "UA",
+                "cname": "Ukraine",
+                "isp": "PE Ivanov Vitaliy Sergeevich"
             }
         }
     },
@@ -447,9 +447,9 @@
         "date_added": "03-01-2019 02:01:22",
         "ipinfo": {
             "45.56.74.11": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Linode, LLC"
             }
         }
     },
@@ -460,9 +460,9 @@
         "date_added": "03-01-2019 02:03:53",
         "ipinfo": {
             "95.211.195.88": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "NL",
+                "cname": "Netherlands",
+                "isp": "LeaseWeb Netherlands B.V."
             }
         }
     },
@@ -475,7 +475,7 @@
             "91.217.91.21": {
                 "ccode": "UA",
                 "cname": "Ukraine",
-                "isp": "PE Ivanov Vitaliy Sergeevich"
+                "isp": "XSERVER"
             }
         }
     },
@@ -499,9 +499,9 @@
         "date_added": "03-01-2019 12:59:57",
         "ipinfo": {
             "5.2.70.184": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Liteserver Holding B.V."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -596,12 +596,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 02:40:21",
         "ipinfo": {
-            "104.31.91.56": {
+            "104.31.90.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.90.56": {
+            "104.31.91.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
