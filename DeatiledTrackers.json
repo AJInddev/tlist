@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 06:10:32",
+        "last_checked": "03-01-2019 06:21:32",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 4,
         "date_added": "03-01-2019 12:17:38",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 06:13:02",
+        "last_checked": "03-01-2019 06:24:02",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "03-01-2019 12:18:24",
         "ipinfo": {
             "208.83.20.20": {
@@ -278,12 +278,12 @@
         "response_time": 3,
         "date_added": "03-01-2019 01:21:19",
         "ipinfo": {
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -296,12 +296,12 @@
         "response_time": 10,
         "date_added": "03-01-2019 01:25:04",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -314,12 +314,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 01:28:49",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -382,9 +382,9 @@
         "date_added": "03-01-2019 01:56:22",
         "ipinfo": {
             "85.202.163.5": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "GB",
+                "cname": "United Kingdom",
+                "isp": "PitCom Limited"
             }
         }
     },
@@ -395,9 +395,9 @@
         "date_added": "25-12-2018 08:20:09",
         "ipinfo": {
             "68.183.220.172": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "DE",
+                "cname": "Germany",
+                "isp": "DigitalOcean, LLC"
             }
         }
     },
@@ -408,9 +408,9 @@
         "date_added": "17-12-2018 06:29:09",
         "ipinfo": {
             "213.184.225.53": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "BY",
+                "cname": "Belarus",
+                "isp": "ATLANTELECOM"
             }
         }
     },
@@ -421,9 +421,9 @@
         "date_added": "16-12-2018 06:24:25",
         "ipinfo": {
             "68.183.220.172": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "DE",
+                "cname": "Germany",
+                "isp": "DigitalOcean, LLC"
             }
         }
     },
@@ -434,9 +434,9 @@
         "date_added": "14-12-2018 06:23:14",
         "ipinfo": {
             "91.217.91.21": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "UA",
+                "cname": "Ukraine",
+                "isp": "XSERVER"
             }
         }
     },
