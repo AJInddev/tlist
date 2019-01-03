@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:04:17",
+        "last_checked": "03-01-2019 12:05:15",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 10,
         "date_added": "02-01-2019 07:01:33",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:04:30",
+        "last_checked": "03-01-2019 12:05:32",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 07:03:41",
@@ -278,7 +278,7 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:53:55",
         "ipinfo": {
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -500,9 +500,9 @@
         "date_added": "02-01-2019 08:54:13",
         "ipinfo": {
             "185.203.116.54": {
-                "ccode": "BG",
-                "cname": "Bulgaria",
-                "isp": "BelCloud Hosting Corporation"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -513,9 +513,9 @@
         "date_added": "02-01-2019 08:56:29",
         "ipinfo": {
             "51.15.179.14": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "Online S.A.S."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -526,9 +526,9 @@
         "date_added": "02-01-2019 08:58:39",
         "ipinfo": {
             "45.32.219.126": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Choopa"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -546,9 +546,9 @@
         "date_added": "01-01-2019 09:02:23",
         "ipinfo": {
             "94.23.217.90": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH ISP"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -559,9 +559,9 @@
         "date_added": "02-01-2019 09:03:08",
         "ipinfo": {
             "138.68.225.164": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "DigitalOcean, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -680,17 +680,17 @@
         "response_time": 82,
         "date_added": "02-01-2019 06:08:18",
         "ipinfo": {
+            "139.99.45.37": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "51.38.230.101": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
             "54.39.98.124": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
-            "139.99.45.37": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
