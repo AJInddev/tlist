@@ -13,7 +13,7 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:18:32",
+        "last_checked": "03-01-2019 12:22:32",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:15",
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:21:02",
+        "last_checked": "03-01-2019 12:25:02",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:25",
@@ -278,12 +278,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:58:47",
         "ipinfo": {
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -314,12 +314,12 @@
         "response_time": 3,
         "date_added": "03-01-2019 11:59:07",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -716,9 +716,9 @@
                 "isp": ""
             },
             "139.99.45.37": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "SG",
+                "cname": "Singapore",
+                "isp": "OVH Singapore PTE. LTD"
             }
         }
     },
@@ -729,9 +729,9 @@
         "date_added": "01-01-2019 08:26:15",
         "ipinfo": {
             "75.127.14.224": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "ColoCrossing"
             }
         }
     },
@@ -744,7 +744,7 @@
             "5.206.28.90": {
                 "ccode": "RU",
                 "cname": "Russia",
-                "isp": ""
+                "isp": "Intersvyaz-2 JSC"
             }
         }
     },
@@ -757,7 +757,7 @@
             "210.244.71.25": {
                 "ccode": "TW",
                 "cname": "Taiwan",
-                "isp": "SEEDNET"
+                "isp": "Digital United Inc."
             }
         }
     },
@@ -770,7 +770,7 @@
             "210.244.71.25": {
                 "ccode": "TW",
                 "cname": "Taiwan",
-                "isp": "Digital United Inc."
+                "isp": "SEEDNET"
             }
         }
     },
@@ -872,9 +872,9 @@
         "date_added": "03-01-2019 12:01:23",
         "ipinfo": {
             "77.73.68.210": {
-                "ccode": "RU",
-                "cname": "Russia",
-                "isp": "RNET ISP & veesp.com DC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
