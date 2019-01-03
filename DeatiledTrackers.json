@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:06:12",
+        "last_checked": "03-01-2019 12:08:27",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 77,
         "date_added": "03-01-2019 11:54:15",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:08:22",
+        "last_checked": "03-01-2019 12:08:37",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "03-01-2019 11:54:25",
         "ipinfo": {
             "208.83.20.20": {
@@ -84,9 +84,9 @@
         "date_added": "03-01-2019 11:54:46",
         "ipinfo": {
             "128.1.203.23": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Zenlayer Inc"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -109,10 +109,10 @@
         "response_time": 2,
         "date_added": "03-01-2019 11:56:19",
         "ipinfo": {
-            "89.234.156.205": {
+            "91.216.110.52": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Tetaneutral.net hosting"
+                "isp": "Grenode"
             }
         }
     },
@@ -123,9 +123,9 @@
         "date_added": "03-01-2019 11:56:29",
         "ipinfo": {
             "51.38.184.185": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "FR",
+                "cname": "France",
+                "isp": "OVH SAS"
             }
         }
     },
@@ -138,7 +138,7 @@
             "5.2.79.219": {
                 "ccode": "NL",
                 "cname": "Netherlands",
-                "isp": "Liteserver DRN VPS"
+                "isp": "Liteserver Holding B.V."
             }
         }
     },
@@ -242,7 +242,7 @@
             "8.9.31.140": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "CHOOPA.COM"
+                "isp": "Level 3 Communications"
             }
         }
     },
@@ -291,7 +291,7 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:58:57",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -304,10 +304,10 @@
         "response_time": 3,
         "date_added": "03-01-2019 11:59:07",
         "ipinfo": {
-            "2606:4700:30::681f:71cf": {
+            "104.31.112.207": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Cloudflare"
+                "isp": "Cloudflare, Inc."
             }
         }
     },
@@ -317,7 +317,7 @@
         "response_time": 6,
         "date_added": "03-01-2019 11:59:17",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -330,11 +330,6 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:59:27",
         "ipinfo": {
-            "104.18.49.52": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
-            },
             "104.18.48.52": {
                 "ccode": "US",
                 "cname": "United States",
@@ -390,7 +385,7 @@
             "213.184.225.53": {
                 "ccode": "BY",
                 "cname": "Belarus",
-                "isp": "ATLANTELECOM"
+                "isp": "Telecom ISP Company"
             }
         }
     },
@@ -416,7 +411,7 @@
             "91.217.91.21": {
                 "ccode": "UA",
                 "cname": "Ukraine",
-                "isp": "PE Ivanov Vitaliy Sergeevich"
+                "isp": "XSERVER"
             }
         }
     },
@@ -479,9 +474,9 @@
         "date_added": "02-01-2019 07:43:56",
         "ipinfo": {
             "5.2.70.184": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Liteserver Holding B.V."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -492,9 +487,9 @@
         "date_added": "03-01-2019 07:46:38",
         "ipinfo": {
             "5.2.70.184": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Liteserver Holding B.V."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -576,12 +571,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 12:03:42",
         "ipinfo": {
-            "104.31.91.56": {
+            "104.31.90.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.90.56": {
+            "104.31.91.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -685,17 +680,17 @@
         "response_time": 11,
         "date_added": "03-01-2019 11:59:50",
         "ipinfo": {
-            "51.38.230.101": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
             "54.39.98.124": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
             "139.99.45.37": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
+            "51.38.230.101": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
