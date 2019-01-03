@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:27:31",
+        "last_checked": "03-01-2019 12:29:31",
         "status": "Good",
-        "response_time": 77,
+        "response_time": 78,
         "date_added": "03-01-2019 11:54:15",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:30:01",
+        "last_checked": "03-01-2019 12:32:01",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:25",
@@ -278,12 +278,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:58:47",
         "ipinfo": {
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -296,12 +296,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:58:57",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 6,
         "date_added": "03-01-2019 11:59:17",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -695,7 +695,7 @@
             "64.78.163.242": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Emagine Concept, Inc."
+                "isp": "Emagine Concept"
             }
         }
     },
@@ -705,10 +705,10 @@
         "response_time": 11,
         "date_added": "03-01-2019 11:59:50",
         "ipinfo": {
-            "2001:41d0:305:2100::2619": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH"
+            "2402:1f00:8000:800::1033": {
+                "ccode": "SG",
+                "cname": "Singapore",
+                "isp": "OVH SAS"
             }
         }
     },
@@ -734,7 +734,7 @@
             "5.206.28.90": {
                 "ccode": "RU",
                 "cname": "Russia",
-                "isp": "Intersvyaz-2 JSC"
+                "isp": ""
             }
         }
     },
@@ -760,7 +760,7 @@
             "210.244.71.25": {
                 "ccode": "TW",
                 "cname": "Taiwan",
-                "isp": "Digital United Inc."
+                "isp": "SEEDNET"
             }
         }
     },
@@ -849,9 +849,9 @@
         "date_added": "03-01-2019 12:00:52",
         "ipinfo": {
             "64.32.13.242": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Sharktech"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
