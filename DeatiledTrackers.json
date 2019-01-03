@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:28:31",
+        "last_checked": "03-01-2019 12:36:31",
         "status": "Good",
-        "response_time": 80,
+        "response_time": 2,
         "date_added": "03-01-2019 11:54:15",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:31:01",
+        "last_checked": "03-01-2019 12:39:02",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:25",
@@ -296,12 +296,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:58:57",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 6,
         "date_added": "03-01-2019 11:59:17",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -596,12 +596,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 12:03:42",
         "ipinfo": {
-            "104.31.90.56": {
+            "104.31.91.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.91.56": {
+            "104.31.90.56": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -654,9 +654,9 @@
         "date_added": "03-01-2019 12:04:23",
         "ipinfo": {
             "185.217.0.77": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "SE",
+                "cname": "Sweden",
+                "isp": "Icme Limited"
             }
         }
     },
@@ -667,9 +667,9 @@
         "date_added": "03-01-2019 12:02:29",
         "ipinfo": {
             "195.88.220.21": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "RU",
+                "cname": "Russia",
+                "isp": "SAKHTV-NETWORK"
             }
         }
     },
@@ -680,9 +680,9 @@
         "date_added": "31-12-2018 08:03:04",
         "ipinfo": {
             "45.119.209.194": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "DataWagon LLC"
             }
         }
     },
@@ -695,7 +695,7 @@
             "64.78.163.242": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Emagine Concept, Inc."
+                "isp": "Emagine Concept"
             }
         }
     },
@@ -708,7 +708,17 @@
             "54.39.98.124": {
                 "ccode": "CA",
                 "cname": "Canada",
-                "isp": "OVH SAS"
+                "isp": "OVH Hosting, Inc"
+            },
+            "139.99.45.37": {
+                "ccode": "SG",
+                "cname": "Singapore",
+                "isp": "OVH Singapore PTE. LTD"
+            },
+            "51.38.230.101": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -721,7 +731,7 @@
             "75.127.14.224": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "New Wave NetConnect, LLC"
+                "isp": "ColoCrossing"
             }
         }
     },
@@ -734,7 +744,7 @@
             "5.206.28.90": {
                 "ccode": "RU",
                 "cname": "Russia",
-                "isp": ""
+                "isp": "Intersvyaz-2 JSC"
             }
         }
     },
@@ -823,9 +833,9 @@
         "date_added": "16-12-2018 06:24:25",
         "ipinfo": {
             "45.79.184.106": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Linode, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
