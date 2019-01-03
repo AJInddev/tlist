@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:21:32",
+        "last_checked": "03-01-2019 12:26:31",
         "status": "Good",
-        "response_time": 77,
+        "response_time": 3,
         "date_added": "03-01-2019 11:54:15",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:24:02",
+        "last_checked": "03-01-2019 12:29:01",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:25",
@@ -109,7 +109,7 @@
         "response_time": 2,
         "date_added": "03-01-2019 11:56:19",
         "ipinfo": {
-            "89.234.156.205": {
+            "91.216.110.52": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 6,
         "date_added": "03-01-2019 11:59:17",
         "ipinfo": {
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -705,20 +705,10 @@
         "response_time": 11,
         "date_added": "03-01-2019 11:59:50",
         "ipinfo": {
-            "139.99.45.37": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
-            "51.38.230.101": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
-            "54.39.98.124": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+            "2607:5300:201:3100::6776": {
+                "ccode": "CA",
+                "cname": "Canada",
+                "isp": "OVH SAS"
             }
         }
     },
@@ -770,7 +760,7 @@
             "210.244.71.25": {
                 "ccode": "TW",
                 "cname": "Taiwan",
-                "isp": "SEEDNET"
+                "isp": "Digital United Inc."
             }
         }
     },
@@ -783,7 +773,7 @@
             "210.244.71.25": {
                 "ccode": "TW",
                 "cname": "Taiwan",
-                "isp": "Digital United Inc."
+                "isp": "SEEDNET"
             }
         }
     },
@@ -796,7 +786,7 @@
             "188.68.224.156": {
                 "ccode": "PL",
                 "cname": "Poland",
-                "isp": "Sprint S.A."
+                "isp": "\"SPRINT\" S.A."
             }
         }
     },
