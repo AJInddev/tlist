@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 08:46:50",
+        "last_checked": "03-01-2019 08:41:14",
         "status": "Good",
-        "response_time": 78,
+        "response_time": 87,
         "date_added": "03-01-2019 06:11:39",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 08:49:09",
+        "last_checked": "03-01-2019 08:43:30",
         "status": "Good",
-        "response_time": 1710,
+        "response_time": 3,
         "date_added": "03-01-2019 06:13:53",
         "ipinfo": {
             "208.83.20.20": {
@@ -278,12 +278,12 @@
         "response_time": 7,
         "date_added": "03-01-2019 07:11:31",
         "ipinfo": {
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -898,9 +898,9 @@
         "date_added": "02-01-2019 09:05:34",
         "ipinfo": {
             "51.15.43.202": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Online S.A.S."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -911,9 +911,9 @@
         "date_added": "03-01-2019 07:36:18",
         "ipinfo": {
             "207.246.120.109": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Choopa"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -926,7 +926,7 @@
             "94.168.35.69": {
                 "ccode": "NL",
                 "cname": "Netherlands",
-                "isp": "Liberty Global Operations B.V."
+                "isp": "Ziggo Services B.V."
             }
         }
     },
@@ -937,9 +937,9 @@
         "date_added": "03-01-2019 07:54:15",
         "ipinfo": {
             "207.246.120.109": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Choopa"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -950,9 +950,9 @@
         "date_added": "02-01-2019 02:40:16",
         "ipinfo": {
             "109.200.231.142": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
+                "ccode": "UA",
+                "cname": "Ukraine",
+                "isp": "Briz"
             }
         }
     }
