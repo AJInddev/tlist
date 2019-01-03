@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:07:14",
+        "last_checked": "03-01-2019 12:08:18",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "02-01-2019 07:01:33",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:07:26",
+        "last_checked": "03-01-2019 12:08:33",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "02-01-2019 07:03:41",
         "ipinfo": {
             "208.83.20.20": {
@@ -162,9 +162,9 @@
         "date_added": "02-01-2019 07:23:52",
         "ipinfo": {
             "176.31.106.35": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH ISP"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -175,9 +175,9 @@
         "date_added": "02-01-2019 07:32:47",
         "ipinfo": {
             "37.235.174.46": {
-                "ccode": "RU",
-                "cname": "Russia",
-                "isp": "Lanta Networks"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -188,9 +188,9 @@
         "date_added": "02-01-2019 07:41:40",
         "ipinfo": {
             "188.246.227.212": {
-                "ccode": "RU",
-                "cname": "Russia",
-                "isp": "SELECTEL-NET-MSK"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -201,9 +201,9 @@
         "date_added": "02-01-2019 07:35:01",
         "ipinfo": {
             "95.211.168.204": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "LeaseWeb Netherlands B.V."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -214,9 +214,9 @@
         "date_added": "02-01-2019 07:48:22",
         "ipinfo": {
             "51.15.76.199": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Online S.A.S."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -227,9 +227,9 @@
         "date_added": "17-12-2018 06:29:05",
         "ipinfo": {
             "185.83.215.123": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Server Hosting Pty Ltd"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -240,9 +240,9 @@
         "date_added": "02-01-2019 07:30:34",
         "ipinfo": {
             "8.9.31.140": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Level 3 Communications"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -253,9 +253,9 @@
         "date_added": "02-01-2019 08:22:53",
         "ipinfo": {
             "212.47.227.58": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "Online"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -266,9 +266,9 @@
         "date_added": "02-01-2019 07:39:25",
         "ipinfo": {
             "159.100.245.181": {
-                "ccode": "GB",
-                "cname": "United Kingdom",
-                "isp": "TRRLNET"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -278,12 +278,12 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:53:55",
         "ipinfo": {
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -314,12 +314,12 @@
         "response_time": 4,
         "date_added": "02-01-2019 08:02:51",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 55,
         "date_added": "02-01-2019 08:10:42",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
