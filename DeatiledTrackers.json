@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:49:31",
+        "last_checked": "03-01-2019 12:48:31",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 2,
         "date_added": "03-01-2019 11:54:15",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:52:01",
+        "last_checked": "03-01-2019 12:51:01",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:25",
@@ -332,12 +332,12 @@
         "response_time": 6,
         "date_added": "03-01-2019 11:59:17",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -584,9 +584,9 @@
         "date_added": "03-01-2019 12:03:32",
         "ipinfo": {
             "138.68.225.164": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Digital Ocean"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
