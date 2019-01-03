@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:06:18",
+        "last_checked": "03-01-2019 12:07:14",
         "status": "Good",
-        "response_time": 4,
+        "response_time": 2,
         "date_added": "02-01-2019 07:01:33",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:06:35",
+        "last_checked": "03-01-2019 12:07:26",
         "status": "Good",
         "response_time": 2,
         "date_added": "02-01-2019 07:03:41",
@@ -278,10 +278,15 @@
         "response_time": 4,
         "date_added": "02-01-2019 07:53:55",
         "ipinfo": {
+            "104.31.71.251": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "104.31.70.251": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -291,10 +296,15 @@
         "response_time": 8,
         "date_added": "02-01-2019 07:57:13",
         "ipinfo": {
+            "104.31.112.103": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "104.31.113.103": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -304,10 +314,15 @@
         "response_time": 4,
         "date_added": "02-01-2019 08:02:51",
         "ipinfo": {
-            "2606:4700:30::681f:71cf": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare"
+            "104.31.113.207": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
+            "104.31.112.207": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -317,10 +332,15 @@
         "response_time": 55,
         "date_added": "02-01-2019 08:10:42",
         "ipinfo": {
+            "104.31.112.103": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "104.31.113.103": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -331,9 +351,14 @@
         "date_added": "02-01-2019 08:13:59",
         "ipinfo": {
             "104.18.49.52": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
+            "104.18.48.52": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -344,9 +369,9 @@
         "date_added": "02-01-2019 07:50:32",
         "ipinfo": {
             "51.68.122.172": {
-                "ccode": "FR",
-                "cname": "France",
-                "isp": "OVH SAS"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -357,9 +382,9 @@
         "date_added": "02-01-2019 08:29:29",
         "ipinfo": {
             "85.202.163.5": {
-                "ccode": "GB",
-                "cname": "United Kingdom",
-                "isp": "Ruben Vandepitte"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -370,9 +395,9 @@
         "date_added": "25-12-2018 08:20:09",
         "ipinfo": {
             "68.183.220.172": {
-                "ccode": "DE",
-                "cname": "Germany",
-                "isp": "DigitalOcean, LLC"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -383,9 +408,9 @@
         "date_added": "17-12-2018 06:29:09",
         "ipinfo": {
             "213.184.225.53": {
-                "ccode": "BY",
-                "cname": "Belarus",
-                "isp": "ATLANTELECOM"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -680,17 +705,17 @@
         "response_time": 82,
         "date_added": "02-01-2019 06:08:18",
         "ipinfo": {
+            "51.38.230.101": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "54.39.98.124": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
             "139.99.45.37": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
-            "51.38.230.101": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
