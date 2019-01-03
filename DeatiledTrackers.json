@@ -13,7 +13,7 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-01-2019 12:40:32",
+        "last_checked": "03-01-2019 12:39:32",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:15",
@@ -26,7 +26,7 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-01-2019 12:43:02",
+        "last_checked": "03-01-2019 12:42:02",
         "status": "Good",
         "response_time": 2,
         "date_added": "03-01-2019 11:54:25",
@@ -109,7 +109,7 @@
         "response_time": 2,
         "date_added": "03-01-2019 11:56:19",
         "ipinfo": {
-            "91.216.110.52": {
+            "89.234.156.205": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -314,12 +314,12 @@
         "response_time": 3,
         "date_added": "03-01-2019 11:59:07",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -350,12 +350,12 @@
         "response_time": 4,
         "date_added": "03-01-2019 11:59:27",
         "ipinfo": {
-            "104.18.48.52": {
+            "104.18.49.52": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.18.49.52": {
+            "104.18.48.52": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -628,9 +628,9 @@
         "date_added": "03-01-2019 12:04:03",
         "ipinfo": {
             "185.217.0.76": {
-                "ccode": "SE",
-                "cname": "Sweden",
-                "isp": "Icme Limited"
+                "ccode": "",
+                "cname": "",
+                "isp": ""
             }
         }
     },
@@ -705,9 +705,9 @@
         "response_time": 11,
         "date_added": "03-01-2019 11:59:50",
         "ipinfo": {
-            "139.99.45.37": {
-                "ccode": "SG",
-                "cname": "Singapore",
+            "54.39.98.124": {
+                "ccode": "CA",
+                "cname": "Canada",
                 "isp": "OVH SAS"
             }
         }
