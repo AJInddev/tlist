@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "06-01-2019 12:03:32",
+        "last_checked": "06-01-2019 12:04:32",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 95,
         "date_added": "05-01-2019 05:02:01",
         "ipinfo": {
             "51.15.4.13": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "06-01-2019 12:06:02",
+        "last_checked": "06-01-2019 12:07:02",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "05-01-2019 05:07:01",
         "ipinfo": {
             "208.83.20.20": {
@@ -278,12 +278,12 @@
         "response_time": 9,
         "date_added": "05-01-2019 06:10:50",
         "ipinfo": {
-            "104.31.71.251": {
+            "104.31.70.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.70.251": {
+            "104.31.71.251": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -314,12 +314,12 @@
         "response_time": 4,
         "date_added": "05-01-2019 06:28:22",
         "ipinfo": {
-            "104.31.113.207": {
+            "104.31.112.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.112.207": {
+            "104.31.113.207": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -332,12 +332,12 @@
         "response_time": 4,
         "date_added": "05-01-2019 06:18:20",
         "ipinfo": {
-            "104.31.112.103": {
+            "104.31.113.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.113.103": {
+            "104.31.112.103": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -705,17 +705,17 @@
         "response_time": 84,
         "date_added": "05-01-2019 07:06:01",
         "ipinfo": {
+            "51.38.230.101": {
+                "ccode": "",
+                "cname": "",
+                "isp": ""
+            },
             "54.39.98.124": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
             "139.99.45.37": {
-                "ccode": "",
-                "cname": "",
-                "isp": ""
-            },
-            "51.38.230.101": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
