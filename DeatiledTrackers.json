@@ -13,7 +13,7 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "07-01-2019 06:19:32",
+        "last_checked": "07-01-2019 06:20:31",
         "status": "Good",
         "response_time": 77,
         "date_added": "07-01-2019 09:04:36",
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "07-01-2019 06:22:02",
+        "last_checked": "07-01-2019 06:23:01",
         "status": "Good",
-        "response_time": 2,
+        "response_time": 3,
         "date_added": "07-01-2019 09:07:06",
         "ipinfo": {
             "208.83.20.20": {
@@ -278,12 +278,12 @@
         "response_time": 4,
         "date_added": "07-01-2019 10:11:01",
         "ipinfo": {
-            "104.31.73.220": {
+            "104.31.72.220": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "104.31.72.220": {
+            "104.31.73.220": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
@@ -350,12 +350,12 @@
         "response_time": 4,
         "date_added": "07-01-2019 10:28:33",
         "ipinfo": {
-            "172.64.101.38": {
+            "172.64.100.38": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
             },
-            "172.64.100.38": {
+            "172.64.101.38": {
                 "ccode": "",
                 "cname": "",
                 "isp": ""
