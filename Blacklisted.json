@@ -615,5 +615,11 @@
         "url": "http:\/\/tracker.btsync.gq:233\/announce",
         "reason": "Possible duplicate of udp:\/\/tracker.btsync.gq:233\/announce",
         "last_checked": "12-12-2018 12:00:19"
+    },
+    {
+        "url": "udp:\/\/tracker.open-internet.nl:6969\/announce",
+        "reason": "duplicate of udp:\/\/tracker.leechers-paradise.org:6969\/announce",
+        "last_checked": "01-02-2019 11:30:04",
+        "date_added": "01-02-2019 11:30:04"
     }
 ]
