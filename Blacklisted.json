@@ -621,5 +621,16 @@
         "reason": "duplicate of udp:\/\/tracker.leechers-paradise.org:6969\/announce",
         "last_checked": "01-02-2019 11:30:04",
         "date_added": "01-02-2019 11:30:04"
+    },
+    {
+        "url": "https:\/\/tracker.vectahosting.eu:2083\/announce",
+        "reason": "duplicate of https:\/\/tracker.vectahosting.eu:2053\/announce",
+        "last_checked": "03-02-2019 11:30:04",
+        "date_added": "03-02-2019 11:30:04"
+    },
+    {
+        "url": "https:\/\/tracker.vectahosting.eu:2053\/announce",
+        "reason": "Possible duplicate of https:\/\/tracker.vectahosting.eu:2083\/announce",
+        "last_checked": "03-02-2019 11:34:04"
     }
 ]
