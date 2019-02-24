@@ -632,5 +632,93 @@
         "url": "https:\/\/tracker.vectahosting.eu:2053\/announce",
         "reason": "Possible duplicate of https:\/\/tracker.vectahosting.eu:2083\/announce",
         "last_checked": "03-02-2019 11:34:04"
+    },
+    {
+        "url": "https:\/\/2.tracker.eu.org:443\/announce",
+        "reason": "duplicate https:\/\/1.tracker.eu.org:443\/announce",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "https:\/\/3.tracker.eu.org:443\/announce",
+        "reason": "duplicate https:\/\/1.tracker.eu.org:443\/announce",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "https:\/\/tracker.torrentsnows.com:443\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/torrent.fedoraproject.org:6969\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/torrent.mp3quran.net:80\/announce.php",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/bt.3dmgame.com:2710\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/bt.ali213.net:8000\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/bt.firebit.org:2710\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/concen.org:6969\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/www.zone-torrent.net:80\/announce.php",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/tracker.kali.org:6969\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/tracker.etree.org:6969\/announce",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "http:\/\/www.megatorrents.kg:80\/announce.php",
+        "reason": "registered torrents",
+        "last_checked": "24-02-2019 11:30:04",
+        "date_added": "24-02-2019 11:30:04"
+    },
+    {
+        "url": "udp:\/\/9.rarbg.me:2710\/announce",
+        "reason": "Possible duplicate of udp:\/\/9.rarbg.me:2780\/announce",
+        "last_checked": "24-02-2019 11:30:23"
+    },
+    {
+        "url": "udp:\/\/a.leopard-raws.org:6969\/announce",
+        "reason": "Possible duplicate of http:\/\/a.leopard-raws.org:6969\/announce",
+        "last_checked": "24-02-2019 11:35:02"
     }
 ]
