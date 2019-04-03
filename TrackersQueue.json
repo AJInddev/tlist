@@ -2,8 +2,8 @@
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "03-04-2019 03:30:22",
-        "date_added": "03-04-2019 03:30:22"
+        "last_checked": "03-04-2019 04:30:23",
+        "date_added": "03-04-2019 04:30:23"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
         "status": "Down",
@@ -26,14 +26,14 @@
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "03-04-2019 03:32:44",
-        "date_added": "03-04-2019 03:32:44"
+        "last_checked": "03-04-2019 04:32:49",
+        "date_added": "03-04-2019 04:32:49"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "03-04-2019 03:34:36",
-        "date_added": "03-04-2019 03:34:36"
+        "last_checked": "03-04-2019 04:34:39",
+        "date_added": "03-04-2019 04:34:39"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -44,26 +44,26 @@
     "http:\/\/retracker.mgts.by:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "03-04-2019 03:34:57",
-        "date_added": "03-04-2019 03:34:57"
+        "last_checked": "03-04-2019 04:34:59",
+        "date_added": "03-04-2019 04:34:59"
     },
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "03-04-2019 03:34:15",
-        "date_added": "03-04-2019 03:34:15"
+        "last_checked": "03-04-2019 04:34:16",
+        "date_added": "03-04-2019 04:34:16"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "03-04-2019 03:33:31",
-        "date_added": "03-04-2019 03:33:31"
+        "last_checked": "03-04-2019 04:33:34",
+        "date_added": "03-04-2019 04:33:34"
     },
     "http:\/\/share.camoe.cn:8080\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "03-04-2019 03:34:57",
-        "date_added": "03-04-2019 03:34:57"
+        "last_checked": "03-04-2019 04:34:59",
+        "date_added": "03-04-2019 04:34:59"
     },
     "http:\/\/agusiq-torrents.pl:6969\/announce": {
         "status": "Down",
@@ -80,8 +80,8 @@
     "http:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "03-04-2019 03:33:27",
-        "date_added": "03-04-2019 03:33:27"
+        "last_checked": "03-04-2019 04:33:29",
+        "date_added": "03-04-2019 04:33:29"
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
@@ -482,8 +482,8 @@
     "http:\/\/tracker.open-tracker.org:1337\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "03-04-2019 03:34:46",
-        "date_added": "03-04-2019 03:34:46"
+        "last_checked": "03-04-2019 04:34:50",
+        "date_added": "03-04-2019 04:34:50"
     },
     "http:\/\/newtoncity.org:6969\/announce": {
         "status": "Down",
@@ -556,5 +556,11 @@
         "response_time": "-",
         "last_checked": "02-04-2019 05:31:15",
         "date_added": "02-04-2019 05:31:15"
+    },
+    "http:\/\/re-tracker.uz:80\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "03-04-2019 04:31:12",
+        "date_added": "03-04-2019 04:31:12"
     }
 }
