@@ -2,8 +2,8 @@
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "17-04-2019 09:30:10",
-        "date_added": "17-04-2019 09:30:10"
+        "last_checked": "17-04-2019 10:30:09",
+        "date_added": "17-04-2019 10:30:09"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
         "status": "Down",
@@ -26,14 +26,14 @@
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "17-04-2019 09:31:35",
-        "date_added": "17-04-2019 09:31:35"
+        "last_checked": "17-04-2019 10:32:38",
+        "date_added": "17-04-2019 10:32:38"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "17-04-2019 09:34:19",
-        "date_added": "17-04-2019 09:34:19"
+        "last_checked": "17-04-2019 10:34:39",
+        "date_added": "17-04-2019 10:34:39"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -44,8 +44,8 @@
     "http:\/\/retracker.mgts.by:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "17-04-2019 09:34:24",
-        "date_added": "17-04-2019 09:34:24"
+        "last_checked": "17-04-2019 10:34:51",
+        "date_added": "17-04-2019 10:34:51"
     },
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
@@ -62,8 +62,8 @@
     "http:\/\/share.camoe.cn:8080\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "17-04-2019 08:34:58",
-        "date_added": "17-04-2019 08:34:58"
+        "last_checked": "17-04-2019 10:35:12",
+        "date_added": "17-04-2019 10:35:12"
     },
     "http:\/\/agusiq-torrents.pl:6969\/announce": {
         "status": "Down",
@@ -74,14 +74,14 @@
     "http:\/\/open.acgnxtracker.com:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "17-04-2019 01:31:20",
-        "date_added": "17-04-2019 01:31:20"
+        "last_checked": "17-04-2019 10:31:20",
+        "date_added": "17-04-2019 10:31:20"
     },
     "http:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "17-04-2019 09:31:55",
-        "date_added": "17-04-2019 09:31:55"
+        "last_checked": "17-04-2019 10:32:17",
+        "date_added": "17-04-2019 10:32:17"
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
@@ -104,14 +104,14 @@
     "http:\/\/private.minimafia.nl:443\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "17-04-2019 08:34:41",
-        "date_added": "17-04-2019 08:34:41"
+        "last_checked": "17-04-2019 10:35:18",
+        "date_added": "17-04-2019 10:35:18"
     },
     "http:\/\/prestige.minimafia.nl:443\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "17-04-2019 09:34:48",
-        "date_added": "17-04-2019 09:34:48"
+        "last_checked": "17-04-2019 10:35:24",
+        "date_added": "17-04-2019 10:35:24"
     },
     "http:\/\/0d.kebhana.mx:443\/announce": {
         "status": "Down",
@@ -566,8 +566,8 @@
     "http:\/\/tracker.vivancos.eu\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "17-04-2019 09:33:38",
-        "date_added": "17-04-2019 09:33:38"
+        "last_checked": "17-04-2019 10:34:01",
+        "date_added": "17-04-2019 10:34:01"
     },
     "udp:\/\/tracker.filemail.com:6969\/announce": {
         "status": "Down",
@@ -586,5 +586,11 @@
         "response_time": "-",
         "last_checked": "16-04-2019 07:35:52",
         "date_added": "16-04-2019 07:35:52"
+    },
+    "http:\/\/retracker.sevstar.net:2710\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "17-04-2019 10:34:51",
+        "date_added": "17-04-2019 10:34:51"
     }
 }
