@@ -720,5 +720,11 @@
         "url": "udp:\/\/a.leopard-raws.org:6969\/announce",
         "reason": "Possible duplicate of http:\/\/a.leopard-raws.org:6969\/announce",
         "last_checked": "24-02-2019 11:35:02"
+    },
+    {
+        "url": "http:\/\/anidex.moe:6969\/announce",
+        "reason": "registered torrents",
+        "last_checked": "12-05-2019 05:30:04",
+        "date_added": "12-05-2019 05:30:04"
     }
 ]

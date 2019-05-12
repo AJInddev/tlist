@@ -13,9 +13,9 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "12-05-2019 04:38:59",
+        "last_checked": "12-05-2019 05:34:10",
         "status": "Good",
-        "response_time": 83,
+        "response_time": 93,
         "date_added": "12-05-2019 04:30:23",
         "ipinfo": {
             "93.158.213.92": {
@@ -26,9 +26,9 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "12-05-2019 04:39:03",
+        "last_checked": "12-05-2019 05:34:15",
         "status": "Good",
-        "response_time": 3,
+        "response_time": 1,
         "date_added": "12-05-2019 04:30:14",
         "ipinfo": {
             "208.83.20.20": {
@@ -83,7 +83,7 @@
         "response_time": 1,
         "date_added": "15-03-2019 10:30:53",
         "ipinfo": {
-            "104.24.104.127": {
+            "104.24.105.127": {
                 "ccode": "CA",
                 "cname": "Canada",
                 "isp": "Cloudflare, Inc."
@@ -298,7 +298,7 @@
         "response_time": 5,
         "date_added": "12-05-2019 04:33:46",
         "ipinfo": {
-            "104.31.235.6": {
+            "104.31.247.6": {
                 "ccode": "CA",
                 "cname": "Canada",
                 "isp": "Cloudflare, Inc."
@@ -324,9 +324,9 @@
         "response_time": 12,
         "date_added": "12-05-2019 04:32:29",
         "ipinfo": {
-            "172.64.174.19": {
-                "ccode": "US",
-                "cname": "United States",
+            "104.18.56.77": {
+                "ccode": "CA",
+                "cname": "Canada",
                 "isp": "Cloudflare, Inc."
             }
         }
@@ -501,10 +501,10 @@
         "response_time": 11,
         "date_added": "25-01-2019 10:34:08",
         "ipinfo": {
-            "104.18.50.9": {
-                "ccode": "CA",
-                "cname": "Canada",
-                "isp": "Cloudflare, Inc."
+            "2606:4700:30::6812:3209": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare"
             }
         }
     },
@@ -547,10 +547,10 @@
         "response_time": 6,
         "date_added": "12-05-2019 04:34:45",
         "ipinfo": {
-            "104.24.127.56": {
-                "ccode": "CA",
-                "cname": "Canada",
-                "isp": "Cloudflare, Inc."
+            "2606:4700:30::6818:7f38": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare"
             }
         }
     },
@@ -599,7 +599,7 @@
         "response_time": 115,
         "date_added": "16-03-2019 04:34:50",
         "ipinfo": {
-            "198.54.117.199": {
+            "198.54.117.198": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Namecheap"
@@ -651,9 +651,9 @@
         "response_time": 86,
         "date_added": "12-05-2019 04:34:14",
         "ipinfo": {
-            "2607:5300:201:3100::6776": {
-                "ccode": "CA",
-                "cname": "Canada",
+            "2402:1f00:8000:800::1033": {
+                "ccode": "SG",
+                "cname": "Singapore",
                 "isp": "OVH SAS"
             }
         }
@@ -781,7 +781,7 @@
         "response_time": 5,
         "date_added": "25-01-2019 10:32:58",
         "ipinfo": {
-            "104.24.104.16": {
+            "104.24.105.16": {
                 "ccode": "CA",
                 "cname": "Canada",
                 "isp": "Cloudflare, Inc."
@@ -807,10 +807,10 @@
         "response_time": 5,
         "date_added": "12-05-2019 04:33:21",
         "ipinfo": {
-            "104.24.105.16": {
-                "ccode": "CA",
-                "cname": "Canada",
-                "isp": "Cloudflare, Inc."
+            "2606:4700:30::6818:6910": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare"
             }
         }
     },
@@ -1114,10 +1114,10 @@
         "response_time": 79,
         "date_added": "12-05-2019 04:32:51",
         "ipinfo": {
-            "2606:4700:30::6818:66f8": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare"
+            "104.24.102.248": {
+                "ccode": "CA",
+                "cname": "Canada",
+                "isp": "Cloudflare, Inc."
             }
         }
     },
