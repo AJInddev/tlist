@@ -2,8 +2,8 @@
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "13-06-2019 10:30:14",
-        "date_added": "13-06-2019 10:30:14"
+        "last_checked": "13-06-2019 11:30:14",
+        "date_added": "13-06-2019 11:30:14"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
         "status": "Down",
@@ -26,14 +26,14 @@
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "13-06-2019 10:35:25",
-        "date_added": "13-06-2019 10:35:25"
+        "last_checked": "13-06-2019 11:35:27",
+        "date_added": "13-06-2019 11:35:27"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "13-06-2019 10:34:06",
-        "date_added": "13-06-2019 10:34:06"
+        "last_checked": "13-06-2019 11:33:52",
+        "date_added": "13-06-2019 11:33:52"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -44,14 +44,14 @@
     "http:\/\/retracker.mgts.by:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "13-06-2019 10:31:21",
-        "date_added": "13-06-2019 10:31:21"
+        "last_checked": "13-06-2019 11:31:16",
+        "date_added": "13-06-2019 11:31:16"
     },
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "13-06-2019 10:34:43",
-        "date_added": "13-06-2019 10:34:43"
+        "last_checked": "13-06-2019 11:34:34",
+        "date_added": "13-06-2019 11:34:34"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
@@ -62,8 +62,8 @@
     "http:\/\/share.camoe.cn:8080\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "13-06-2019 10:35:09",
-        "date_added": "13-06-2019 10:35:09"
+        "last_checked": "13-06-2019 11:35:13",
+        "date_added": "13-06-2019 11:35:13"
     },
     "http:\/\/agusiq-torrents.pl:6969\/announce": {
         "status": "Down",
@@ -80,8 +80,8 @@
     "http:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "13-06-2019 10:34:25",
-        "date_added": "13-06-2019 10:34:25"
+        "last_checked": "13-06-2019 11:34:15",
+        "date_added": "13-06-2019 11:34:15"
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
@@ -434,8 +434,8 @@
     "http:\/\/tracker.gbitt.info:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "20-03-2019 09:34:16",
-        "date_added": "20-03-2019 09:34:16"
+        "last_checked": "13-06-2019 11:34:03",
+        "date_added": "13-06-2019 11:34:03"
     },
     "udp:\/\/tracker.gbitt.info:80\/announce": {
         "status": "Down",
@@ -554,8 +554,8 @@
     "http:\/\/vps02.net.orel.ru:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "05-04-2019 08:31:13",
-        "date_added": "05-04-2019 08:31:13"
+        "last_checked": "13-06-2019 11:33:47",
+        "date_added": "13-06-2019 11:33:47"
     },
     "http:\/\/re-tracker.uz:80\/announce": {
         "status": "Down",
@@ -596,8 +596,8 @@
     "http:\/\/gwp2-v19.rinet.ru:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "05-05-2019 05:32:51",
-        "date_added": "05-05-2019 05:32:51"
+        "last_checked": "13-06-2019 11:34:46",
+        "date_added": "13-06-2019 11:34:46"
     },
     "http:\/\/bt1.xxxxbt.cc:6969\/announce": {
         "status": "Down",
@@ -640,5 +640,23 @@
         "response_time": "-",
         "last_checked": "12-06-2019 09:33:52",
         "date_added": "12-06-2019 09:33:52"
+    },
+    "http:\/\/tracker.bt4g.com:2095\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "13-06-2019 11:34:09",
+        "date_added": "13-06-2019 11:34:09"
+    },
+    "udp:\/\/bt.dy20188.com:80\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "13-06-2019 11:34:58",
+        "date_added": "13-06-2019 11:34:58"
+    },
+    "https:\/\/tracker.parrotsec.org:443\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "13-06-2019 11:35:04",
+        "date_added": "13-06-2019 11:35:04"
     }
 }
