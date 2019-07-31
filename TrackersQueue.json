@@ -32,8 +32,8 @@
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "31-07-2019 08:34:59",
-        "date_added": "31-07-2019 08:34:59"
+        "last_checked": "31-07-2019 09:35:09",
+        "date_added": "31-07-2019 09:35:09"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -44,14 +44,14 @@
     "http:\/\/retracker.mgts.by:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "31-07-2019 08:31:30",
-        "date_added": "31-07-2019 08:31:30"
+        "last_checked": "31-07-2019 09:31:34",
+        "date_added": "31-07-2019 09:31:34"
     },
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "31-07-2019 08:34:18",
-        "date_added": "31-07-2019 08:34:18"
+        "last_checked": "31-07-2019 09:34:31",
+        "date_added": "31-07-2019 09:34:31"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
@@ -62,8 +62,8 @@
     "http:\/\/share.camoe.cn:8080\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "31-07-2019 08:35:12",
-        "date_added": "31-07-2019 08:35:12"
+        "last_checked": "31-07-2019 09:35:23",
+        "date_added": "31-07-2019 09:35:23"
     },
     "http:\/\/agusiq-torrents.pl:6969\/announce": {
         "status": "Down",
@@ -608,8 +608,8 @@
     "http:\/\/bt-tracker.gamexp.ru:2710\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "31-07-2019 08:35:23",
-        "date_added": "31-07-2019 08:35:23"
+        "last_checked": "31-07-2019 09:35:33",
+        "date_added": "31-07-2019 09:35:33"
     },
     "http:\/\/opentracker.h4ck.me:6969\/announce": {
         "status": "Down",
@@ -694,5 +694,11 @@
         "response_time": "-",
         "last_checked": "29-07-2019 06:33:26",
         "date_added": "29-07-2019 06:33:26"
+    },
+    "http:\/\/tracker.lelux.fi:80\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "31-07-2019 09:34:02",
+        "date_added": "31-07-2019 09:34:02"
     }
 }
