@@ -1,39 +1,39 @@
 {
     "udp:\/\/tracker.internetwarriors.net:1337\/announce": {
-        "last_checked": "09-08-2019 10:30:09",
+        "last_checked": "09-08-2019 11:30:10",
         "status": "Good",
-        "response_time": 13,
-        "date_added": "09-08-2019 10:30:09"
+        "response_time": 11,
+        "date_added": "09-08-2019 11:30:10"
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "09-08-2019 10:40:35",
+        "last_checked": "09-08-2019 11:40:42",
         "status": "Good",
         "response_time": 83,
-        "date_added": "09-08-2019 10:30:15"
+        "date_added": "09-08-2019 11:30:18"
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "09-08-2019 10:40:40",
+        "last_checked": "09-08-2019 11:40:47",
         "status": "Good",
-        "response_time": 68,
-        "date_added": "09-08-2019 10:30:37"
+        "response_time": 37,
+        "date_added": "09-08-2019 11:30:43"
     },
     "udp:\/\/explodie.org:6969\/announce": {
-        "last_checked": "09-08-2019 10:31:22",
+        "last_checked": "09-08-2019 11:31:28",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "09-08-2019 10:31:22"
+        "response_time": 3,
+        "date_added": "09-08-2019 11:31:28"
     },
     "http:\/\/explodie.org:6969\/announce": {
-        "last_checked": "09-08-2019 10:31:26",
+        "last_checked": "09-08-2019 11:31:32",
         "status": "Good",
         "response_time": 65,
-        "date_added": "09-08-2019 10:31:26"
+        "date_added": "09-08-2019 11:31:32"
     },
     "udp:\/\/ipv4.tracker.harry.lu:80\/announce": {
-        "last_checked": "09-08-2019 10:31:39",
+        "last_checked": "09-08-2019 11:31:45",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "09-08-2019 10:31:39"
+        "response_time": 5,
+        "date_added": "09-08-2019 11:31:45"
     },
     "udp:\/\/tracker1.itzmx.com:8080\/announce": {
         "last_checked": "15-03-2019 10:30:53",
@@ -42,16 +42,16 @@
         "date_added": "15-03-2019 10:30:53"
     },
     "http:\/\/tracker1.itzmx.com:8080\/announce": {
-        "last_checked": "09-08-2019 10:30:28",
+        "last_checked": "09-08-2019 11:30:31",
         "status": "Good",
-        "response_time": 11,
-        "date_added": "09-08-2019 10:30:28"
+        "response_time": 9,
+        "date_added": "09-08-2019 11:30:31"
     },
     "udp:\/\/tracker.torrent.eu.org:451\/announce": {
-        "last_checked": "09-08-2019 10:30:42",
+        "last_checked": "09-08-2019 11:30:48",
         "status": "Good",
-        "response_time": 2,
-        "date_added": "09-08-2019 10:30:42"
+        "response_time": 105,
+        "date_added": "09-08-2019 11:30:48"
     },
     "udp:\/\/tracker.port443.xyz:6969\/announce": {
         "last_checked": "04-05-2019 08:31:09",
@@ -60,10 +60,10 @@
         "date_added": "04-05-2019 08:31:09"
     },
     "udp:\/\/open.demonii.si:1337\/announce": {
-        "last_checked": "09-08-2019 10:30:56",
+        "last_checked": "09-08-2019 11:31:02",
         "status": "Good",
-        "response_time": 3,
-        "date_added": "09-08-2019 10:30:56"
+        "response_time": 78,
+        "date_added": "09-08-2019 11:31:02"
     },
     "http:\/\/tracker.port443.xyz:6969\/announce": {
         "last_checked": "04-05-2019 08:31:13",
@@ -78,22 +78,22 @@
         "date_added": "23-06-2019 09:30:46"
     },
     "udp:\/\/retracker.lanta-net.ru:2710\/announce": {
-        "last_checked": "09-08-2019 10:30:51",
+        "last_checked": "09-08-2019 11:30:57",
         "status": "Good",
-        "response_time": 250,
-        "date_added": "09-08-2019 10:30:51"
+        "response_time": 484,
+        "date_added": "09-08-2019 11:30:57"
     },
     "udp:\/\/open.stealth.si:80\/announce": {
-        "last_checked": "09-08-2019 10:31:13",
+        "last_checked": "09-08-2019 11:31:19",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "09-08-2019 10:31:13"
+        "response_time": 10,
+        "date_added": "09-08-2019 11:31:19"
     },
     "udp:\/\/bt.xxx-tracker.com:2710\/announce": {
-        "last_checked": "09-08-2019 10:31:00",
+        "last_checked": "09-08-2019 11:31:06",
         "status": "Good",
-        "response_time": 3,
-        "date_added": "09-08-2019 10:31:00"
+        "response_time": 14,
+        "date_added": "09-08-2019 11:31:06"
     },
     "udp:\/\/tracker.vanitycore.co:6969\/announce": {
         "last_checked": "06-02-2019 10:31:32",
@@ -102,34 +102,34 @@
         "date_added": "06-02-2019 10:31:32"
     },
     "udp:\/\/tracker.uw0.xyz:6969\/announce": {
-        "last_checked": "09-08-2019 10:31:50",
+        "last_checked": "09-08-2019 11:31:56",
         "status": "Good",
-        "response_time": 71,
-        "date_added": "09-08-2019 10:31:50"
+        "response_time": 70,
+        "date_added": "09-08-2019 11:31:56"
     },
     "udp:\/\/tracker.iamhansen.xyz:2000\/announce": {
-        "last_checked": "09-08-2019 10:31:56",
+        "last_checked": "09-08-2019 11:32:02",
         "status": "Good",
         "response_time": 5,
-        "date_added": "09-08-2019 10:31:56"
+        "date_added": "09-08-2019 11:32:02"
     },
     "udp:\/\/zephir.monocul.us:6969\/announce": {
-        "last_checked": "09-08-2019 10:32:05",
+        "last_checked": "09-08-2019 11:32:13",
         "status": "Good",
-        "response_time": 12,
-        "date_added": "09-08-2019 10:32:05"
+        "response_time": 11,
+        "date_added": "09-08-2019 11:32:13"
     },
     "udp:\/\/tracker.cyberia.is:6969\/announce": {
-        "last_checked": "09-08-2019 10:31:09",
+        "last_checked": "09-08-2019 11:31:15",
         "status": "Good",
-        "response_time": 195,
-        "date_added": "09-08-2019 10:31:09"
+        "response_time": 83,
+        "date_added": "09-08-2019 11:31:15"
     },
     "https:\/\/tracker.fastdownload.xyz:443\/announce": {
-        "last_checked": "09-08-2019 10:33:45",
+        "last_checked": "09-08-2019 11:33:48",
         "status": "Good",
-        "response_time": 77,
-        "date_added": "09-08-2019 10:33:45"
+        "response_time": 80,
+        "date_added": "09-08-2019 11:33:48"
     },
     "https:\/\/opentracker.xyz:443\/announce": {
         "last_checked": "23-04-2019 09:34:25",
@@ -138,10 +138,10 @@
         "date_added": "23-04-2019 09:34:25"
     },
     "http:\/\/torrent.nwps.ws:80\/announce": {
-        "last_checked": "09-08-2019 10:34:15",
+        "last_checked": "09-08-2019 11:34:19",
         "status": "Good",
-        "response_time": 9,
-        "date_added": "09-08-2019 10:34:15"
+        "response_time": 10,
+        "date_added": "09-08-2019 11:34:19"
     },
     "http:\/\/opentracker.xyz:80\/announce": {
         "last_checked": "23-04-2019 09:34:55",
@@ -150,22 +150,22 @@
         "date_added": "23-04-2019 09:34:55"
     },
     "http:\/\/open.trackerlist.xyz:80\/announce": {
-        "last_checked": "09-08-2019 10:34:26",
+        "last_checked": "09-08-2019 11:34:28",
         "status": "Good",
-        "response_time": 10,
-        "date_added": "09-08-2019 10:34:26"
+        "response_time": 12,
+        "date_added": "09-08-2019 11:34:28"
     },
     "http:\/\/open.acgnxtracker.com:80\/announce": {
-        "last_checked": "09-08-2019 10:31:17",
+        "last_checked": "09-08-2019 11:31:24",
         "status": "Good",
-        "response_time": 13,
-        "date_added": "09-08-2019 10:31:17"
+        "response_time": 10,
+        "date_added": "09-08-2019 11:31:24"
     },
     "udp:\/\/tracker.filepit.to:6969\/announce": {
-        "last_checked": "09-08-2019 10:32:45",
+        "last_checked": "09-08-2019 11:32:51",
         "status": "Good",
-        "response_time": 95,
-        "date_added": "09-08-2019 10:32:45"
+        "response_time": 102,
+        "date_added": "09-08-2019 11:32:51"
     },
     "udp:\/\/bittracker.ru:6969\/announce": {
         "last_checked": "25-12-2018 08:20:09",
@@ -186,28 +186,28 @@
         "date_added": "16-12-2018 06:24:25"
     },
     "udp:\/\/tracker.tvunderground.org.ru:3218\/announce": {
-        "last_checked": "09-08-2019 10:32:12",
+        "last_checked": "09-08-2019 11:32:20",
         "status": "Good",
-        "response_time": 179,
-        "date_added": "09-08-2019 10:32:12"
+        "response_time": 75,
+        "date_added": "09-08-2019 11:32:20"
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
-        "last_checked": "09-08-2019 10:31:35",
+        "last_checked": "09-08-2019 11:31:41",
         "status": "Good",
-        "response_time": 22,
-        "date_added": "09-08-2019 10:31:35"
+        "response_time": 8,
+        "date_added": "09-08-2019 11:31:41"
     },
     "udp:\/\/pubt.in:2710\/announce": {
-        "last_checked": "09-08-2019 10:34:47",
+        "last_checked": "09-08-2019 11:34:50",
         "status": "Good",
-        "response_time": 145,
-        "date_added": "09-08-2019 10:34:47"
+        "response_time": 116,
+        "date_added": "09-08-2019 11:34:50"
     },
     "http:\/\/tracker.tvunderground.org.ru:3218\/announce": {
-        "last_checked": "09-08-2019 10:33:58",
+        "last_checked": "09-08-2019 11:34:03",
         "status": "Good",
-        "response_time": 121,
-        "date_added": "09-08-2019 10:33:58"
+        "response_time": 129,
+        "date_added": "09-08-2019 11:34:03"
     },
     "http:\/\/torrentclub.tech:6969\/announce": {
         "last_checked": "09-08-2019 09:31:52",
@@ -252,10 +252,10 @@
         "date_added": "17-12-2018 12:59:24"
     },
     "udp:\/\/tracker.justseed.it:1337\/announce": {
-        "last_checked": "09-08-2019 10:34:43",
+        "last_checked": "09-08-2019 11:34:45",
         "status": "Good",
-        "response_time": 7,
-        "date_added": "09-08-2019 10:34:43"
+        "response_time": 4,
+        "date_added": "09-08-2019 11:34:45"
     },
     "udp:\/\/packages.crunchbangplusplus.org:6969\/announce": {
         "last_checked": "03-06-2019 06:34:43",
@@ -264,10 +264,10 @@
         "date_added": "03-06-2019 06:34:43"
     },
     "https:\/\/1337.abcvg.info:443\/announce": {
-        "last_checked": "09-08-2019 10:35:00",
+        "last_checked": "09-08-2019 11:35:02",
         "status": "Good",
-        "response_time": 12,
-        "date_added": "09-08-2019 10:35:00"
+        "response_time": 13,
+        "date_added": "09-08-2019 11:35:02"
     },
     "http:\/\/tracker.tfile.me:80\/announce.php": {
         "last_checked": "24-02-2019 10:34:00",
@@ -300,10 +300,10 @@
         "date_added": "12-04-2019 07:34:33"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
-        "last_checked": "09-08-2019 10:30:24",
+        "last_checked": "09-08-2019 11:30:27",
         "status": "Good",
         "response_time": 78,
-        "date_added": "09-08-2019 10:30:24"
+        "date_added": "09-08-2019 11:30:27"
     },
     "http:\/\/tracker.city9x.com:2710\/announce": {
         "last_checked": "29-01-2019 07:34:52",
@@ -312,10 +312,10 @@
         "date_added": "29-01-2019 07:34:52"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
-        "last_checked": "09-08-2019 10:32:00",
+        "last_checked": "09-08-2019 11:32:06",
         "status": "Good",
-        "response_time": 241,
-        "date_added": "09-08-2019 10:32:00"
+        "response_time": 248,
+        "date_added": "09-08-2019 11:32:06"
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
         "last_checked": "08-08-2019 09:32:36",
@@ -324,10 +324,10 @@
         "date_added": "08-08-2019 09:32:36"
     },
     "udp:\/\/tracker.tiny-vps.com:6969\/announce": {
-        "last_checked": "09-08-2019 10:30:46",
+        "last_checked": "09-08-2019 11:30:52",
         "status": "Good",
-        "response_time": 16,
-        "date_added": "09-08-2019 10:30:46"
+        "response_time": 13,
+        "date_added": "09-08-2019 11:30:52"
     },
     "udp:\/\/tracker1.wasabii.com.tw:6969\/announce": {
         "last_checked": "22-02-2019 10:31:36",
@@ -336,10 +336,10 @@
         "date_added": "22-02-2019 10:31:36"
     },
     "udp:\/\/tracker.dler.org:6969\/announce": {
-        "last_checked": "09-08-2019 10:32:56",
+        "last_checked": "09-08-2019 11:33:00",
         "status": "Good",
-        "response_time": 4,
-        "date_added": "09-08-2019 10:32:56"
+        "response_time": 5,
+        "date_added": "09-08-2019 11:33:00"
     },
     "http:\/\/tracker1.wasabii.com.tw:6969\/announce": {
         "last_checked": "22-02-2019 04:31:51",
@@ -354,10 +354,10 @@
         "date_added": "07-08-2019 07:35:52"
     },
     "udp:\/\/tracker2.itzmx.com:6961\/announce": {
-        "last_checked": "09-08-2019 10:31:04",
+        "last_checked": "09-08-2019 11:31:10",
         "status": "Good",
-        "response_time": 5,
-        "date_added": "09-08-2019 10:31:04"
+        "response_time": 4,
+        "date_added": "09-08-2019 11:31:10"
     },
     "udp:\/\/amigacity.xyz:6969\/announce": {
         "last_checked": "12-05-2019 04:34:41",
@@ -384,16 +384,16 @@
         "date_added": "16-05-2019 09:32:16"
     },
     "https:\/\/tracker.gbitt.info:443\/announce": {
-        "last_checked": "09-08-2019 10:33:40",
+        "last_checked": "09-08-2019 11:33:44",
         "status": "Good",
-        "response_time": 11,
-        "date_added": "09-08-2019 10:33:40"
+        "response_time": 10,
+        "date_added": "09-08-2019 11:33:44"
     },
     "http:\/\/tracker.gbitt.info:80\/announce": {
-        "last_checked": "09-08-2019 10:34:07",
+        "last_checked": "09-08-2019 11:34:11",
         "status": "Good",
-        "response_time": 8,
-        "date_added": "09-08-2019 10:34:07"
+        "response_time": 9,
+        "date_added": "09-08-2019 11:34:11"
     },
     "http:\/\/omg.wtftrackr.pw:1337\/announce": {
         "last_checked": "21-01-2019 12:33:57",
@@ -426,16 +426,16 @@
         "date_added": "02-01-2019 02:40:16"
     },
     "udp:\/\/newtoncity.org:6969\/announce": {
-        "last_checked": "09-08-2019 10:33:28",
+        "last_checked": "09-08-2019 11:33:31",
         "status": "Good",
-        "response_time": 22,
-        "date_added": "09-08-2019 10:33:28"
+        "response_time": 9,
+        "date_added": "09-08-2019 11:33:31"
     },
     "http:\/\/newtoncity.org:6969\/announce": {
-        "last_checked": "09-08-2019 10:34:30",
+        "last_checked": "09-08-2019 11:34:32",
         "status": "Good",
-        "response_time": 26,
-        "date_added": "09-08-2019 10:34:30"
+        "response_time": 11,
+        "date_added": "09-08-2019 11:34:32"
     },
     "udp:\/\/tracker.leechers-paradise.org:6969\/announce": {
         "last_checked": "30-07-2019 09:30:09",
@@ -474,22 +474,22 @@
         "date_added": "27-05-2019 01:34:52"
     },
     "udp:\/\/tracker.moeking.me:6969\/announce": {
-        "last_checked": "09-08-2019 10:31:31",
+        "last_checked": "09-08-2019 11:31:37",
         "status": "Good",
-        "response_time": 259,
-        "date_added": "09-08-2019 10:31:31"
+        "response_time": 252,
+        "date_added": "09-08-2019 11:31:37"
     },
     "udp:\/\/tracker.nyaa.uk:6969\/announce": {
-        "last_checked": "09-08-2019 10:32:25",
+        "last_checked": "09-08-2019 11:32:33",
         "status": "Good",
-        "response_time": 5,
-        "date_added": "09-08-2019 10:32:25"
+        "response_time": 7,
+        "date_added": "09-08-2019 11:32:33"
     },
     "http:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "09-08-2019 10:30:19",
+        "last_checked": "09-08-2019 11:30:22",
         "status": "Good",
-        "response_time": 78,
-        "date_added": "09-08-2019 10:30:19"
+        "response_time": 84,
+        "date_added": "09-08-2019 11:30:22"
     },
     "udp:\/\/hk1.opentracker.ga:6969\/announce": {
         "last_checked": "24-03-2019 10:32:44",
@@ -498,28 +498,28 @@
         "date_added": "24-03-2019 10:32:44"
     },
     "http:\/\/vps02.net.orel.ru:80\/announce": {
-        "last_checked": "09-08-2019 10:35:05",
+        "last_checked": "09-08-2019 11:35:08",
         "status": "Good",
-        "response_time": 133,
-        "date_added": "09-08-2019 10:35:05"
+        "response_time": 612,
+        "date_added": "09-08-2019 11:35:08"
     },
     "udp:\/\/tracker.trackton.ga:7070\/announce": {
-        "last_checked": "09-08-2019 10:32:17",
+        "last_checked": "09-08-2019 11:32:25",
         "status": "Good",
-        "response_time": 434,
-        "date_added": "09-08-2019 10:32:17"
+        "response_time": 89,
+        "date_added": "09-08-2019 11:32:25"
     },
     "udp:\/\/tracker.filemail.com:6969\/announce": {
-        "last_checked": "09-08-2019 10:32:49",
+        "last_checked": "09-08-2019 11:32:55",
         "status": "Good",
         "response_time": 3,
-        "date_added": "09-08-2019 10:32:49"
+        "date_added": "09-08-2019 11:32:55"
     },
     "udp:\/\/retracker.netbynet.ru:2710\/announce": {
-        "last_checked": "09-08-2019 10:33:10",
+        "last_checked": "09-08-2019 11:33:13",
         "status": "Good",
-        "response_time": 334,
-        "date_added": "09-08-2019 10:33:10"
+        "response_time": 119,
+        "date_added": "09-08-2019 11:33:13"
     },
     "udp:\/\/bt.oiyo.tk:6969\/announce": {
         "last_checked": "19-04-2019 02:31:58",
@@ -534,10 +534,10 @@
         "date_added": "19-04-2019 08:33:24"
     },
     "https:\/\/t.quic.ws:443\/announce": {
-        "last_checked": "09-08-2019 10:33:49",
+        "last_checked": "09-08-2019 11:33:52",
         "status": "Good",
-        "response_time": 88,
-        "date_added": "09-08-2019 10:33:49"
+        "response_time": 89,
+        "date_added": "09-08-2019 11:33:52"
     },
     "udp:\/\/tracker.skynetcloud.tk:6969\/announce": {
         "last_checked": "19-04-2019 02:32:13",
@@ -546,22 +546,22 @@
         "date_added": "19-04-2019 02:32:13"
     },
     "udp:\/\/retracker.sevstar.net:2710\/announce": {
-        "last_checked": "09-08-2019 10:33:05",
+        "last_checked": "09-08-2019 11:33:08",
         "status": "Good",
-        "response_time": 152,
-        "date_added": "09-08-2019 10:33:05"
+        "response_time": 166,
+        "date_added": "09-08-2019 11:33:08"
     },
     "udp:\/\/retracker.baikal-telecom.net:2710\/announce": {
-        "last_checked": "09-08-2019 10:33:19",
+        "last_checked": "09-08-2019 11:33:23",
         "status": "Good",
-        "response_time": 190,
-        "date_added": "09-08-2019 10:33:19"
+        "response_time": 179,
+        "date_added": "09-08-2019 11:33:23"
     },
     "udp:\/\/chihaya.toss.li:9696\/announce": {
-        "last_checked": "09-08-2019 10:34:52",
+        "last_checked": "09-08-2019 11:34:54",
         "status": "Good",
         "response_time": 5,
-        "date_added": "09-08-2019 10:34:52"
+        "date_added": "09-08-2019 11:34:54"
     },
     "https:\/\/1.tracker.eu.org:443\/announce": {
         "last_checked": "30-06-2019 09:34:59",
@@ -576,22 +576,22 @@
         "date_added": "01-07-2019 11:33:15"
     },
     "http:\/\/tracker.bz:80\/announce": {
-        "last_checked": "09-08-2019 10:35:19",
+        "last_checked": "09-08-2019 11:35:22",
         "status": "Good",
-        "response_time": 255,
-        "date_added": "09-08-2019 10:35:19"
+        "response_time": 150,
+        "date_added": "09-08-2019 11:35:22"
     },
     "http:\/\/t.acg.rip:6699\/announce": {
-        "last_checked": "09-08-2019 10:35:23",
+        "last_checked": "09-08-2019 11:35:26",
         "status": "Good",
-        "response_time": 90,
-        "date_added": "09-08-2019 10:35:23"
+        "response_time": 86,
+        "date_added": "09-08-2019 11:35:26"
     },
     "http:\/\/sub4all.org:2710\/announce": {
-        "last_checked": "09-08-2019 10:35:28",
+        "last_checked": "09-08-2019 11:35:31",
         "status": "Good",
-        "response_time": 243,
-        "date_added": "09-08-2019 10:35:28"
+        "response_time": 203,
+        "date_added": "09-08-2019 11:35:31"
     },
     "http:\/\/wegkxfcivgx.chickenkiller.com:80\/announce": {
         "last_checked": "26-02-2019 04:35:05",
@@ -618,16 +618,16 @@
         "date_added": "07-07-2019 10:34:04"
     },
     "udp:\/\/tracker.supertracker.net:1337\/announce": {
-        "last_checked": "09-08-2019 10:32:21",
+        "last_checked": "09-08-2019 11:32:29",
         "status": "Good",
-        "response_time": 4,
-        "date_added": "09-08-2019 10:32:21"
+        "response_time": 15,
+        "date_added": "09-08-2019 11:32:29"
     },
     "http:\/\/gwp2-v19.rinet.ru:80\/announce": {
-        "last_checked": "09-08-2019 10:34:34",
+        "last_checked": "09-08-2019 11:34:37",
         "status": "Good",
-        "response_time": 237,
-        "date_added": "09-08-2019 10:34:34"
+        "response_time": 238,
+        "date_added": "09-08-2019 11:34:37"
     },
     "http:\/\/mail2.zelenaya.net:80\/announce": {
         "last_checked": "27-06-2019 04:35:07",
@@ -642,22 +642,22 @@
         "date_added": "30-06-2019 11:33:07"
     },
     "http:\/\/retracker.sevstar.net:2710\/announce": {
-        "last_checked": "09-08-2019 09:34:16",
+        "last_checked": "09-08-2019 11:34:24",
         "status": "Good",
-        "response_time": 308,
-        "date_added": "09-08-2019 09:34:16"
+        "response_time": 321,
+        "date_added": "09-08-2019 11:34:24"
     },
     "udp:\/\/retracker.maxnet.ua:80\/announce": {
-        "last_checked": "09-08-2019 10:33:14",
+        "last_checked": "09-08-2019 11:33:18",
         "status": "Good",
-        "response_time": 120,
-        "date_added": "09-08-2019 10:33:14"
+        "response_time": 122,
+        "date_added": "09-08-2019 11:33:18"
     },
     "udp:\/\/retracker.akado-ural.ru:80\/announce": {
-        "last_checked": "09-08-2019 10:33:24",
+        "last_checked": "09-08-2019 11:33:27",
         "status": "Good",
-        "response_time": 145,
-        "date_added": "09-08-2019 10:33:24"
+        "response_time": 250,
+        "date_added": "09-08-2019 11:33:27"
     },
     "http:\/\/opentracker.h4ck.me:6969\/announce": {
         "last_checked": "19-05-2019 04:32:24",
@@ -678,10 +678,10 @@
         "date_added": "09-08-2019 03:34:47"
     },
     "udp:\/\/bt.dy20188.com:80\/announce": {
-        "last_checked": "09-08-2019 10:33:32",
+        "last_checked": "09-08-2019 11:33:36",
         "status": "Good",
-        "response_time": 14,
-        "date_added": "09-08-2019 10:33:32"
+        "response_time": 3,
+        "date_added": "09-08-2019 11:33:36"
     },
     "https:\/\/tracker.parrotsec.org:443\/announce": {
         "last_checked": "05-08-2019 09:35:05",
@@ -690,10 +690,10 @@
         "date_added": "05-08-2019 09:35:05"
     },
     "http:\/\/tracker.bt4g.com:2095\/announce": {
-        "last_checked": "09-08-2019 10:34:11",
+        "last_checked": "09-08-2019 11:34:15",
         "status": "Good",
-        "response_time": 17,
-        "date_added": "09-08-2019 10:34:11"
+        "response_time": 7,
+        "date_added": "09-08-2019 11:34:15"
     },
     "http:\/\/bt-tracker.gamexp.ru:2710\/announce": {
         "last_checked": "09-08-2019 09:35:03",
@@ -702,28 +702,28 @@
         "date_added": "09-08-2019 09:35:03"
     },
     "udp:\/\/tracker.openbittorrent.com:80\/announce": {
-        "last_checked": "09-08-2019 10:30:32",
+        "last_checked": "09-08-2019 11:30:39",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "09-08-2019 10:30:32"
+        "response_time": 122,
+        "date_added": "09-08-2019 11:30:39"
     },
     "udp:\/\/tracker.msm8916.com:6969\/announce": {
-        "last_checked": "09-08-2019 10:34:39",
+        "last_checked": "09-08-2019 11:34:41",
         "status": "Good",
-        "response_time": 37,
-        "date_added": "09-08-2019 10:34:39"
+        "response_time": 23,
+        "date_added": "09-08-2019 11:34:41"
     },
     "udp:\/\/tracker-udp.gbitt.info:80\/announce": {
-        "last_checked": "09-08-2019 10:33:00",
+        "last_checked": "09-08-2019 11:33:04",
         "status": "Good",
-        "response_time": 20,
-        "date_added": "09-08-2019 10:33:00"
+        "response_time": 21,
+        "date_added": "09-08-2019 11:33:04"
     },
     "udp:\/\/tracker.fixr.pro:6969\/announce": {
-        "last_checked": "09-08-2019 10:32:40",
+        "last_checked": "09-08-2019 11:32:47",
         "status": "Good",
         "response_time": 82,
-        "date_added": "09-08-2019 10:32:40"
+        "date_added": "09-08-2019 11:32:47"
     },
     "http:\/\/milanesitracker.tekcities.com:80\/announce": {
         "last_checked": "22-05-2019 09:34:54",
@@ -744,16 +744,16 @@
         "date_added": "27-06-2019 11:33:59"
     },
     "https:\/\/tracker.publictorrent.net:443\/announce": {
-        "last_checked": "09-08-2019 10:34:56",
+        "last_checked": "09-08-2019 11:34:58",
         "status": "Good",
         "response_time": 12,
-        "date_added": "09-08-2019 10:34:56"
+        "date_added": "09-08-2019 11:34:58"
     },
     "http:\/\/tracker.publictorrent.net:80\/announce": {
-        "last_checked": "09-08-2019 10:35:14",
+        "last_checked": "09-08-2019 11:35:17",
         "status": "Good",
-        "response_time": 13,
-        "date_added": "09-08-2019 10:35:14"
+        "response_time": 9,
+        "date_added": "09-08-2019 11:35:17"
     },
     "http:\/\/nibba.trade:1337\/announce": {
         "last_checked": "29-06-2019 06:35:07",
@@ -774,39 +774,39 @@
         "date_added": "27-06-2019 11:34:39"
     },
     "udp:\/\/tracker.lelux.fi:6969\/announce": {
-        "last_checked": "09-08-2019 10:32:36",
+        "last_checked": "09-08-2019 11:32:42",
         "status": "Good",
-        "response_time": 2,
-        "date_added": "09-08-2019 10:32:36"
+        "response_time": 1,
+        "date_added": "09-08-2019 11:32:42"
     },
     "https:\/\/tracker.lelux.fi:443\/announce": {
-        "last_checked": "09-08-2019 10:33:36",
+        "last_checked": "09-08-2019 11:33:40",
         "status": "Good",
         "response_time": 88,
-        "date_added": "09-08-2019 10:33:36"
+        "date_added": "09-08-2019 11:33:40"
     },
     "http:\/\/tracker01.loveapp.com:6789\/announce": {
-        "last_checked": "09-08-2019 10:35:10",
+        "last_checked": "09-08-2019 11:35:13",
         "status": "Good",
-        "response_time": 422,
-        "date_added": "09-08-2019 10:35:10"
+        "response_time": 469,
+        "date_added": "09-08-2019 11:35:13"
     },
     "http:\/\/tracker.lelux.fi:80\/announce": {
-        "last_checked": "09-08-2019 10:34:03",
+        "last_checked": "09-08-2019 11:34:07",
         "status": "Good",
-        "response_time": 87,
-        "date_added": "09-08-2019 10:34:03"
+        "response_time": 90,
+        "date_added": "09-08-2019 11:34:07"
     },
     "udp:\/\/tracker.nibba.trade:1337\/announce": {
-        "last_checked": "09-08-2019 10:32:30",
+        "last_checked": "09-08-2019 11:32:37",
         "status": "Good",
-        "response_time": 41,
-        "date_added": "09-08-2019 10:32:30"
+        "response_time": 38,
+        "date_added": "09-08-2019 11:32:37"
     },
     "https:\/\/opentracker.co:443\/announce": {
-        "last_checked": "09-08-2019 10:33:53",
+        "last_checked": "09-08-2019 11:33:57",
         "status": "Good",
-        "response_time": 13,
-        "date_added": "09-08-2019 10:33:53"
+        "response_time": 10,
+        "date_added": "09-08-2019 11:33:57"
     }
 }
