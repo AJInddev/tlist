@@ -726,5 +726,56 @@
         "reason": "registered torrents",
         "last_checked": "12-05-2019 05:30:04",
         "date_added": "12-05-2019 05:30:04"
+    },
+    {
+        "url": "http:\/\/share.camoe.cn:8080\/announce",
+        "reason": "duplicate of http:\/\/acg.rip:6699\/announce",
+        "last_checked": "26-08-2019 07:30:04",
+        "date_added": "26-08-2019 07:30:04"
+    },
+    {
+        "url": "http:\/\/t.acg.rip:6699\/announce",
+        "reason": "duplicate of http:\/\/acg.rip:6699\/announce",
+        "last_checked": "26-08-2019 07:30:04",
+        "date_added": "26-08-2019 07:30:04"
+    },
+    {
+        "url": "http:\/\/atrack.pow7.com:80\/announce",
+        "reason": "duplicate of http:\/\/pow7.com:80\/announce",
+        "last_checked": "26-08-2019 07:30:04",
+        "date_added": "26-08-2019 07:30:04"
+    },
+    {
+        "url": "http:\/\/t2.pow7.com:80\/announce",
+        "reason": "duplicate of http:\/\/pow7.com:80\/announce",
+        "last_checked": "26-08-2019 07:30:04",
+        "date_added": "26-08-2019 07:30:04"
+    },
+    {
+        "url": "http:\/\/tracker.acgnx.se:80\/announce",
+        "reason": "duplicate of http:\/\/opentracker.acgnx.se:80\/announce",
+        "last_checked": "26-08-2019 07:30:04",
+        "date_added": "26-08-2019 07:30:04"
+    },
+    {
+        "url": "http:\/\/opentracker.acgnx.com:6869\/announce",
+        "reason": "duplicate of http:\/\/opentracker.acgnx.se:80\/announce",
+        "last_checked": "26-08-2019 07:30:04",
+        "date_added": "26-08-2019 07:30:04"
+    },
+    {
+        "url": "http:\/\/pow7.com:80\/announce",
+        "reason": "Possible duplicate of http:\/\/t2.pow7.com:80\/announce",
+        "last_checked": "26-08-2019 07:34:13"
+    },
+    {
+        "url": "udp:\/\/tr.bangumi.moe:6969\/announce",
+        "reason": "Possible duplicate of http:\/\/tr.bangumi.moe:6969\/announce",
+        "last_checked": "26-08-2019 07:34:21"
+    },
+    {
+        "url": "http:\/\/acg.rip:6699\/announce",
+        "reason": "Possible duplicate of http:\/\/t.acg.rip:6699\/announce",
+        "last_checked": "26-08-2019 07:36:15"
     }
 ]
