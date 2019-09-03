@@ -1,9 +1,9 @@
 {
     "udp:\/\/tracker.internetwarriors.net:1337\/announce": {
-        "last_checked": "03-09-2019 08:30:23",
+        "last_checked": "03-09-2019 09:30:24",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:30:23",
+        "date_added": "03-09-2019 09:30:24",
         "ipinfo": {
             "185.225.17.100": {
                 "ccode": "RO",
@@ -13,10 +13,10 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-09-2019 08:41:49",
+        "last_checked": "03-09-2019 09:41:57",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:30:10",
+        "response_time": 82,
+        "date_added": "03-09-2019 09:30:09",
         "ipinfo": {
             "93.158.213.92": {
                 "ccode": "NL",
@@ -26,10 +26,10 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "03-09-2019 08:41:53",
+        "last_checked": "03-09-2019 09:42:01",
         "status": "Good",
-        "response_time": 68,
-        "date_added": "03-09-2019 08:30:27",
+        "response_time": 67,
+        "date_added": "03-09-2019 09:30:28",
         "ipinfo": {
             "208.83.20.20": {
                 "ccode": "US",
@@ -39,10 +39,10 @@
         }
     },
     "udp:\/\/explodie.org:6969\/announce": {
-        "last_checked": "03-09-2019 08:31:15",
+        "last_checked": "03-09-2019 09:31:14",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:31:15",
+        "date_added": "03-09-2019 09:31:14",
         "ipinfo": {
             "184.105.151.164": {
                 "ccode": "US",
@@ -52,10 +52,10 @@
         }
     },
     "http:\/\/explodie.org:6969\/announce": {
-        "last_checked": "03-09-2019 08:34:07",
+        "last_checked": "03-09-2019 09:34:06",
         "status": "Good",
-        "response_time": 64,
-        "date_added": "03-09-2019 08:34:07",
+        "response_time": 65,
+        "date_added": "03-09-2019 09:34:06",
         "ipinfo": {
             "184.105.151.164": {
                 "ccode": "US",
@@ -65,10 +65,10 @@
         }
     },
     "udp:\/\/ipv4.tracker.harry.lu:80\/announce": {
-        "last_checked": "03-09-2019 08:32:16",
+        "last_checked": "03-09-2019 09:32:14",
         "status": "Good",
-        "response_time": 8,
-        "date_added": "03-09-2019 08:32:16",
+        "response_time": 1,
+        "date_added": "03-09-2019 09:32:14",
         "ipinfo": {
             "51.15.40.114": {
                 "ccode": "NL",
@@ -91,10 +91,10 @@
         }
     },
     "http:\/\/tracker1.itzmx.com:8080\/announce": {
-        "last_checked": "03-09-2019 08:35:03",
+        "last_checked": "03-09-2019 09:35:01",
         "status": "Good",
-        "response_time": 7,
-        "date_added": "03-09-2019 08:35:03",
+        "response_time": 8,
+        "date_added": "03-09-2019 09:35:01",
         "ipinfo": {
             "104.24.105.127": {
                 "ccode": "US",
@@ -104,15 +104,15 @@
         }
     },
     "udp:\/\/tracker.torrent.eu.org:451\/announce": {
-        "last_checked": "03-09-2019 08:30:57",
+        "last_checked": "03-09-2019 09:30:55",
         "status": "Good",
-        "response_time": 187,
-        "date_added": "03-09-2019 08:30:57",
+        "response_time": 103,
+        "date_added": "03-09-2019 09:30:55",
         "ipinfo": {
-            "89.234.156.205": {
+            "91.216.110.52": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Tetaneutral.net hosting"
+                "isp": "Grenode"
             }
         }
     },
@@ -124,10 +124,10 @@
         "ipinfo": []
     },
     "udp:\/\/open.demonii.si:1337\/announce": {
-        "last_checked": "03-09-2019 08:30:32",
+        "last_checked": "03-09-2019 09:30:32",
         "status": "Good",
-        "response_time": 19,
-        "date_added": "03-09-2019 08:30:32",
+        "response_time": 5,
+        "date_added": "03-09-2019 09:30:32",
         "ipinfo": {
             "142.44.243.4": {
                 "ccode": "CA",
@@ -157,10 +157,10 @@
         }
     },
     "udp:\/\/retracker.lanta-net.ru:2710\/announce": {
-        "last_checked": "03-09-2019 08:30:43",
+        "last_checked": "03-09-2019 09:30:42",
         "status": "Good",
-        "response_time": 2724,
-        "date_added": "03-09-2019 08:30:43",
+        "response_time": 248,
+        "date_added": "03-09-2019 09:30:42",
         "ipinfo": {
             "37.235.174.46": {
                 "ccode": "RU",
@@ -170,10 +170,10 @@
         }
     },
     "udp:\/\/open.stealth.si:80\/announce": {
-        "last_checked": "03-09-2019 08:30:52",
+        "last_checked": "03-09-2019 09:30:50",
         "status": "Good",
-        "response_time": 11,
-        "date_added": "03-09-2019 08:30:52",
+        "response_time": 18,
+        "date_added": "03-09-2019 09:30:50",
         "ipinfo": {
             "195.154.52.99": {
                 "ccode": "FR",
@@ -183,10 +183,10 @@
         }
     },
     "udp:\/\/bt.xxx-tracker.com:2710\/announce": {
-        "last_checked": "03-09-2019 08:30:48",
+        "last_checked": "03-09-2019 09:30:46",
         "status": "Good",
-        "response_time": 14,
-        "date_added": "03-09-2019 08:30:48",
+        "response_time": 92,
+        "date_added": "03-09-2019 09:30:46",
         "ipinfo": {
             "95.211.168.204": {
                 "ccode": "NL",
@@ -203,10 +203,10 @@
         "ipinfo": []
     },
     "udp:\/\/tracker.uw0.xyz:6969\/announce": {
-        "last_checked": "03-09-2019 08:33:23",
+        "last_checked": "03-09-2019 09:33:20",
         "status": "Good",
         "response_time": 4,
-        "date_added": "03-09-2019 08:33:23",
+        "date_added": "03-09-2019 09:33:20",
         "ipinfo": {
             "185.83.215.123": {
                 "ccode": "NL",
@@ -216,10 +216,10 @@
         }
     },
     "udp:\/\/tracker.iamhansen.xyz:2000\/announce": {
-        "last_checked": "03-09-2019 08:31:33",
+        "last_checked": "03-09-2019 09:31:30",
         "status": "Good",
-        "response_time": 73,
-        "date_added": "03-09-2019 08:31:33",
+        "response_time": 71,
+        "date_added": "03-09-2019 09:31:30",
         "ipinfo": {
             "207.246.121.172": {
                 "ccode": "US",
@@ -229,10 +229,10 @@
         }
     },
     "udp:\/\/zephir.monocul.us:6969\/announce": {
-        "last_checked": "03-09-2019 08:31:55",
+        "last_checked": "03-09-2019 09:31:53",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:31:55",
+        "response_time": 11,
+        "date_added": "03-09-2019 09:31:53",
         "ipinfo": {
             "212.47.227.58": {
                 "ccode": "FR",
@@ -242,10 +242,10 @@
         }
     },
     "udp:\/\/tracker.cyberia.is:6969\/announce": {
-        "last_checked": "03-09-2019 08:31:02",
+        "last_checked": "03-09-2019 09:31:00",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:31:02",
+        "response_time": 175,
+        "date_added": "03-09-2019 09:31:00",
         "ipinfo": {
             "159.100.245.181": {
                 "ccode": "CH",
@@ -255,10 +255,10 @@
         }
     },
     "https:\/\/tracker.fastdownload.xyz:443\/announce": {
-        "last_checked": "03-09-2019 08:34:37",
+        "last_checked": "03-09-2019 09:34:36",
         "status": "Good",
-        "response_time": 76,
-        "date_added": "03-09-2019 08:34:37",
+        "response_time": 79,
+        "date_added": "03-09-2019 09:34:36",
         "ipinfo": {
             "104.31.84.189": {
                 "ccode": "US",
@@ -307,12 +307,12 @@
         }
     },
     "http:\/\/open.trackerlist.xyz:80\/announce": {
-        "last_checked": "03-09-2019 08:32:50",
+        "last_checked": "03-09-2019 09:32:48",
         "status": "Good",
-        "response_time": 77,
-        "date_added": "03-09-2019 08:32:50",
+        "response_time": 8,
+        "date_added": "03-09-2019 09:32:48",
         "ipinfo": {
-            "104.31.84.249": {
+            "104.31.85.249": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -320,10 +320,10 @@
         }
     },
     "http:\/\/open.acgnxtracker.com:80\/announce": {
-        "last_checked": "03-09-2019 08:34:03",
+        "last_checked": "03-09-2019 09:34:02",
         "status": "Good",
         "response_time": 10,
-        "date_added": "03-09-2019 08:34:03",
+        "date_added": "03-09-2019 09:34:02",
         "ipinfo": {
             "51.68.122.172": {
                 "ccode": "FR",
@@ -333,10 +333,10 @@
         }
     },
     "udp:\/\/tracker.filepit.to:6969\/announce": {
-        "last_checked": "03-09-2019 08:32:03",
+        "last_checked": "03-09-2019 09:32:02",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:32:03",
+        "date_added": "03-09-2019 09:32:02",
         "ipinfo": {
             "109.248.43.36": {
                 "ccode": "CZ",
@@ -373,10 +373,10 @@
         "ipinfo": []
     },
     "udp:\/\/tracker.tvunderground.org.ru:3218\/announce": {
-        "last_checked": "03-09-2019 08:33:08",
+        "last_checked": "03-09-2019 09:33:07",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:33:08",
+        "response_time": 263,
+        "date_added": "03-09-2019 09:33:07",
         "ipinfo": {
             "91.217.91.21": {
                 "ccode": "UA",
@@ -386,10 +386,10 @@
         }
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
-        "last_checked": "03-09-2019 08:31:06",
+        "last_checked": "03-09-2019 09:31:04",
         "status": "Good",
-        "response_time": 22,
-        "date_added": "03-09-2019 08:31:06",
+        "response_time": 10,
+        "date_added": "03-09-2019 09:31:04",
         "ipinfo": {
             "45.56.74.11": {
                 "ccode": "US",
@@ -412,10 +412,10 @@
         }
     },
     "http:\/\/tracker.tvunderground.org.ru:3218\/announce": {
-        "last_checked": "03-09-2019 07:33:14",
+        "last_checked": "03-09-2019 09:33:11",
         "status": "Good",
-        "response_time": 149,
-        "date_added": "03-09-2019 07:33:14",
+        "response_time": 143,
+        "date_added": "03-09-2019 09:33:11",
         "ipinfo": {
             "91.217.91.21": {
                 "ccode": "UA",
@@ -495,7 +495,7 @@
         "response_time": 11,
         "date_added": "25-01-2019 10:34:08",
         "ipinfo": {
-            "104.18.50.9": {
+            "2606:4700:30::6812:3309": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -510,10 +510,10 @@
         "ipinfo": []
     },
     "udp:\/\/tracker.justseed.it:1337\/announce": {
-        "last_checked": "03-09-2019 08:34:11",
+        "last_checked": "03-09-2019 09:34:11",
         "status": "Good",
-        "response_time": 9,
-        "date_added": "03-09-2019 08:34:11",
+        "response_time": 108,
+        "date_added": "03-09-2019 09:34:11",
         "ipinfo": {
             "94.23.217.90": {
                 "ccode": "FR",
@@ -528,7 +528,7 @@
         "response_time": 18,
         "date_added": "03-06-2019 06:34:43",
         "ipinfo": {
-            "54.230.195.82": {
+            "54.230.195.106": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Amazon Technologies Inc."
@@ -536,12 +536,12 @@
         }
     },
     "https:\/\/1337.abcvg.info:443\/announce": {
-        "last_checked": "03-09-2019 08:34:49",
+        "last_checked": "03-09-2019 09:34:49",
         "status": "Good",
-        "response_time": 7,
-        "date_added": "03-09-2019 08:34:49",
+        "response_time": 12,
+        "date_added": "03-09-2019 09:34:49",
         "ipinfo": {
-            "104.24.127.56": {
+            "2606:4700:30::6818:7f38": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -593,7 +593,7 @@
         "response_time": 115,
         "date_added": "16-03-2019 04:34:50",
         "ipinfo": {
-            "198.54.117.197": {
+            "198.54.117.199": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Namecheap, Inc."
@@ -614,10 +614,10 @@
         }
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
-        "last_checked": "03-09-2019 08:34:59",
+        "last_checked": "03-09-2019 09:34:57",
         "status": "Good",
-        "response_time": 83,
-        "date_added": "03-09-2019 08:34:59",
+        "response_time": 77,
+        "date_added": "03-09-2019 09:34:57",
         "ipinfo": {
             "176.113.71.19": {
                 "ccode": "AU",
@@ -632,7 +632,7 @@
         "response_time": 71,
         "date_added": "29-01-2019 07:34:52",
         "ipinfo": {
-            "198.54.117.197": {
+            "198.54.117.198": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Namecheap, Inc."
@@ -640,23 +640,23 @@
         }
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
-        "last_checked": "03-09-2019 08:33:18",
+        "last_checked": "03-09-2019 09:33:15",
         "status": "Good",
-        "response_time": 10,
-        "date_added": "03-09-2019 08:33:18",
+        "response_time": 89,
+        "date_added": "03-09-2019 09:33:15",
         "ipinfo": {
-            "139.99.45.37": {
-                "ccode": "SG",
-                "cname": "Singapore",
+            "2001:41d0:305:2100::2619": {
+                "ccode": "FR",
+                "cname": "France",
                 "isp": "OVH SAS"
             }
         }
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
-        "last_checked": "03-09-2019 08:33:27",
+        "last_checked": "03-09-2019 09:33:24",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:33:27",
+        "response_time": 73,
+        "date_added": "03-09-2019 09:33:24",
         "ipinfo": {
             "75.127.14.224": {
                 "ccode": "US",
@@ -666,10 +666,10 @@
         }
     },
     "udp:\/\/tracker.tiny-vps.com:6969\/announce": {
-        "last_checked": "03-09-2019 08:30:36",
+        "last_checked": "03-09-2019 09:30:36",
         "status": "Good",
         "response_time": 15,
-        "date_added": "03-09-2019 08:30:36",
+        "date_added": "03-09-2019 09:30:36",
         "ipinfo": {
             "5.206.19.247": {
                 "ccode": "RU",
@@ -692,10 +692,10 @@
         }
     },
     "udp:\/\/tracker.dler.org:6969\/announce": {
-        "last_checked": "03-09-2019 08:33:31",
+        "last_checked": "03-09-2019 09:33:28",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:33:31",
+        "date_added": "03-09-2019 09:33:28",
         "ipinfo": {
             "223.16.205.65": {
                 "ccode": "HK",
@@ -731,10 +731,10 @@
         }
     },
     "udp:\/\/tracker2.itzmx.com:6961\/announce": {
-        "last_checked": "03-09-2019 08:31:23",
+        "last_checked": "03-09-2019 09:31:22",
         "status": "Good",
-        "response_time": 4,
-        "date_added": "03-09-2019 08:31:23",
+        "response_time": 3,
+        "date_added": "03-09-2019 09:31:22",
         "ipinfo": {
             "176.113.68.66": {
                 "ccode": "AU",
@@ -744,10 +744,10 @@
         }
     },
     "udp:\/\/amigacity.xyz:6969\/announce": {
-        "last_checked": "03-09-2019 08:32:20",
+        "last_checked": "03-09-2019 09:32:18",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:32:20",
+        "response_time": 2,
+        "date_added": "03-09-2019 09:32:18",
         "ipinfo": {
             "45.79.184.106": {
                 "ccode": "US",
@@ -775,7 +775,7 @@
         "response_time": 4,
         "date_added": "21-05-2019 09:32:18",
         "ipinfo": {
-            "104.27.168.146": {
+            "2606:4700:30::681b:a992": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -788,18 +788,18 @@
         "response_time": 86,
         "date_added": "16-05-2019 09:32:16",
         "ipinfo": {
-            "5.2.78.195": {
-                "ccode": "NL",
-                "cname": "Netherlands",
-                "isp": "Liteserver Holding B.V."
+            "74.207.244.202": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Linode, LLC"
             }
         }
     },
     "https:\/\/tracker.gbitt.info:443\/announce": {
-        "last_checked": "03-09-2019 08:34:33",
+        "last_checked": "03-09-2019 09:34:32",
         "status": "Good",
-        "response_time": 11,
-        "date_added": "03-09-2019 08:34:33",
+        "response_time": 8,
+        "date_added": "03-09-2019 09:34:32",
         "ipinfo": {
             "104.27.169.146": {
                 "ccode": "US",
@@ -809,12 +809,12 @@
         }
     },
     "http:\/\/tracker.gbitt.info:80\/announce": {
-        "last_checked": "03-09-2019 08:35:25",
+        "last_checked": "03-09-2019 09:35:23",
         "status": "Good",
-        "response_time": 11,
-        "date_added": "03-09-2019 08:35:25",
+        "response_time": 36,
+        "date_added": "03-09-2019 09:35:23",
         "ipinfo": {
-            "2606:4700:30::681b:a992": {
+            "104.27.168.146": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -861,7 +861,7 @@
         "response_time": 129,
         "date_added": "02-01-2019 02:40:16",
         "ipinfo": {
-            "109.200.252.205": {
+            "46.250.23.163": {
                 "ccode": "UA",
                 "cname": "Ukraine",
                 "isp": "TOV TRK \"Briz\""
@@ -869,10 +869,10 @@
         }
     },
     "udp:\/\/newtoncity.org:6969\/announce": {
-        "last_checked": "03-09-2019 08:31:50",
+        "last_checked": "03-09-2019 09:31:48",
         "status": "Good",
         "response_time": 10,
-        "date_added": "03-09-2019 08:31:50",
+        "date_added": "03-09-2019 09:31:48",
         "ipinfo": {
             "45.79.176.39": {
                 "ccode": "US",
@@ -882,10 +882,10 @@
         }
     },
     "http:\/\/newtoncity.org:6969\/announce": {
-        "last_checked": "03-09-2019 08:35:54",
+        "last_checked": "03-09-2019 09:35:53",
         "status": "Good",
-        "response_time": 27,
-        "date_added": "03-09-2019 08:35:54",
+        "response_time": 28,
+        "date_added": "03-09-2019 09:35:53",
         "ipinfo": {
             "45.79.176.39": {
                 "ccode": "US",
@@ -895,10 +895,10 @@
         }
     },
     "udp:\/\/tracker.leechers-paradise.org:6969\/announce": {
-        "last_checked": "03-09-2019 08:30:19",
+        "last_checked": "03-09-2019 09:30:20",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:30:19",
+        "date_added": "03-09-2019 09:30:20",
         "ipinfo": {
             "188.241.58.209": {
                 "ccode": "RO",
@@ -961,10 +961,10 @@
         "ipinfo": []
     },
     "udp:\/\/tracker.moeking.me:6969\/announce": {
-        "last_checked": "03-09-2019 08:31:11",
+        "last_checked": "03-09-2019 09:31:10",
         "status": "Good",
-        "response_time": 327,
-        "date_added": "03-09-2019 08:31:11",
+        "response_time": 244,
+        "date_added": "03-09-2019 09:31:10",
         "ipinfo": {
             "51.15.226.113": {
                 "ccode": "FR",
@@ -974,10 +974,10 @@
         }
     },
     "udp:\/\/tracker.nyaa.uk:6969\/announce": {
-        "last_checked": "03-09-2019 08:31:59",
+        "last_checked": "03-09-2019 09:31:57",
         "status": "Good",
-        "response_time": 8,
-        "date_added": "03-09-2019 08:31:59",
+        "response_time": 6,
+        "date_added": "03-09-2019 09:31:57",
         "ipinfo": {
             "51.15.229.115": {
                 "ccode": "FR",
@@ -987,10 +987,10 @@
         }
     },
     "http:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "03-09-2019 08:33:43",
+        "last_checked": "03-09-2019 09:33:42",
         "status": "Good",
-        "response_time": 84,
-        "date_added": "03-09-2019 08:33:43",
+        "response_time": 83,
+        "date_added": "03-09-2019 09:33:42",
         "ipinfo": {
             "93.158.213.92": {
                 "ccode": "NL",
@@ -1007,10 +1007,10 @@
         "ipinfo": []
     },
     "http:\/\/vps02.net.orel.ru:80\/announce": {
-        "last_checked": "03-09-2019 08:34:54",
+        "last_checked": "03-09-2019 09:34:53",
         "status": "Good",
-        "response_time": 138,
-        "date_added": "03-09-2019 08:34:54",
+        "response_time": 140,
+        "date_added": "03-09-2019 09:34:53",
         "ipinfo": {
             "95.107.48.115": {
                 "ccode": "RU",
@@ -1033,10 +1033,10 @@
         }
     },
     "udp:\/\/tracker.filemail.com:6969\/announce": {
-        "last_checked": "03-09-2019 08:32:08",
+        "last_checked": "03-09-2019 09:32:06",
         "status": "Good",
-        "response_time": 25,
-        "date_added": "03-09-2019 08:32:08",
+        "response_time": 12,
+        "date_added": "03-09-2019 09:32:06",
         "ipinfo": {
             "52.58.128.163": {
                 "ccode": "DE",
@@ -1046,10 +1046,10 @@
         }
     },
     "udp:\/\/retracker.netbynet.ru:2710\/announce": {
-        "last_checked": "03-09-2019 08:31:42",
+        "last_checked": "03-09-2019 09:31:39",
         "status": "Good",
-        "response_time": 491,
-        "date_added": "03-09-2019 08:31:42",
+        "response_time": 115,
+        "date_added": "03-09-2019 09:31:39",
         "ipinfo": {
             "212.1.226.176": {
                 "ccode": "RU",
@@ -1073,12 +1073,12 @@
         "ipinfo": []
     },
     "https:\/\/t.quic.ws:443\/announce": {
-        "last_checked": "03-09-2019 08:34:41",
+        "last_checked": "03-09-2019 09:34:41",
         "status": "Good",
-        "response_time": 26,
-        "date_added": "03-09-2019 08:34:41",
+        "response_time": 84,
+        "date_added": "03-09-2019 09:34:41",
         "ipinfo": {
-            "2606:4700:30::681c:af": {
+            "104.28.0.175": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1099,10 +1099,10 @@
         }
     },
     "udp:\/\/retracker.sevstar.net:2710\/announce": {
-        "last_checked": "03-09-2019 08:33:35",
+        "last_checked": "03-09-2019 09:33:32",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:33:35",
+        "response_time": 177,
+        "date_added": "03-09-2019 09:33:32",
         "ipinfo": {
             "78.30.254.12": {
                 "ccode": "RU",
@@ -1112,10 +1112,10 @@
         }
     },
     "udp:\/\/retracker.baikal-telecom.net:2710\/announce": {
-        "last_checked": "03-09-2019 08:31:46",
+        "last_checked": "03-09-2019 09:31:44",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:31:46",
+        "response_time": 220,
+        "date_added": "03-09-2019 09:31:44",
         "ipinfo": {
             "194.143.148.21": {
                 "ccode": "RU",
@@ -1125,10 +1125,10 @@
         }
     },
     "udp:\/\/chihaya.toss.li:9696\/announce": {
-        "last_checked": "03-09-2019 08:34:15",
+        "last_checked": "03-09-2019 09:34:15",
         "status": "Good",
-        "response_time": 4,
-        "date_added": "03-09-2019 08:34:15",
+        "response_time": 101,
+        "date_added": "03-09-2019 09:34:15",
         "ipinfo": {
             "116.203.78.224": {
                 "ccode": "DE",
@@ -1164,10 +1164,10 @@
         }
     },
     "http:\/\/tracker.bz:80\/announce": {
-        "last_checked": "03-09-2019 08:33:47",
+        "last_checked": "03-09-2019 09:33:47",
         "status": "Good",
-        "response_time": 171,
-        "date_added": "03-09-2019 08:33:47",
+        "response_time": 112,
+        "date_added": "03-09-2019 09:33:47",
         "ipinfo": {
             "179.43.174.249": {
                 "ccode": "CH",
@@ -1268,10 +1268,10 @@
         }
     },
     "http:\/\/gwp2-v19.rinet.ru:80\/announce": {
-        "last_checked": "03-09-2019 08:35:58",
+        "last_checked": "03-09-2019 09:35:57",
         "status": "Good",
-        "response_time": 115,
-        "date_added": "03-09-2019 08:35:58",
+        "response_time": 338,
+        "date_added": "03-09-2019 09:35:57",
         "ipinfo": {
             "86.62.124.78": {
                 "ccode": "RU",
@@ -1307,10 +1307,10 @@
         }
     },
     "http:\/\/retracker.sevstar.net:2710\/announce": {
-        "last_checked": "03-09-2019 08:33:52",
+        "last_checked": "03-09-2019 09:33:51",
         "status": "Good",
-        "response_time": 161,
-        "date_added": "03-09-2019 08:33:52",
+        "response_time": 164,
+        "date_added": "03-09-2019 09:33:51",
         "ipinfo": {
             "78.30.254.12": {
                 "ccode": "RU",
@@ -1327,10 +1327,10 @@
         "ipinfo": []
     },
     "udp:\/\/retracker.akado-ural.ru:80\/announce": {
-        "last_checked": "03-09-2019 08:32:12",
+        "last_checked": "03-09-2019 09:32:10",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:32:12",
+        "date_added": "03-09-2019 09:32:10",
         "ipinfo": {
             "217.76.183.53": {
                 "ccode": "RU",
@@ -1379,10 +1379,10 @@
         }
     },
     "udp:\/\/bt.dy20188.com:80\/announce": {
-        "last_checked": "03-09-2019 08:33:04",
+        "last_checked": "03-09-2019 09:33:03",
         "status": "Good",
-        "response_time": 14,
-        "date_added": "03-09-2019 08:33:04",
+        "response_time": 12,
+        "date_added": "03-09-2019 09:33:03",
         "ipinfo": {
             "198.177.123.165": {
                 "ccode": "US",
@@ -1397,7 +1397,7 @@
         "response_time": 14,
         "date_added": "05-08-2019 09:35:05",
         "ipinfo": {
-            "104.24.124.114": {
+            "2606:4700:30::6818:7c72": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1410,7 +1410,7 @@
         "response_time": 11,
         "date_added": "02-09-2019 09:33:10",
         "ipinfo": {
-            "104.28.26.45": {
+            "2606:4700:30::681c:1b2d": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1431,10 +1431,10 @@
         }
     },
     "udp:\/\/tracker.openbittorrent.com:80\/announce": {
-        "last_checked": "03-09-2019 08:30:15",
+        "last_checked": "03-09-2019 09:30:16",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:30:15",
+        "response_time": 114,
+        "date_added": "03-09-2019 09:30:16",
         "ipinfo": {
             "185.19.107.254": {
                 "ccode": "SI",
@@ -1457,10 +1457,10 @@
         }
     },
     "udp:\/\/tracker-udp.gbitt.info:80\/announce": {
-        "last_checked": "03-09-2019 08:31:37",
+        "last_checked": "03-09-2019 09:31:35",
         "status": "Good",
         "response_time": 35,
-        "date_added": "03-09-2019 08:31:37",
+        "date_added": "03-09-2019 09:31:35",
         "ipinfo": {
             "194.40.242.11": {
                 "ccode": "UA",
@@ -1516,10 +1516,10 @@
         }
     },
     "https:\/\/tracker.publictorrent.net:443\/announce": {
-        "last_checked": "03-09-2019 08:34:24",
+        "last_checked": "03-09-2019 09:34:24",
         "status": "Good",
-        "response_time": 23,
-        "date_added": "03-09-2019 08:34:24",
+        "response_time": 9,
+        "date_added": "03-09-2019 09:34:24",
         "ipinfo": {
             "104.27.139.209": {
                 "ccode": "US",
@@ -1529,12 +1529,12 @@
         }
     },
     "http:\/\/tracker.publictorrent.net:80\/announce": {
-        "last_checked": "03-09-2019 08:35:16",
+        "last_checked": "03-09-2019 09:35:15",
         "status": "Good",
-        "response_time": 23,
-        "date_added": "03-09-2019 08:35:16",
+        "response_time": 12,
+        "date_added": "03-09-2019 09:35:15",
         "ipinfo": {
-            "104.27.138.209": {
+            "104.27.139.209": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1581,10 +1581,10 @@
         }
     },
     "udp:\/\/tracker.lelux.fi:6969\/announce": {
-        "last_checked": "03-09-2019 08:32:46",
+        "last_checked": "03-09-2019 09:32:44",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "03-09-2019 08:32:46",
+        "response_time": 199,
+        "date_added": "03-09-2019 09:32:44",
         "ipinfo": {
             "104.244.79.229": {
                 "ccode": "LU",
@@ -1594,10 +1594,10 @@
         }
     },
     "https:\/\/tracker.lelux.fi:443\/announce": {
-        "last_checked": "03-09-2019 08:34:29",
+        "last_checked": "03-09-2019 09:34:28",
         "status": "Good",
         "response_time": 90,
-        "date_added": "03-09-2019 08:34:29",
+        "date_added": "03-09-2019 09:34:28",
         "ipinfo": {
             "104.244.79.229": {
                 "ccode": "LU",
@@ -1607,10 +1607,10 @@
         }
     },
     "http:\/\/tracker01.loveapp.com:6789\/announce": {
-        "last_checked": "03-09-2019 08:35:08",
+        "last_checked": "03-09-2019 09:35:06",
         "status": "Good",
-        "response_time": 456,
-        "date_added": "03-09-2019 08:35:08",
+        "response_time": 444,
+        "date_added": "03-09-2019 09:35:06",
         "ipinfo": {
             "34.92.10.197": {
                 "ccode": "US",
@@ -1620,10 +1620,10 @@
         }
     },
     "http:\/\/tracker.lelux.fi:80\/announce": {
-        "last_checked": "03-09-2019 08:35:20",
+        "last_checked": "03-09-2019 09:35:19",
         "status": "Good",
-        "response_time": 93,
-        "date_added": "03-09-2019 08:35:20",
+        "response_time": 90,
+        "date_added": "03-09-2019 09:35:19",
         "ipinfo": {
             "104.244.79.229": {
                 "ccode": "LU",
@@ -1646,12 +1646,12 @@
         }
     },
     "https:\/\/opentracker.co:443\/announce": {
-        "last_checked": "03-09-2019 08:32:37",
+        "last_checked": "03-09-2019 09:32:36",
         "status": "Good",
         "response_time": 25,
-        "date_added": "03-09-2019 08:32:37",
+        "date_added": "03-09-2019 09:32:36",
         "ipinfo": {
-            "2606:4700:e2::ac40:890d": {
+            "172.64.137.13": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1659,10 +1659,10 @@
         }
     },
     "udp:\/\/tracker3.itzmx.com:6961\/announce": {
-        "last_checked": "03-09-2019 08:31:19",
+        "last_checked": "03-09-2019 09:31:18",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:31:19",
+        "date_added": "03-09-2019 09:31:18",
         "ipinfo": {
             "176.113.71.19": {
                 "ccode": "AU",
@@ -1672,10 +1672,10 @@
         }
     },
     "udp:\/\/opentor.org:2710\/announce": {
-        "last_checked": "03-09-2019 08:31:28",
+        "last_checked": "03-09-2019 09:31:26",
         "status": "Good",
-        "response_time": 222,
-        "date_added": "03-09-2019 08:31:28",
+        "response_time": 1,
+        "date_added": "03-09-2019 09:31:26",
         "ipinfo": {
             "46.148.18.254": {
                 "ccode": "UA",
@@ -1685,10 +1685,10 @@
         }
     },
     "udp:\/\/tracker.yoshi210.com:6969\/announce": {
-        "last_checked": "03-09-2019 08:32:24",
+        "last_checked": "03-09-2019 09:32:22",
         "status": "Good",
         "response_time": 1,
-        "date_added": "03-09-2019 08:32:24",
+        "date_added": "03-09-2019 09:32:22",
         "ipinfo": {
             "51.254.249.186": {
                 "ccode": "DE",
@@ -1698,10 +1698,10 @@
         }
     },
     "udp:\/\/tracker.ds.is:6969\/announce": {
-        "last_checked": "03-09-2019 08:32:29",
+        "last_checked": "03-09-2019 09:32:27",
         "status": "Good",
-        "response_time": 173,
-        "date_added": "03-09-2019 08:32:29",
+        "response_time": 102,
+        "date_added": "03-09-2019 09:32:27",
         "ipinfo": {
             "194.182.176.251": {
                 "ccode": "BG",
@@ -1711,12 +1711,12 @@
         }
     },
     "http:\/\/h4.trakx.nibba.trade:80\/announce": {
-        "last_checked": "03-09-2019 08:32:42",
+        "last_checked": "03-09-2019 09:32:40",
         "status": "Good",
-        "response_time": 24,
-        "date_added": "03-09-2019 08:32:42",
+        "response_time": 23,
+        "date_added": "03-09-2019 09:32:40",
         "ipinfo": {
-            "34.231.75.48": {
+            "52.2.145.235": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Amazon.com, Inc."
@@ -1724,10 +1724,10 @@
         }
     },
     "udp:\/\/opentracker.sktorrent.org:6969\/announce": {
-        "last_checked": "03-09-2019 08:32:33",
+        "last_checked": "03-09-2019 09:32:31",
         "status": "Good",
-        "response_time": 8,
-        "date_added": "03-09-2019 08:32:33",
+        "response_time": 7,
+        "date_added": "03-09-2019 09:32:31",
         "ipinfo": {
             "185.69.104.122": {
                 "ccode": "SK",
@@ -1763,10 +1763,10 @@
         }
     },
     "udp:\/\/u4.trakx.nibba.trade:1337\/announce": {
-        "last_checked": "03-09-2019 08:33:00",
+        "last_checked": "03-09-2019 09:32:58",
         "status": "Good",
-        "response_time": 24,
-        "date_added": "03-09-2019 08:33:00",
+        "response_time": 34,
+        "date_added": "03-09-2019 09:32:58",
         "ipinfo": {
             "178.128.6.0": {
                 "ccode": "US",
@@ -1776,12 +1776,12 @@
         }
     },
     "https:\/\/tracker.nanoha.org:443\/announce": {
-        "last_checked": "03-09-2019 08:33:39",
+        "last_checked": "03-09-2019 09:33:36",
         "status": "Good",
-        "response_time": 14,
-        "date_added": "03-09-2019 08:33:39",
+        "response_time": 13,
+        "date_added": "03-09-2019 09:33:36",
         "ipinfo": {
-            "2606:4700:30::681c:1026": {
+            "2606:4700:30::681c:1126": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1789,10 +1789,10 @@
         }
     },
     "udp:\/\/bt2.54new.com:8080\/announce": {
-        "last_checked": "03-09-2019 08:34:20",
+        "last_checked": "03-09-2019 09:34:20",
         "status": "Good",
-        "response_time": 251,
-        "date_added": "03-09-2019 08:34:20",
+        "response_time": 235,
+        "date_added": "03-09-2019 09:34:20",
         "ipinfo": {
             "139.99.100.97": {
                 "ccode": "SG",
@@ -1802,10 +1802,10 @@
         }
     },
     "https:\/\/opentracker.acgnx.se:443\/announce": {
-        "last_checked": "03-09-2019 08:34:45",
+        "last_checked": "03-09-2019 09:34:45",
         "status": "Good",
-        "response_time": 87,
-        "date_added": "03-09-2019 08:34:45",
+        "response_time": 90,
+        "date_added": "03-09-2019 09:34:45",
         "ipinfo": {
             "54.37.157.173": {
                 "ccode": "FR",
@@ -1815,10 +1815,10 @@
         }
     },
     "http:\/\/tracker.yoshi210.com:6969\/announce": {
-        "last_checked": "03-09-2019 08:35:12",
+        "last_checked": "03-09-2019 09:35:11",
         "status": "Good",
-        "response_time": 92,
-        "date_added": "03-09-2019 08:35:12",
+        "response_time": 81,
+        "date_added": "03-09-2019 09:35:11",
         "ipinfo": {
             "51.254.249.186": {
                 "ccode": "DE",
@@ -1828,10 +1828,10 @@
         }
     },
     "http:\/\/tracker.frozen-layer.net:6969\/announce": {
-        "last_checked": "03-09-2019 08:35:33",
+        "last_checked": "03-09-2019 09:35:31",
         "status": "Good",
-        "response_time": 1867,
-        "date_added": "03-09-2019 08:35:33",
+        "response_time": 190,
+        "date_added": "03-09-2019 09:35:31",
         "ipinfo": {
             "194.30.12.195": {
                 "ccode": "ES",
@@ -1841,10 +1841,10 @@
         }
     },
     "http:\/\/sukebei.tracker.wf:8888\/announce": {
-        "last_checked": "03-09-2019 08:35:46",
+        "last_checked": "03-09-2019 09:35:44",
         "status": "Good",
         "response_time": 86,
-        "date_added": "03-09-2019 08:35:46",
+        "date_added": "03-09-2019 09:35:44",
         "ipinfo": {
             "212.47.237.124": {
                 "ccode": "FR",
@@ -1854,10 +1854,10 @@
         }
     },
     "http:\/\/opentracker.acgnx.se:80\/announce": {
-        "last_checked": "03-09-2019 08:35:50",
+        "last_checked": "03-09-2019 09:35:49",
         "status": "Good",
-        "response_time": 82,
-        "date_added": "03-09-2019 08:35:50",
+        "response_time": 100,
+        "date_added": "03-09-2019 09:35:49",
         "ipinfo": {
             "54.37.157.173": {
                 "ccode": "FR",
@@ -1867,10 +1867,10 @@
         }
     },
     "http:\/\/bt2.54new.com:8080\/announce": {
-        "last_checked": "03-09-2019 08:36:02",
+        "last_checked": "03-09-2019 09:36:01",
         "status": "Good",
         "response_time": 234,
-        "date_added": "03-09-2019 08:36:02",
+        "date_added": "03-09-2019 09:36:01",
         "ipinfo": {
             "139.99.100.97": {
                 "ccode": "SG",
