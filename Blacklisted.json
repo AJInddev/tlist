@@ -777,5 +777,32 @@
         "url": "http:\/\/acg.rip:6699\/announce",
         "reason": "Possible duplicate of http:\/\/t.acg.rip:6699\/announce",
         "last_checked": "26-08-2019 07:36:15"
+    },
+    {
+        "url": "http:\/\/secure.pow7.com:80\/announce",
+        "reason": "duplicate of http:\/\/pow7.com:80\/announce",
+        "last_checked": "05-10-2019 11:30:03",
+        "date_added": "05-10-2019 11:30:03"
+    },
+    {
+        "url": "udp:\/\/qg.lorzl.gq:233\/announce",
+        "reason": "duplicate of udp:\/\/qg.lorzl.gq:2710\/announce",
+        "last_checked": "05-10-2019 11:30:03",
+        "date_added": "05-10-2019 11:30:03"
+    },
+    {
+        "url": "udp:\/\/bt2.archive.org:6969\/announce",
+        "reason": "Possible duplicate of http:\/\/bt2.archive.org:6969\/announce",
+        "last_checked": "05-10-2019 11:32:03"
+    },
+    {
+        "url": "udp:\/\/bt1.archive.org:6969\/announce",
+        "reason": "Possible duplicate of http:\/\/bt1.archive.org:6969\/announce",
+        "last_checked": "05-10-2019 11:32:03"
+    },
+    {
+        "url": "udp:\/\/qg.lorzl.gq:2710\/announce",
+        "reason": "Possible duplicate of udp:\/\/qg.lorzl.gq:233\/announce",
+        "last_checked": "05-10-2019 11:33:42"
     }
 ]
