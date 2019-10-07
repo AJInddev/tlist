@@ -2,8 +2,8 @@
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "07-10-2019 02:33:42",
-        "date_added": "07-10-2019 02:33:42"
+        "last_checked": "07-10-2019 03:33:48",
+        "date_added": "07-10-2019 03:33:48"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
         "status": "Down",
@@ -20,20 +20,20 @@
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "07-10-2019 02:33:10",
-        "date_added": "07-10-2019 02:33:10"
+        "last_checked": "07-10-2019 03:33:15",
+        "date_added": "07-10-2019 03:33:15"
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "07-10-2019 02:35:26",
-        "date_added": "07-10-2019 02:35:26"
+        "last_checked": "07-10-2019 03:35:30",
+        "date_added": "07-10-2019 03:35:30"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "07-10-2019 02:35:42",
-        "date_added": "07-10-2019 02:35:42"
+        "last_checked": "07-10-2019 03:35:46",
+        "date_added": "07-10-2019 03:35:46"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -80,8 +80,8 @@
     "http:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "07-10-2019 02:33:49",
-        "date_added": "07-10-2019 02:33:49"
+        "last_checked": "07-10-2019 03:33:54",
+        "date_added": "07-10-2019 03:33:54"
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
@@ -98,8 +98,8 @@
     "http:\/\/tracker.tvunderground.org.ru:3218\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "07-10-2019 09:33:41",
-        "date_added": "07-10-2019 09:33:41"
+        "last_checked": "07-10-2019 03:33:39",
+        "date_added": "07-10-2019 03:33:39"
     },
     "http:\/\/private.minimafia.nl:443\/announce": {
         "status": "Down",
@@ -764,7 +764,13 @@
     "https:\/\/tracker.hama3.net:443\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "07-10-2019 02:34:37",
-        "date_added": "07-10-2019 02:34:37"
+        "last_checked": "07-10-2019 03:34:41",
+        "date_added": "07-10-2019 03:34:41"
+    },
+    "https:\/\/trakr.nullrebel.com:443\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "07-10-2019 03:34:26",
+        "date_added": "07-10-2019 03:34:26"
     }
 }
