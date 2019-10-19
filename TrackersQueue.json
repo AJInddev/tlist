@@ -26,14 +26,14 @@
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "19-10-2019 07:34:56",
-        "date_added": "19-10-2019 07:34:56"
+        "last_checked": "19-10-2019 08:34:47",
+        "date_added": "19-10-2019 08:34:47"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "19-10-2019 07:33:26",
-        "date_added": "19-10-2019 07:33:26"
+        "last_checked": "19-10-2019 08:33:20",
+        "date_added": "19-10-2019 08:33:20"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -80,8 +80,8 @@
     "http:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "19-10-2019 07:35:29",
-        "date_added": "19-10-2019 07:35:29"
+        "last_checked": "19-10-2019 08:35:21",
+        "date_added": "19-10-2019 08:35:21"
     },
     "udp:\/\/torrentclub.tech:6969\/announce": {
         "status": "Down",
@@ -608,8 +608,8 @@
     "http:\/\/bt-tracker.gamexp.ru:2710\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "18-10-2019 02:36:01",
-        "date_added": "18-10-2019 02:36:01"
+        "last_checked": "19-10-2019 08:35:50",
+        "date_added": "19-10-2019 08:35:50"
     },
     "http:\/\/opentracker.h4ck.me:6969\/announce": {
         "status": "Down",
@@ -620,8 +620,8 @@
     "http:\/\/mail2.zelenaya.net:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "19-10-2019 05:35:39",
-        "date_added": "19-10-2019 05:35:39"
+        "last_checked": "19-10-2019 08:35:40",
+        "date_added": "19-10-2019 08:35:40"
     },
     "http:\/\/tracker.moxing.party:6969\/announce": {
         "status": "Down",
@@ -698,8 +698,8 @@
     "http:\/\/tracker.lelux.fi:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "19-10-2019 06:35:29",
-        "date_added": "19-10-2019 06:35:29"
+        "last_checked": "19-10-2019 08:35:11",
+        "date_added": "19-10-2019 08:35:11"
     },
     "http:\/\/tracker01.loveapp.com:6789\/announce": {
         "status": "Down",
@@ -788,13 +788,19 @@
     "http:\/\/www.loushao.net:8080\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "19-10-2019 07:34:47",
-        "date_added": "19-10-2019 07:34:47"
+        "last_checked": "19-10-2019 08:34:38",
+        "date_added": "19-10-2019 08:34:38"
     },
     "http:\/\/opentracker.acgnx.se:80\/announce": {
         "status": "Down",
         "response_time": "-",
         "last_checked": "17-10-2019 02:35:34",
         "date_added": "17-10-2019 02:35:34"
+    },
+    "http:\/\/caramelo.ddns.net:8000\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "19-10-2019 08:33:51",
+        "date_added": "19-10-2019 08:33:51"
     }
 }
