@@ -26,14 +26,14 @@
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "24-11-2019 02:34:36",
-        "date_added": "24-11-2019 02:34:36"
+        "last_checked": "24-11-2019 03:34:32",
+        "date_added": "24-11-2019 03:34:32"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "24-11-2019 02:34:48",
-        "date_added": "24-11-2019 02:34:48"
+        "last_checked": "24-11-2019 03:34:47",
+        "date_added": "24-11-2019 03:34:47"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -50,8 +50,8 @@
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "24-11-2019 02:33:33",
-        "date_added": "24-11-2019 02:33:33"
+        "last_checked": "24-11-2019 03:33:30",
+        "date_added": "24-11-2019 03:33:30"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
@@ -98,8 +98,8 @@
     "http:\/\/tracker.tvunderground.org.ru:3218\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "24-11-2019 01:33:00",
-        "date_added": "24-11-2019 01:33:00"
+        "last_checked": "24-11-2019 03:32:59",
+        "date_added": "24-11-2019 03:32:59"
     },
     "http:\/\/private.minimafia.nl:443\/announce": {
         "status": "Down",
@@ -488,8 +488,8 @@
     "http:\/\/newtoncity.org:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "23-11-2019 09:35:03",
-        "date_added": "23-11-2019 09:35:03"
+        "last_checked": "24-11-2019 03:35:26",
+        "date_added": "24-11-2019 03:35:26"
     },
     "udp:\/\/tracker.moeking.me:6969\/announce": {
         "status": "Down",
@@ -530,8 +530,8 @@
     "http:\/\/tracker.bz:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "24-11-2019 02:33:12",
-        "date_added": "24-11-2019 02:33:12"
+        "last_checked": "24-11-2019 03:33:09",
+        "date_added": "24-11-2019 03:33:09"
     },
     "udp:\/\/retracker.baikal-telecom.net:2710\/announce": {
         "status": "Down",
@@ -620,8 +620,8 @@
     "http:\/\/mail2.zelenaya.net:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "23-11-2019 03:33:26",
-        "date_added": "23-11-2019 03:33:26"
+        "last_checked": "24-11-2019 03:35:33",
+        "date_added": "24-11-2019 03:35:33"
     },
     "http:\/\/tracker.moxing.party:6969\/announce": {
         "status": "Down",
@@ -794,8 +794,8 @@
     "http:\/\/opentracker.acgnx.se:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "24-11-2019 01:35:20",
-        "date_added": "24-11-2019 01:35:20"
+        "last_checked": "24-11-2019 03:35:16",
+        "date_added": "24-11-2019 03:35:16"
     },
     "http:\/\/caramelo.ddns.net:8000\/announce": {
         "status": "Down",
@@ -826,5 +826,11 @@
         "response_time": "-",
         "last_checked": "04-11-2019 03:35:12",
         "date_added": "04-11-2019 03:35:12"
+    },
+    "http:\/\/tracker.yoshi210.com:6969\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "24-11-2019 03:34:47",
+        "date_added": "24-11-2019 03:34:47"
     }
 }
