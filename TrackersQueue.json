@@ -20,20 +20,20 @@
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-11-2019 05:33:41",
-        "date_added": "27-11-2019 05:33:41"
+        "last_checked": "27-11-2019 06:33:47",
+        "date_added": "27-11-2019 06:33:47"
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-11-2019 05:34:16",
-        "date_added": "27-11-2019 05:34:16"
+        "last_checked": "27-11-2019 06:34:26",
+        "date_added": "27-11-2019 06:34:26"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "27-11-2019 05:33:02",
-        "date_added": "27-11-2019 05:33:02"
+        "last_checked": "27-11-2019 06:33:07",
+        "date_added": "27-11-2019 06:33:07"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -314,14 +314,14 @@
     "https:\/\/tracker.fastdownload.xyz:443\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "28-04-2019 07:33:32",
-        "date_added": "28-04-2019 07:33:32"
+        "last_checked": "27-11-2019 06:32:50",
+        "date_added": "27-11-2019 06:32:50"
     },
     "https:\/\/opentracker.xyz:443\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "17-10-2019 03:32:26",
-        "date_added": "17-10-2019 03:32:26"
+        "last_checked": "27-11-2019 06:32:54",
+        "date_added": "27-11-2019 06:32:54"
     },
     "http:\/\/torrent.nwps.ws:80\/announce": {
         "status": "Down",
@@ -530,8 +530,8 @@
     "http:\/\/tracker.bz:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "27-11-2019 05:34:48",
-        "date_added": "27-11-2019 05:34:48"
+        "last_checked": "27-11-2019 06:34:58",
+        "date_added": "27-11-2019 06:34:58"
     },
     "udp:\/\/retracker.baikal-telecom.net:2710\/announce": {
         "status": "Down",
@@ -608,8 +608,8 @@
     "http:\/\/bt-tracker.gamexp.ru:2710\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "27-11-2019 05:35:22",
-        "date_added": "27-11-2019 05:35:22"
+        "last_checked": "27-11-2019 06:35:30",
+        "date_added": "27-11-2019 06:35:30"
     },
     "http:\/\/opentracker.h4ck.me:6969\/announce": {
         "status": "Down",
@@ -710,8 +710,8 @@
     "https:\/\/tracker.lelux.fi:443\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "27-11-2019 04:32:37",
-        "date_added": "27-11-2019 04:32:37"
+        "last_checked": "27-11-2019 06:32:45",
+        "date_added": "27-11-2019 06:32:45"
     },
     "udp:\/\/tracker.fixr.pro:6969\/announce": {
         "status": "Down",
@@ -832,5 +832,11 @@
         "response_time": "-",
         "last_checked": "27-11-2019 12:34:30",
         "date_added": "27-11-2019 12:34:30"
+    },
+    "https:\/\/opentracker.co:443\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "27-11-2019 06:32:58",
+        "date_added": "27-11-2019 06:32:58"
     }
 }
