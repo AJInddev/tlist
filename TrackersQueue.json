@@ -26,14 +26,14 @@
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "11-12-2019 06:34:06",
-        "date_added": "11-12-2019 06:34:06"
+        "last_checked": "11-12-2019 07:34:15",
+        "date_added": "11-12-2019 07:34:15"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "11-12-2019 06:34:21",
-        "date_added": "11-12-2019 06:34:21"
+        "last_checked": "11-12-2019 07:34:28",
+        "date_added": "11-12-2019 07:34:28"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -50,8 +50,8 @@
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "11-12-2019 06:34:48",
-        "date_added": "11-12-2019 06:34:48"
+        "last_checked": "11-12-2019 07:34:55",
+        "date_added": "11-12-2019 07:34:55"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
@@ -98,8 +98,8 @@
     "http:\/\/tracker.tvunderground.org.ru:3218\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "11-12-2019 04:32:44",
-        "date_added": "11-12-2019 04:32:44"
+        "last_checked": "11-12-2019 07:32:45",
+        "date_added": "11-12-2019 07:32:45"
     },
     "http:\/\/private.minimafia.nl:443\/announce": {
         "status": "Down",
@@ -488,8 +488,8 @@
     "http:\/\/newtoncity.org:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "11-12-2019 06:34:58",
-        "date_added": "11-12-2019 06:34:58"
+        "last_checked": "11-12-2019 07:35:05",
+        "date_added": "11-12-2019 07:35:05"
     },
     "udp:\/\/tracker.moeking.me:6969\/announce": {
         "status": "Down",
@@ -590,8 +590,8 @@
     "http:\/\/retracker.sevstar.net:2710\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "11-12-2019 06:32:55",
-        "date_added": "11-12-2019 06:32:55"
+        "last_checked": "11-12-2019 07:33:04",
+        "date_added": "11-12-2019 07:33:04"
     },
     "http:\/\/gwp2-v19.rinet.ru:80\/announce": {
         "status": "Down",
@@ -838,5 +838,11 @@
         "response_time": "-",
         "last_checked": "27-11-2019 10:32:46",
         "date_added": "27-11-2019 10:32:46"
+    },
+    "https:\/\/tracker.nanoha.org:443\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "11-12-2019 07:32:39",
+        "date_added": "11-12-2019 07:32:39"
     }
 }
