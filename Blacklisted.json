@@ -804,5 +804,46 @@
         "url": "udp:\/\/qg.lorzl.gq:2710\/announce",
         "reason": "Possible duplicate of udp:\/\/qg.lorzl.gq:233\/announce",
         "last_checked": "05-10-2019 11:33:42"
+    },
+    {
+        "url": "http:\/\/tracker.frozen-layer.net:6969\/announce",
+        "reason": "registered torrents",
+        "last_checked": "18-12-2019 10:30:03",
+        "date_added": "18-12-2019 10:30:03"
+    },
+    {
+        "url": "http:\/\/opentracker.acgnx.se:80\/announce",
+        "reason": "registered torrents",
+        "last_checked": "18-12-2019 10:30:03",
+        "date_added": "18-12-2019 10:30:03"
+    },
+    {
+        "url": "http:\/\/sukebei.tracker.wf:8888\/announce",
+        "reason": "registered torrents",
+        "last_checked": "18-12-2019 10:30:03",
+        "date_added": "18-12-2019 10:30:03"
+    },
+    {
+        "url": "http:\/\/bt2.54new.com:8080\/announce",
+        "reason": "registered torrents",
+        "last_checked": "18-12-2019 10:30:03",
+        "date_added": "18-12-2019 10:30:03"
+    },
+    {
+        "url": "http:\/\/bt-tracker.gamexp.ru:2710\/announce",
+        "reason": "registered torrents",
+        "last_checked": "18-12-2019 10:30:03",
+        "date_added": "18-12-2019 10:30:03"
+    },
+    {
+        "url": "udp:\/\/tracker.pomf.se:80\/announce",
+        "reason": "duplicate of udp:\/\/tracker.openbittorrent.com:80\/announce",
+        "last_checked": "18-12-2019 10:30:03",
+        "date_added": "18-12-2019 10:30:03"
+    },
+    {
+        "url": "udp:\/\/bt2.54new.com:8080\/announce",
+        "reason": "Possible duplicate of http:\/\/bt2.54new.com:8080\/announce",
+        "last_checked": "18-12-2019 10:33:44"
     }
 ]
