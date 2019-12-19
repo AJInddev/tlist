@@ -20,20 +20,20 @@
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "19-12-2019 04:32:09",
-        "date_added": "19-12-2019 04:32:09"
+        "last_checked": "19-12-2019 05:32:11",
+        "date_added": "19-12-2019 05:32:11"
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "19-12-2019 04:34:23",
-        "date_added": "19-12-2019 04:34:23"
+        "last_checked": "19-12-2019 05:34:30",
+        "date_added": "19-12-2019 05:34:30"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "19-12-2019 04:33:03",
-        "date_added": "19-12-2019 04:33:03"
+        "last_checked": "19-12-2019 05:33:04",
+        "date_added": "19-12-2019 05:33:04"
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
         "status": "Down",
@@ -50,8 +50,8 @@
     "http:\/\/open.acgtracker.com:1096\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "19-12-2019 04:33:44",
-        "date_added": "19-12-2019 04:33:44"
+        "last_checked": "19-12-2019 05:33:48",
+        "date_added": "19-12-2019 05:33:48"
     },
     "wss:\/\/tracker.fastcast.nz:443\/announce": {
         "status": "Down",
@@ -530,8 +530,8 @@
     "http:\/\/tracker.bz:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "18-12-2019 04:33:11",
-        "date_added": "18-12-2019 04:33:11"
+        "last_checked": "19-12-2019 05:33:35",
+        "date_added": "19-12-2019 05:33:35"
     },
     "udp:\/\/retracker.baikal-telecom.net:2710\/announce": {
         "status": "Down",
@@ -850,5 +850,11 @@
         "response_time": "-",
         "last_checked": "17-12-2019 09:33:02",
         "date_added": "17-12-2019 09:33:02"
+    },
+    "http:\/\/tracker.corpscorp.online:80\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "19-12-2019 05:33:29",
+        "date_added": "19-12-2019 05:33:29"
     }
 }
