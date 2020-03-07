@@ -845,5 +845,27 @@
         "url": "udp:\/\/bt2.54new.com:8080\/announce",
         "reason": "Possible duplicate of http:\/\/bt2.54new.com:8080\/announce",
         "last_checked": "18-12-2019 10:33:44"
+    },
+    {
+        "url": "http:\/\/tracker3.itzmx.com:8080\/announce",
+        "reason": "duplicate of http:\/\/tracker3.itzmx.com:6961\/announce",
+        "last_checked": "07-03-2020 10:30:04",
+        "date_added": "07-03-2020 10:30:04"
+    },
+    {
+        "url": "http:\/\/tracker.skyts.cn:6969\/announce",
+        "reason": "duplicate of http:\/\/tracker.skyts.net:6969\/announce",
+        "last_checked": "07-03-2020 10:30:04",
+        "date_added": "07-03-2020 10:30:04"
+    },
+    {
+        "url": "udp:\/\/tracker3.itzmx.com:6961\/announce",
+        "reason": "Possible duplicate of http:\/\/tracker3.itzmx.com:8080\/announce",
+        "last_checked": "07-03-2020 11:33:20"
+    },
+    {
+        "url": "http:\/\/tracker3.itzmx.com:6961\/announce",
+        "reason": "Possible duplicate of udp:\/\/tracker3.itzmx.com:6961\/announce",
+        "last_checked": "07-03-2020 11:34:21"
     }
 ]
