@@ -867,5 +867,21 @@
         "url": "http:\/\/tracker3.itzmx.com:6961\/announce",
         "reason": "Possible duplicate of udp:\/\/tracker3.itzmx.com:6961\/announce",
         "last_checked": "07-03-2020 11:34:21"
+    },
+    {
+        "url": "udp:\/\/tracker.gbitt.info:80\/announce",
+        "reason": "duplicate of udp:\/\/tracker-udp.gbitt.info:80\/announce",
+        "last_checked": "17-03-2020 08:30:04",
+        "date_added": "17-03-2020 08:30:04"
+    },
+    {
+        "url": "https:\/\/tracker.gbitt.info:443\/announce",
+        "reason": "Possible duplicate of udp:\/\/tracker.gbitt.info:80\/announce",
+        "last_checked": "17-03-2020 08:33:13"
+    },
+    {
+        "url": "http:\/\/tracker.gbitt.info:80\/announce",
+        "reason": "Possible duplicate of https:\/\/tracker.gbitt.info:443\/announce",
+        "last_checked": "17-03-2020 08:33:13"
     }
 ]
