@@ -2,8 +2,8 @@
     "http:\/\/tracker.internetwarriors.net:1337\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "20-03-2020 02:30:28",
-        "date_added": "20-03-2020 02:30:28"
+        "last_checked": "20-03-2020 03:30:28",
+        "date_added": "20-03-2020 03:30:28"
     },
     "http:\/\/tracker3.itzmx.com:6961\/announce": {
         "status": "Down",
@@ -20,14 +20,14 @@
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "20-03-2020 02:33:14",
-        "date_added": "20-03-2020 02:33:14"
+        "last_checked": "20-03-2020 03:33:15",
+        "date_added": "20-03-2020 03:33:15"
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "20-03-2020 02:35:25",
-        "date_added": "20-03-2020 02:35:25"
+        "last_checked": "20-03-2020 03:35:27",
+        "date_added": "20-03-2020 03:35:27"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
@@ -620,8 +620,8 @@
     "http:\/\/mail2.zelenaya.net:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "20-03-2020 02:35:18",
-        "date_added": "20-03-2020 02:35:18"
+        "last_checked": "20-03-2020 03:35:21",
+        "date_added": "20-03-2020 03:35:21"
     },
     "http:\/\/tracker.moxing.party:6969\/announce": {
         "status": "Down",
@@ -788,8 +788,8 @@
     "http:\/\/www.loushao.net:8080\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "20-03-2020 12:33:34",
-        "date_added": "20-03-2020 12:33:34"
+        "last_checked": "20-03-2020 03:33:34",
+        "date_added": "20-03-2020 03:33:34"
     },
     "http:\/\/opentracker.acgnx.se:80\/announce": {
         "status": "Down",
@@ -878,8 +878,8 @@
     "http:\/\/tracker.zerobytes.xyz:1337\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "20-03-2020 02:32:06",
-        "date_added": "20-03-2020 02:32:06"
+        "last_checked": "20-03-2020 03:32:03",
+        "date_added": "20-03-2020 03:32:03"
     },
     "udp:\/\/retracker.netbynet.ru:2710\/announce": {
         "status": "Down",
@@ -914,8 +914,8 @@
     "http:\/\/tracker.ygsub.com:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "20-03-2020 02:34:46",
-        "date_added": "20-03-2020 02:34:46"
+        "last_checked": "20-03-2020 03:34:50",
+        "date_added": "20-03-2020 03:34:50"
     },
     "http:\/\/tracker.gcvchp.com:2710\/announce": {
         "status": "Down",
@@ -932,8 +932,8 @@
     "http:\/\/trun.tom.ru:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "18-03-2020 11:34:39",
-        "date_added": "18-03-2020 11:34:39"
+        "last_checked": "20-03-2020 03:34:42",
+        "date_added": "20-03-2020 03:34:42"
     },
     "udp:\/\/www.loushao.net:8080\/announce": {
         "status": "Down",
@@ -968,14 +968,14 @@
     "udp:\/\/tracker.skyts.net:6969\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "20-03-2020 02:33:40",
-        "date_added": "20-03-2020 02:33:40"
+        "last_checked": "20-03-2020 03:33:42",
+        "date_added": "20-03-2020 03:33:42"
     },
     "http:\/\/tracker.skyts.net:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "20-03-2020 02:34:08",
-        "date_added": "20-03-2020 02:34:08"
+        "last_checked": "20-03-2020 03:34:09",
+        "date_added": "20-03-2020 03:34:09"
     },
     "http:\/\/p4p.arenabg.com:1337\/announce": {
         "status": "Down",
@@ -994,5 +994,11 @@
         "response_time": "-",
         "last_checked": "20-03-2020 11:34:53",
         "date_added": "20-03-2020 11:34:53"
+    },
+    "http:\/\/tracker114514.top:11450\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "20-03-2020 03:32:43",
+        "date_added": "20-03-2020 03:32:43"
     }
 }
