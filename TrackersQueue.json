@@ -20,14 +20,14 @@
     "udp:\/\/tracker.kamigami.org:2710\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "29-03-2020 01:32:43",
-        "date_added": "29-03-2020 01:32:43"
+        "last_checked": "29-03-2020 02:32:48",
+        "date_added": "29-03-2020 02:32:48"
     },
     "http:\/\/tracker2.itzmx.com:6961\/announce": {
         "status": "Down",
         "response_time": null,
-        "last_checked": "29-03-2020 01:35:22",
-        "date_added": "29-03-2020 01:35:22"
+        "last_checked": "29-03-2020 02:35:35",
+        "date_added": "29-03-2020 02:35:35"
     },
     "http:\/\/tracker.torrentyorg.pl:80\/announce": {
         "status": "Down",
@@ -518,8 +518,8 @@
     "http:\/\/tracker.opentrackr.org:1337\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "30-10-2019 04:33:21",
-        "date_added": "30-10-2019 04:33:21"
+        "last_checked": "29-03-2020 02:30:16",
+        "date_added": "29-03-2020 02:30:16"
     },
     "http:\/\/sub4all.org:2710\/announce": {
         "status": "Down",
@@ -620,8 +620,8 @@
     "http:\/\/mail2.zelenaya.net:80\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "29-03-2020 01:35:07",
-        "date_added": "29-03-2020 01:35:07"
+        "last_checked": "29-03-2020 02:35:22",
+        "date_added": "29-03-2020 02:35:22"
     },
     "http:\/\/tracker.moxing.party:6969\/announce": {
         "status": "Down",
@@ -878,8 +878,8 @@
     "http:\/\/tracker.zerobytes.xyz:1337\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "29-03-2020 01:32:07",
-        "date_added": "29-03-2020 01:32:07"
+        "last_checked": "29-03-2020 02:32:12",
+        "date_added": "29-03-2020 02:32:12"
     },
     "udp:\/\/retracker.netbynet.ru:2710\/announce": {
         "status": "Down",
@@ -908,8 +908,8 @@
     "https:\/\/tracker.nyaa.tk:443\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "28-03-2020 02:34:22",
-        "date_added": "28-03-2020 02:34:22"
+        "last_checked": "29-03-2020 02:34:32",
+        "date_added": "29-03-2020 02:34:32"
     },
     "http:\/\/tracker.ygsub.com:6969\/announce": {
         "status": "Down",
@@ -920,8 +920,8 @@
     "http:\/\/tracker.gcvchp.com:2710\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "21-03-2020 03:35:15",
-        "date_added": "21-03-2020 03:35:15"
+        "last_checked": "29-03-2020 02:35:41",
+        "date_added": "29-03-2020 02:35:41"
     },
     "https:\/\/tracker.xcloud.zone:1337\/announce": {
         "status": "Down",
@@ -974,14 +974,14 @@
     "http:\/\/tracker.skyts.net:6969\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "29-03-2020 01:33:55",
-        "date_added": "29-03-2020 01:33:55"
+        "last_checked": "29-03-2020 02:34:04",
+        "date_added": "29-03-2020 02:34:04"
     },
     "http:\/\/p4p.arenabg.com:1337\/announce": {
         "status": "Down",
         "response_time": "-",
-        "last_checked": "29-03-2020 01:30:24",
-        "date_added": "29-03-2020 01:30:24"
+        "last_checked": "29-03-2020 02:30:27",
+        "date_added": "29-03-2020 02:30:27"
     },
     "https:\/\/tracker.nitrix.me:443\/announce": {
         "status": "Down",
@@ -1000,5 +1000,11 @@
         "response_time": "-",
         "last_checked": "24-03-2020 10:33:14",
         "date_added": "24-03-2020 10:33:14"
+    },
+    "https:\/\/tracker.sloppyta.co:443\/announce": {
+        "status": "Down",
+        "response_time": "-",
+        "last_checked": "29-03-2020 02:33:35",
+        "date_added": "29-03-2020 02:33:35"
     }
 }
