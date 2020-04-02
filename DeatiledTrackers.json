@@ -13,10 +13,10 @@
         }
     },
     "udp:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-04-2020 04:43:33",
+        "last_checked": "02-04-2020 05:43:47",
         "status": "Good",
         "response_time": 96,
-        "date_added": "02-04-2020 04:30:10",
+        "date_added": "02-04-2020 05:30:10",
         "ipinfo": {
             "93.158.213.92": {
                 "ccode": "NL",
@@ -26,10 +26,10 @@
         }
     },
     "udp:\/\/exodus.desync.com:6969\/announce": {
-        "last_checked": "02-04-2020 04:43:37",
+        "last_checked": "02-04-2020 05:43:51",
         "status": "Good",
-        "response_time": 50,
-        "date_added": "02-04-2020 04:30:31",
+        "response_time": 49,
+        "date_added": "02-04-2020 05:30:33",
         "ipinfo": {
             "208.83.20.20": {
                 "ccode": "US",
@@ -39,10 +39,10 @@
         }
     },
     "udp:\/\/explodie.org:6969\/announce": {
-        "last_checked": "02-04-2020 04:31:10",
+        "last_checked": "02-04-2020 05:31:08",
         "status": "Good",
         "response_time": 1,
-        "date_added": "02-04-2020 04:31:10",
+        "date_added": "02-04-2020 05:31:08",
         "ipinfo": {
             "184.105.151.164": {
                 "ccode": "US",
@@ -52,10 +52,10 @@
         }
     },
     "http:\/\/explodie.org:6969\/announce": {
-        "last_checked": "02-04-2020 04:31:23",
+        "last_checked": "02-04-2020 05:31:21",
         "status": "Good",
-        "response_time": 66,
-        "date_added": "02-04-2020 04:31:23",
+        "response_time": 65,
+        "date_added": "02-04-2020 05:31:21",
         "ipinfo": {
             "184.105.151.164": {
                 "ccode": "US",
@@ -65,10 +65,10 @@
         }
     },
     "udp:\/\/ipv4.tracker.harry.lu:80\/announce": {
-        "last_checked": "02-04-2020 04:31:19",
+        "last_checked": "02-04-2020 05:31:17",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "02-04-2020 04:31:19",
+        "response_time": 3,
+        "date_added": "02-04-2020 05:31:17",
         "ipinfo": {
             "51.15.40.114": {
                 "ccode": "NL",
@@ -83,7 +83,7 @@
         "response_time": 1,
         "date_added": "15-03-2019 10:30:53",
         "ipinfo": {
-            "104.18.1.1": {
+            "104.22.1.1": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -91,12 +91,12 @@
         }
     },
     "http:\/\/tracker1.itzmx.com:8080\/announce": {
-        "last_checked": "02-04-2020 04:31:29",
+        "last_checked": "02-04-2020 05:31:26",
         "status": "Good",
-        "response_time": 2504,
-        "date_added": "02-04-2020 04:31:29",
+        "response_time": 1193,
+        "date_added": "02-04-2020 05:31:26",
         "ipinfo": {
-            "104.18.1.1": {
+            "104.22.1.1": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -104,15 +104,15 @@
         }
     },
     "udp:\/\/tracker.torrent.eu.org:451\/announce": {
-        "last_checked": "02-04-2020 04:31:01",
+        "last_checked": "02-04-2020 05:31:00",
         "status": "Good",
-        "response_time": 96,
-        "date_added": "02-04-2020 04:31:01",
+        "response_time": 95,
+        "date_added": "02-04-2020 05:31:00",
         "ipinfo": {
-            "91.216.110.52": {
+            "89.234.156.205": {
                 "ccode": "FR",
                 "cname": "France",
-                "isp": "Grenode"
+                "isp": "Tetaneutral.net hosting"
             }
         }
     },
@@ -157,10 +157,10 @@
         }
     },
     "udp:\/\/retracker.lanta-net.ru:2710\/announce": {
-        "last_checked": "02-04-2020 04:30:56",
+        "last_checked": "02-04-2020 05:30:55",
         "status": "Good",
-        "response_time": 2422,
-        "date_added": "02-04-2020 04:30:56",
+        "response_time": 378,
+        "date_added": "02-04-2020 05:30:55",
         "ipinfo": {
             "37.235.174.46": {
                 "ccode": "RU",
@@ -170,10 +170,10 @@
         }
     },
     "udp:\/\/open.stealth.si:80\/announce": {
-        "last_checked": "02-04-2020 04:30:36",
+        "last_checked": "02-04-2020 05:30:37",
         "status": "Good",
         "response_time": 11,
-        "date_added": "02-04-2020 04:30:36",
+        "date_added": "02-04-2020 05:30:37",
         "ipinfo": {
             "185.181.60.67": {
                 "ccode": "NO",
@@ -197,10 +197,10 @@
         "ipinfo": []
     },
     "udp:\/\/tracker.uw0.xyz:6969\/announce": {
-        "last_checked": "02-04-2020 04:32:52",
+        "last_checked": "02-04-2020 05:32:53",
         "status": "Good",
-        "response_time": 4,
-        "date_added": "02-04-2020 04:32:52",
+        "response_time": 73,
+        "date_added": "02-04-2020 05:32:53",
         "ipinfo": {
             "91.149.192.31": {
                 "ccode": "PL",
@@ -210,10 +210,10 @@
         }
     },
     "udp:\/\/tracker.iamhansen.xyz:2000\/announce": {
-        "last_checked": "02-04-2020 04:32:56",
+        "last_checked": "02-04-2020 05:32:57",
         "status": "Good",
-        "response_time": 72,
-        "date_added": "02-04-2020 04:32:56",
+        "response_time": 73,
+        "date_added": "02-04-2020 05:32:57",
         "ipinfo": {
             "207.246.121.172": {
                 "ccode": "US",
@@ -223,10 +223,10 @@
         }
     },
     "udp:\/\/zephir.monocul.us:6969\/announce": {
-        "last_checked": "02-04-2020 04:31:51",
+        "last_checked": "02-04-2020 05:31:52",
         "status": "Good",
-        "response_time": 4,
-        "date_added": "02-04-2020 04:31:51",
+        "response_time": 14,
+        "date_added": "02-04-2020 05:31:52",
         "ipinfo": {
             "212.47.227.58": {
                 "ccode": "FR",
@@ -236,10 +236,10 @@
         }
     },
     "udp:\/\/tracker.cyberia.is:6969\/announce": {
-        "last_checked": "02-04-2020 04:30:40",
+        "last_checked": "02-04-2020 05:30:41",
         "status": "Good",
         "response_time": 1,
-        "date_added": "02-04-2020 04:30:40",
+        "date_added": "02-04-2020 05:30:41",
         "ipinfo": {
             "194.182.165.153": {
                 "ccode": "CH",
@@ -290,10 +290,10 @@
         "ipinfo": []
     },
     "http:\/\/open.acgnxtracker.com:80\/announce": {
-        "last_checked": "02-04-2020 04:35:07",
+        "last_checked": "02-04-2020 05:35:17",
         "status": "Good",
-        "response_time": 16,
-        "date_added": "02-04-2020 04:35:07",
+        "response_time": 13,
+        "date_added": "02-04-2020 05:35:17",
         "ipinfo": {
             "54.37.106.164": {
                 "ccode": "FR",
@@ -308,7 +308,7 @@
         "response_time": 75,
         "date_added": "14-11-2019 05:31:46",
         "ipinfo": {
-            "109.201.133.69": {
+            "109.201.133.68": {
                 "ccode": "NL",
                 "cname": "Netherlands",
                 "isp": "NForce Entertainment B.V."
@@ -360,7 +360,7 @@
         "response_time": 129,
         "date_added": "01-01-2020 10:33:51",
         "ipinfo": {
-            "104.26.13.4": {
+            "104.26.12.4": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -399,7 +399,7 @@
         "response_time": 619,
         "date_added": "02-01-2020 09:33:39",
         "ipinfo": {
-            "2606:4700:20::681a:d04": {
+            "104.26.13.4": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -477,7 +477,7 @@
         "response_time": 11,
         "date_added": "25-01-2019 10:34:08",
         "ipinfo": {
-            "104.18.51.9": {
+            "2606:4700:3033::6812:3309": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -504,7 +504,7 @@
         "response_time": 18,
         "date_added": "03-06-2019 06:34:43",
         "ipinfo": {
-            "99.84.102.21": {
+            "99.86.230.20": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Amazon.com, Inc."
@@ -517,7 +517,7 @@
         "response_time": 8,
         "date_added": "31-03-2020 09:34:49",
         "ipinfo": {
-            "2606:4700:3034::6818:7f38": {
+            "104.24.127.56": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -616,12 +616,12 @@
         }
     },
     "http:\/\/t.nyaatracker.com:80\/announce": {
-        "last_checked": "02-04-2020 04:34:59",
+        "last_checked": "02-04-2020 05:35:07",
         "status": "Good",
-        "response_time": 14,
-        "date_added": "02-04-2020 04:34:59",
+        "response_time": 24,
+        "date_added": "02-04-2020 05:35:07",
         "ipinfo": {
-            "2402:1f00:8000:800::1033": {
+            "139.99.45.37": {
                 "ccode": "SG",
                 "cname": "Singapore",
                 "isp": "OVH SAS"
@@ -629,10 +629,10 @@
         }
     },
     "udp:\/\/tracker.swateam.org.uk:2710\/announce": {
-        "last_checked": "02-04-2020 04:34:16",
+        "last_checked": "02-04-2020 05:34:21",
         "status": "Good",
-        "response_time": 72,
-        "date_added": "02-04-2020 04:34:16",
+        "response_time": 73,
+        "date_added": "02-04-2020 05:34:21",
         "ipinfo": {
             "75.127.14.224": {
                 "ccode": "US",
@@ -642,10 +642,10 @@
         }
     },
     "udp:\/\/tracker.tiny-vps.com:6969\/announce": {
-        "last_checked": "02-04-2020 04:30:44",
+        "last_checked": "02-04-2020 05:30:46",
         "status": "Good",
-        "response_time": 22,
-        "date_added": "02-04-2020 04:30:44",
+        "response_time": 23,
+        "date_added": "02-04-2020 05:30:46",
         "ipinfo": {
             "5.206.3.65": {
                 "ccode": "RU",
@@ -668,10 +668,10 @@
         }
     },
     "udp:\/\/tracker.dler.org:6969\/announce": {
-        "last_checked": "02-04-2020 04:34:24",
+        "last_checked": "02-04-2020 05:34:29",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "02-04-2020 04:34:24",
+        "response_time": 6,
+        "date_added": "02-04-2020 05:34:29",
         "ipinfo": {
             "45.86.70.144": {
                 "ccode": "US",
@@ -707,10 +707,10 @@
         }
     },
     "udp:\/\/tracker2.itzmx.com:6961\/announce": {
-        "last_checked": "02-04-2020 04:35:19",
+        "last_checked": "02-04-2020 05:35:32",
         "status": "Good",
-        "response_time": 1345,
-        "date_added": "02-04-2020 04:35:19",
+        "response_time": 524,
+        "date_added": "02-04-2020 05:35:32",
         "ipinfo": {
             "176.113.68.67": {
                 "ccode": "AU",
@@ -751,7 +751,7 @@
         "response_time": 4,
         "date_added": "21-05-2019 09:32:18",
         "ipinfo": {
-            "104.27.168.146": {
+            "104.27.169.146": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -790,7 +790,7 @@
         "response_time": 3,
         "date_added": "17-03-2020 07:35:01",
         "ipinfo": {
-            "104.27.168.146": {
+            "104.27.169.146": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -883,10 +883,10 @@
         }
     },
     "udp:\/\/tracker.leechers-paradise.org:6969\/announce": {
-        "last_checked": "02-04-2020 04:30:19",
+        "last_checked": "02-04-2020 05:30:18",
         "status": "Good",
         "response_time": 1,
-        "date_added": "02-04-2020 04:30:19",
+        "date_added": "02-04-2020 05:30:18",
         "ipinfo": {
             "188.241.58.209": {
                 "ccode": "RO",
@@ -921,7 +921,7 @@
         "response_time": 20,
         "date_added": "17-04-2019 09:34:11",
         "ipinfo": {
-            "172.217.164.180": {
+            "172.217.15.116": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Google LLC"
@@ -949,10 +949,10 @@
         "ipinfo": []
     },
     "udp:\/\/tracker.moeking.me:6969\/announce": {
-        "last_checked": "02-04-2020 04:31:06",
+        "last_checked": "02-04-2020 05:31:04",
         "status": "Good",
-        "response_time": 268,
-        "date_added": "02-04-2020 04:31:06",
+        "response_time": 338,
+        "date_added": "02-04-2020 05:31:04",
         "ipinfo": {
             "92.223.105.178": {
                 "ccode": "LU",
@@ -962,10 +962,10 @@
         }
     },
     "udp:\/\/tracker.nyaa.uk:6969\/announce": {
-        "last_checked": "02-04-2020 04:33:39",
+        "last_checked": "02-04-2020 05:33:40",
         "status": "Good",
         "response_time": 6,
-        "date_added": "02-04-2020 04:33:39",
+        "date_added": "02-04-2020 05:33:40",
         "ipinfo": {
             "15.188.67.15": {
                 "ccode": "FR",
@@ -975,10 +975,10 @@
         }
     },
     "http:\/\/tracker.opentrackr.org:1337\/announce": {
-        "last_checked": "02-04-2020 04:30:15",
+        "last_checked": "02-04-2020 05:30:14",
         "status": "Good",
-        "response_time": 78,
-        "date_added": "02-04-2020 04:30:15",
+        "response_time": 79,
+        "date_added": "02-04-2020 05:30:14",
         "ipinfo": {
             "93.158.213.92": {
                 "ccode": "NL",
@@ -1001,10 +1001,10 @@
         }
     },
     "http:\/\/vps02.net.orel.ru:80\/announce": {
-        "last_checked": "02-04-2020 04:32:43",
+        "last_checked": "02-04-2020 05:32:45",
         "status": "Good",
-        "response_time": 134,
-        "date_added": "02-04-2020 04:32:43",
+        "response_time": 143,
+        "date_added": "02-04-2020 05:32:45",
         "ipinfo": {
             "95.107.48.115": {
                 "ccode": "RU",
@@ -1027,10 +1027,10 @@
         }
     },
     "udp:\/\/tracker.filemail.com:6969\/announce": {
-        "last_checked": "02-04-2020 04:34:20",
+        "last_checked": "02-04-2020 05:34:25",
         "status": "Good",
-        "response_time": 20,
-        "date_added": "02-04-2020 04:34:20",
+        "response_time": 21,
+        "date_added": "02-04-2020 05:34:25",
         "ipinfo": {
             "52.58.128.163": {
                 "ccode": "DE",
@@ -1040,10 +1040,10 @@
         }
     },
     "udp:\/\/retracker.netbynet.ru:2710\/announce": {
-        "last_checked": "02-04-2020 04:33:01",
+        "last_checked": "02-04-2020 05:33:02",
         "status": "Good",
-        "response_time": 552,
-        "date_added": "02-04-2020 04:33:01",
+        "response_time": 668,
+        "date_added": "02-04-2020 05:33:02",
         "ipinfo": {
             "212.1.226.176": {
                 "ccode": "RU",
@@ -1093,10 +1093,10 @@
         }
     },
     "udp:\/\/retracker.sevstar.net:2710\/announce": {
-        "last_checked": "02-04-2020 04:34:29",
+        "last_checked": "02-04-2020 05:34:34",
         "status": "Good",
-        "response_time": 158,
-        "date_added": "02-04-2020 04:34:29",
+        "response_time": 165,
+        "date_added": "02-04-2020 05:34:34",
         "ipinfo": {
             "78.30.254.12": {
                 "ccode": "UA",
@@ -1119,10 +1119,10 @@
         }
     },
     "udp:\/\/chihaya.toss.li:9696\/announce": {
-        "last_checked": "02-04-2020 04:33:05",
+        "last_checked": "02-04-2020 05:33:06",
         "status": "Good",
-        "response_time": 106,
-        "date_added": "02-04-2020 04:33:05",
+        "response_time": 11,
+        "date_added": "02-04-2020 05:33:06",
         "ipinfo": {
             "80.211.26.119": {
                 "ccode": "IT",
@@ -1137,7 +1137,7 @@
         "response_time": 235,
         "date_added": "30-06-2019 09:34:59",
         "ipinfo": {
-            "172.217.7.147": {
+            "172.217.7.211": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Google LLC"
@@ -1257,10 +1257,10 @@
         }
     },
     "http:\/\/mail2.zelenaya.net:80\/announce": {
-        "last_checked": "02-04-2020 04:35:14",
+        "last_checked": "02-04-2020 05:35:23",
         "status": "Good",
-        "response_time": 1509,
-        "date_added": "02-04-2020 04:35:14",
+        "response_time": 407,
+        "date_added": "02-04-2020 05:35:23",
         "ipinfo": {
             "91.207.136.85": {
                 "ccode": "RU",
@@ -1309,10 +1309,10 @@
         }
     },
     "udp:\/\/retracker.akado-ural.ru:80\/announce": {
-        "last_checked": "02-04-2020 04:31:34",
+        "last_checked": "02-04-2020 05:31:31",
         "status": "Good",
-        "response_time": 248,
-        "date_added": "02-04-2020 04:31:34",
+        "response_time": 277,
+        "date_added": "02-04-2020 05:31:31",
         "ipinfo": {
             "217.76.183.53": {
                 "ccode": "RU",
@@ -1367,7 +1367,7 @@
         "response_time": 14,
         "date_added": "05-08-2019 09:35:05",
         "ipinfo": {
-            "104.24.125.114": {
+            "104.24.124.114": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1375,12 +1375,12 @@
         }
     },
     "http:\/\/tracker.bt4g.com:2095\/announce": {
-        "last_checked": "02-04-2020 04:33:09",
+        "last_checked": "02-04-2020 05:33:10",
         "status": "Good",
-        "response_time": 28,
-        "date_added": "02-04-2020 04:33:09",
+        "response_time": 15,
+        "date_added": "02-04-2020 05:33:10",
         "ipinfo": {
-            "2606:4700:3035::681c:1b2d": {
+            "104.28.26.45": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1421,10 +1421,10 @@
         "ipinfo": []
     },
     "udp:\/\/tracker-udp.gbitt.info:80\/announce": {
-        "last_checked": "02-04-2020 04:32:39",
+        "last_checked": "02-04-2020 05:32:40",
         "status": "Good",
-        "response_time": 18,
-        "date_added": "02-04-2020 04:32:39",
+        "response_time": 30,
+        "date_added": "02-04-2020 05:32:40",
         "ipinfo": {
             "62.171.179.41": {
                 "ccode": "DE",
@@ -1533,10 +1533,10 @@
         }
     },
     "udp:\/\/tracker.lelux.fi:6969\/announce": {
-        "last_checked": "02-04-2020 04:32:04",
+        "last_checked": "02-04-2020 05:32:04",
         "status": "Good",
-        "response_time": 102,
-        "date_added": "02-04-2020 04:32:04",
+        "response_time": 1,
+        "date_added": "02-04-2020 05:32:04",
         "ipinfo": {
             "51.158.23.91": {
                 "ccode": "FR",
@@ -1546,10 +1546,10 @@
         }
     },
     "https:\/\/tracker.lelux.fi:443\/announce": {
-        "last_checked": "02-04-2020 04:32:17",
+        "last_checked": "02-04-2020 05:32:17",
         "status": "Good",
-        "response_time": 89,
-        "date_added": "02-04-2020 04:32:17",
+        "response_time": 191,
+        "date_added": "02-04-2020 05:32:17",
         "ipinfo": {
             "51.158.23.91": {
                 "ccode": "FR",
@@ -1572,10 +1572,10 @@
         }
     },
     "http:\/\/tracker.lelux.fi:80\/announce": {
-        "last_checked": "02-04-2020 04:32:26",
+        "last_checked": "02-04-2020 05:32:25",
         "status": "Good",
-        "response_time": 86,
-        "date_added": "02-04-2020 04:32:26",
+        "response_time": 85,
+        "date_added": "02-04-2020 05:32:25",
         "ipinfo": {
             "51.158.23.91": {
                 "ccode": "FR",
@@ -1612,10 +1612,10 @@
         }
     },
     "udp:\/\/opentor.org:2710\/announce": {
-        "last_checked": "02-04-2020 04:31:43",
+        "last_checked": "02-04-2020 05:31:42",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "02-04-2020 04:31:43",
+        "response_time": 228,
+        "date_added": "02-04-2020 05:31:42",
         "ipinfo": {
             "46.148.18.254": {
                 "ccode": "UA",
@@ -1625,23 +1625,23 @@
         }
     },
     "udp:\/\/tracker.yoshi210.com:6969\/announce": {
-        "last_checked": "02-04-2020 04:33:35",
+        "last_checked": "02-04-2020 05:33:36",
         "status": "Good",
         "response_time": 12,
-        "date_added": "02-04-2020 04:33:35",
+        "date_added": "02-04-2020 05:33:36",
         "ipinfo": {
-            "51.254.249.186": {
-                "ccode": "DE",
-                "cname": "Germany",
-                "isp": "OVH SAS"
+            "95.216.171.255": {
+                "ccode": "FI",
+                "cname": "Finland",
+                "isp": "Hetzner Online GmbH"
             }
         }
     },
     "udp:\/\/tracker.ds.is:6969\/announce": {
-        "last_checked": "02-04-2020 04:32:35",
+        "last_checked": "02-04-2020 05:32:36",
         "status": "Good",
-        "response_time": 108,
-        "date_added": "02-04-2020 04:32:35",
+        "response_time": 1,
+        "date_added": "02-04-2020 05:32:36",
         "ipinfo": {
             "5.226.148.20": {
                 "ccode": "CH",
@@ -1651,15 +1651,15 @@
         }
     },
     "http:\/\/h4.trakx.nibba.trade:80\/announce": {
-        "last_checked": "02-04-2020 04:31:47",
+        "last_checked": "02-04-2020 05:31:46",
         "status": "Good",
-        "response_time": 15,
-        "date_added": "02-04-2020 04:31:47",
+        "response_time": 17,
+        "date_added": "02-04-2020 05:31:46",
         "ipinfo": {
-            "3.228.157.109": {
+            "34.192.123.246": {
                 "ccode": "US",
                 "cname": "United States",
-                "isp": "Amazon Technologies Inc."
+                "isp": "Amazon.com, Inc."
             }
         }
     },
@@ -1698,12 +1698,12 @@
         }
     },
     "https:\/\/tracker.nanoha.org:443\/announce": {
-        "last_checked": "02-04-2020 04:33:31",
+        "last_checked": "02-04-2020 05:33:32",
         "status": "Good",
-        "response_time": 7,
-        "date_added": "02-04-2020 04:33:31",
+        "response_time": 9,
+        "date_added": "02-04-2020 05:33:32",
         "ipinfo": {
-            "104.28.16.38": {
+            "104.28.17.38": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1742,10 +1742,10 @@
         "response_time": 78,
         "date_added": "01-04-2020 09:34:01",
         "ipinfo": {
-            "51.254.249.186": {
-                "ccode": "DE",
-                "cname": "Germany",
-                "isp": "OVH SAS"
+            "95.216.171.255": {
+                "ccode": "FI",
+                "cname": "Finland",
+                "isp": "Hetzner Online GmbH"
             }
         }
     },
@@ -1828,10 +1828,10 @@
         }
     },
     "udp:\/\/valakas.rollo.dnsabr.com:2710\/announce": {
-        "last_checked": "02-04-2020 04:31:38",
+        "last_checked": "02-04-2020 05:31:35",
         "status": "Good",
-        "response_time": 1,
-        "date_added": "02-04-2020 04:31:38",
+        "response_time": 76,
+        "date_added": "02-04-2020 05:31:35",
         "ipinfo": {
             "46.148.18.250": {
                 "ccode": "UA",
@@ -1841,10 +1841,10 @@
         }
     },
     "udp:\/\/xxxtor.com:2710\/announce": {
-        "last_checked": "02-04-2020 04:31:55",
+        "last_checked": "02-04-2020 05:31:56",
         "status": "Good",
         "response_time": 12,
-        "date_added": "02-04-2020 04:31:55",
+        "date_added": "02-04-2020 05:31:56",
         "ipinfo": {
             "31.210.170.169": {
                 "ccode": "NL",
@@ -1880,10 +1880,10 @@
         }
     },
     "http:\/\/tracker.kamigami.org:2710\/announce": {
-        "last_checked": "02-04-2020 04:32:48",
+        "last_checked": "02-04-2020 05:32:49",
         "status": "Good",
-        "response_time": 89,
-        "date_added": "02-04-2020 04:32:48",
+        "response_time": 97,
+        "date_added": "02-04-2020 05:32:49",
         "ipinfo": {
             "78.46.225.225": {
                 "ccode": "DE",
@@ -1898,7 +1898,7 @@
         "response_time": 18,
         "date_added": "13-10-2019 09:34:25",
         "ipinfo": {
-            "104.24.110.210": {
+            "104.24.111.210": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -1906,10 +1906,10 @@
         }
     },
     "https:\/\/tracker.hama3.net:443\/announce": {
-        "last_checked": "02-04-2020 04:35:24",
+        "last_checked": "02-04-2020 05:35:37",
         "status": "Good",
-        "response_time": 172,
-        "date_added": "02-04-2020 04:35:24",
+        "response_time": 165,
+        "date_added": "02-04-2020 05:35:37",
         "ipinfo": {
             "150.95.156.180": {
                 "ccode": "JP",
@@ -1932,10 +1932,10 @@
         }
     },
     "http:\/\/www.loushao.net:8080\/announce": {
-        "last_checked": "02-04-2020 04:34:38",
+        "last_checked": "02-04-2020 05:34:43",
         "status": "Good",
-        "response_time": 264,
-        "date_added": "02-04-2020 04:34:38",
+        "response_time": 257,
+        "date_added": "02-04-2020 05:34:43",
         "ipinfo": {
             "182.150.53.61": {
                 "ccode": "CN",
@@ -1971,10 +1971,10 @@
         }
     },
     "udp:\/\/p4p.arenabg.com:1337\/announce": {
-        "last_checked": "02-04-2020 04:30:23",
+        "last_checked": "02-04-2020 05:30:22",
         "status": "Good",
-        "response_time": 121,
-        "date_added": "02-04-2020 04:30:23",
+        "response_time": 1,
+        "date_added": "02-04-2020 05:30:22",
         "ipinfo": {
             "62.210.97.59": {
                 "ccode": "FR",
@@ -2029,7 +2029,7 @@
         "response_time": 6,
         "date_added": "23-03-2020 10:34:35",
         "ipinfo": {
-            "104.31.74.224": {
+            "104.31.75.224": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -2037,10 +2037,10 @@
         }
     },
     "udp:\/\/tracker.sbsub.com:2710\/announce": {
-        "last_checked": "02-04-2020 04:30:48",
+        "last_checked": "02-04-2020 05:30:51",
         "status": "Good",
-        "response_time": 16,
-        "date_added": "02-04-2020 04:30:48",
+        "response_time": 15,
+        "date_added": "02-04-2020 05:30:51",
         "ipinfo": {
             "37.235.174.46": {
                 "ccode": "RU",
@@ -2050,10 +2050,10 @@
         }
     },
     "udp:\/\/open.nyap2p.com:6969\/announce": {
-        "last_checked": "02-04-2020 04:32:13",
+        "last_checked": "02-04-2020 05:32:13",
         "status": "Good",
-        "response_time": 13,
-        "date_added": "02-04-2020 04:32:13",
+        "response_time": 14,
+        "date_added": "02-04-2020 05:32:13",
         "ipinfo": {
             "173.82.240.104": {
                 "ccode": "US",
@@ -2089,12 +2089,12 @@
         }
     },
     "https:\/\/tracker.parrotlinux.org:443\/announce": {
-        "last_checked": "02-04-2020 04:33:43",
+        "last_checked": "02-04-2020 05:33:44",
         "status": "Good",
-        "response_time": 8,
-        "date_added": "02-04-2020 04:33:43",
+        "response_time": 7,
+        "date_added": "02-04-2020 05:33:44",
         "ipinfo": {
-            "2606:4700:3036::681c:45b": {
+            "104.28.4.91": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -2109,12 +2109,12 @@
         "ipinfo": []
     },
     "http:\/\/tracker.nyap2p.com:8080\/announce": {
-        "last_checked": "02-04-2020 04:31:14",
+        "last_checked": "02-04-2020 05:31:12",
         "status": "Good",
-        "response_time": 18,
-        "date_added": "02-04-2020 04:31:14",
+        "response_time": 15,
+        "date_added": "02-04-2020 05:31:12",
         "ipinfo": {
-            "2606:4700:e0::ac40:6107": {
+            "172.64.96.7": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -2122,10 +2122,10 @@
         }
     },
     "udp:\/\/opentracker.i2p.rocks:6969\/announce": {
-        "last_checked": "02-04-2020 04:32:09",
+        "last_checked": "02-04-2020 05:32:08",
         "status": "Good",
-        "response_time": 99,
-        "date_added": "02-04-2020 04:32:09",
+        "response_time": 103,
+        "date_added": "02-04-2020 05:32:08",
         "ipinfo": {
             "185.83.214.123": {
                 "ccode": "PT",
@@ -2135,10 +2135,10 @@
         }
     },
     "http:\/\/opentracker.i2p.rocks:6969\/announce": {
-        "last_checked": "02-04-2020 04:32:30",
+        "last_checked": "02-04-2020 05:32:30",
         "status": "Good",
-        "response_time": 97,
-        "date_added": "02-04-2020 04:32:30",
+        "response_time": 98,
+        "date_added": "02-04-2020 05:32:30",
         "ipinfo": {
             "185.83.214.123": {
                 "ccode": "PT",
@@ -2148,10 +2148,10 @@
         }
     },
     "udp:\/\/tracker.zerobytes.xyz:1337\/announce": {
-        "last_checked": "02-04-2020 04:31:59",
+        "last_checked": "02-04-2020 05:32:00",
         "status": "Good",
-        "response_time": 71,
-        "date_added": "02-04-2020 04:31:59",
+        "response_time": 72,
+        "date_added": "02-04-2020 05:32:00",
         "ipinfo": {
             "51.15.55.204": {
                 "ccode": "NL",
@@ -2161,10 +2161,10 @@
         }
     },
     "http:\/\/tracker.zerobytes.xyz:1337\/announce": {
-        "last_checked": "02-04-2020 04:32:22",
+        "last_checked": "02-04-2020 05:32:21",
         "status": "Good",
-        "response_time": 150,
-        "date_added": "02-04-2020 04:32:22",
+        "response_time": 78,
+        "date_added": "02-04-2020 05:32:21",
         "ipinfo": {
             "51.15.55.204": {
                 "ccode": "NL",
@@ -2181,10 +2181,10 @@
         "ipinfo": []
     },
     "http:\/\/trun.tom.ru:80\/announce": {
-        "last_checked": "02-04-2020 04:34:43",
+        "last_checked": "02-04-2020 05:34:49",
         "status": "Good",
-        "response_time": 1380,
-        "date_added": "02-04-2020 04:34:43",
+        "response_time": 1385,
+        "date_added": "02-04-2020 05:34:49",
         "ipinfo": {
             "153.92.6.87": {
                 "ccode": "GB",
@@ -2207,10 +2207,10 @@
         }
     },
     "udp:\/\/www.loushao.net:8080\/announce": {
-        "last_checked": "02-04-2020 04:34:11",
+        "last_checked": "02-04-2020 05:34:17",
         "status": "Good",
-        "response_time": 325,
-        "date_added": "02-04-2020 04:34:11",
+        "response_time": 2963,
+        "date_added": "02-04-2020 05:34:17",
         "ipinfo": {
             "182.150.53.61": {
                 "ccode": "CN",
@@ -2240,10 +2240,10 @@
         }
     },
     "udp:\/\/cx42light.cn:39652\/announce": {
-        "last_checked": "02-04-2020 04:34:34",
+        "last_checked": "02-04-2020 05:34:38",
         "status": "Good",
-        "response_time": 550,
-        "date_added": "02-04-2020 04:34:34",
+        "response_time": 471,
+        "date_added": "02-04-2020 05:34:38",
         "ipinfo": {
             "62.234.156.195": {
                 "ccode": "CN",
@@ -2279,10 +2279,10 @@
         }
     },
     "http:\/\/tracker.gcvchp.com:2710\/announce": {
-        "last_checked": "02-04-2020 04:35:36",
+        "last_checked": "02-04-2020 05:35:49",
         "status": "Good",
-        "response_time": 89,
-        "date_added": "02-04-2020 04:35:36",
+        "response_time": 78,
+        "date_added": "02-04-2020 05:35:49",
         "ipinfo": {
             "149.28.95.5": {
                 "ccode": "US",
@@ -2292,10 +2292,10 @@
         }
     },
     "https:\/\/tracker.sloppyta.co:443\/announce": {
-        "last_checked": "02-04-2020 04:33:23",
+        "last_checked": "02-04-2020 05:33:24",
         "status": "Good",
-        "response_time": 95,
-        "date_added": "02-04-2020 04:33:23",
+        "response_time": 172,
+        "date_added": "02-04-2020 05:33:24",
         "ipinfo": {
             "94.23.3.148": {
                 "ccode": "FR",
@@ -2305,10 +2305,10 @@
         }
     },
     "http:\/\/t.overflow.biz:6969\/announce": {
-        "last_checked": "02-04-2020 04:34:54",
+        "last_checked": "02-04-2020 05:35:01",
         "status": "Good",
-        "response_time": 1197,
-        "date_added": "02-04-2020 04:34:54",
+        "response_time": 1166,
+        "date_added": "02-04-2020 05:35:01",
         "ipinfo": {
             "201.68.205.90": {
                 "ccode": "BR",
@@ -2325,10 +2325,10 @@
         "ipinfo": []
     },
     "udp:\/\/chihaya.de:6969\/announce": {
-        "last_checked": "02-04-2020 04:33:14",
+        "last_checked": "02-04-2020 05:33:15",
         "status": "Good",
-        "response_time": 102,
-        "date_added": "02-04-2020 04:33:14",
+        "response_time": 101,
+        "date_added": "02-04-2020 05:33:15",
         "ipinfo": {
             "94.237.82.46": {
                 "ccode": "DE",
@@ -2338,12 +2338,12 @@
         }
     },
     "https:\/\/tracker.nitrix.me:443\/announce": {
-        "last_checked": "02-04-2020 04:33:27",
+        "last_checked": "02-04-2020 05:33:28",
         "status": "Good",
         "response_time": 7,
-        "date_added": "02-04-2020 04:33:27",
+        "date_added": "02-04-2020 05:33:28",
         "ipinfo": {
-            "104.31.64.140": {
+            "104.31.65.140": {
                 "ccode": "US",
                 "cname": "United States",
                 "isp": "Cloudflare, Inc."
@@ -2377,10 +2377,10 @@
         }
     },
     "http:\/\/tracker.dler.org:6969\/announce": {
-        "last_checked": "02-04-2020 04:34:06",
+        "last_checked": "02-04-2020 05:34:08",
         "status": "Good",
-        "response_time": 219,
-        "date_added": "02-04-2020 04:34:06",
+        "response_time": 217,
+        "date_added": "02-04-2020 05:34:08",
         "ipinfo": {
             "211.20.153.139": {
                 "ccode": "TW",
@@ -2429,36 +2429,10 @@
         }
     },
     "https:\/\/t1.leech.ie:443\/announce": {
-        "last_checked": "02-04-2020 04:33:53",
+        "last_checked": "02-04-2020 05:33:55",
         "status": "Good",
         "response_time": 8,
-        "date_added": "02-04-2020 04:33:53",
-        "ipinfo": {
-            "2606:4700:3036::681c:ad7": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
-            }
-        }
-    },
-    "https:\/\/t3.leech.ie:443\/announce": {
-        "last_checked": "02-04-2020 04:35:28",
-        "status": "Good",
-        "response_time": 16,
-        "date_added": "02-04-2020 04:35:28",
-        "ipinfo": {
-            "104.28.10.215": {
-                "ccode": "US",
-                "cname": "United States",
-                "isp": "Cloudflare, Inc."
-            }
-        }
-    },
-    "https:\/\/t2.leech.ie:443\/announce": {
-        "last_checked": "02-04-2020 04:35:32",
-        "status": "Good",
-        "response_time": 8,
-        "date_added": "02-04-2020 04:35:32",
+        "date_added": "02-04-2020 05:33:55",
         "ipinfo": {
             "2606:4700:3030::681c:bd7": {
                 "ccode": "US",
@@ -2467,11 +2441,37 @@
             }
         }
     },
-    "udp:\/\/tracker.army:6969\/announce": {
-        "last_checked": "02-04-2020 04:33:18",
+    "https:\/\/t3.leech.ie:443\/announce": {
+        "last_checked": "02-04-2020 05:35:41",
         "status": "Good",
-        "response_time": 31,
-        "date_added": "02-04-2020 04:33:18",
+        "response_time": 11,
+        "date_added": "02-04-2020 05:35:41",
+        "ipinfo": {
+            "104.28.11.215": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "https:\/\/t2.leech.ie:443\/announce": {
+        "last_checked": "02-04-2020 05:35:45",
+        "status": "Good",
+        "response_time": 8,
+        "date_added": "02-04-2020 05:35:45",
+        "ipinfo": {
+            "104.28.11.215": {
+                "ccode": "US",
+                "cname": "United States",
+                "isp": "Cloudflare, Inc."
+            }
+        }
+    },
+    "udp:\/\/tracker.army:6969\/announce": {
+        "last_checked": "02-04-2020 05:33:19",
+        "status": "Good",
+        "response_time": 19,
+        "date_added": "02-04-2020 05:33:19",
         "ipinfo": {
             "103.196.36.31": {
                 "ccode": "US",
